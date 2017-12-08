@@ -1,0 +1,14 @@
+1-1-1	*/prevention	nouse
+1-1-1	*/prevention/debarment	nouse
+1-1-1	*/prevention/nonproliferation	nouse
+1-1-1	*/prevention/prophylaxis	nouse
+1-1-1	*/prevention/interception	nouse
+1-1-1	*/prevention/suppression	nouse
+1-1-1	*/prevention/obviation	nouse
+1-1-1	*/prevention/averting	nouse
+1-1-1	*/prevention/disqualification	nouse
+1-1-1	*/prevention/save	nouse
+1-1-1	*/prevention/debarment/suspension	nouse
+1-1-1	*/prevention/debarment/suspension/rustication	nouse
+1-1-1	*/prevention/suppression/crackdown	nouse
+1-1-1	*/prevention/disqualification/recusation	nouse

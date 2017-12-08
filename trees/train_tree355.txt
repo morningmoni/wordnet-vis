@@ -1,0 +1,12 @@
+1-1-1	*/constrictor	nouse
+1-1-1	*/constrictor/boa	nouse
+1-1-1	*/constrictor/boa/boa_$_constrictor	nouse
+1-1-1	*/constrictor/boa/rosy_$_boa	nouse
+1-1-1	*/constrictor/boa/rubber_$_boa	nouse
+1-1-1	*/constrictor/boa/python	nouse
+1-1-1	*/constrictor/boa/anaconda	nouse
+1-1-1	*/constrictor/boa/python/amethystine_$_python	nouse
+1-1-1	*/constrictor/boa/python/carpet_$_snake	nouse
+1-1-1	*/constrictor/boa/python/reticulated_$_python	nouse
+1-1-1	*/constrictor/boa/python/rock_$_python	nouse
+1-1-1	*/constrictor/boa/python/Indian_$_python	nouse

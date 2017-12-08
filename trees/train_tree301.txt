@@ -1,0 +1,13 @@
+1-1-1	*/meadowgrass	nouse
+1-1-1	*/meadowgrass/wood_$_meadowgrass	nouse
+1-1-1	*/meadowgrass/manna_$_grass	nouse
+1-1-1	*/meadowgrass/foxtail	nouse
+1-1-1	*/meadowgrass/manna_$_grass/reed_$_meadow_$_grass	nouse
+1-1-1	*/meadowgrass/foxtail/giant_$_foxtail	nouse
+1-1-1	*/meadowgrass/foxtail/green_$_bristlegrass	nouse
+1-1-1	*/meadowgrass/foxtail/bristlegrass	nouse
+1-1-1	*/meadowgrass/foxtail/foxtail_$_millet	nouse
+1-1-1	*/meadowgrass/foxtail/meadow_$_foxtail	nouse
+1-1-1	*/meadowgrass/foxtail/yellow_$_bristlegrass	nouse
+1-1-1	*/meadowgrass/foxtail/foxtail_$_millet/German_$_millet	nouse
+1-1-1	*/meadowgrass/foxtail/foxtail_$_millet/Siberian_$_millet	nouse

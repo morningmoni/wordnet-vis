@@ -1,0 +1,17 @@
+1-1-1	*/natural_$_virtue	nouse
+1-1-1	*/natural_$_virtue/prudence	nouse
+1-1-1	*/natural_$_virtue/temperance	nouse
+1-1-1	*/natural_$_virtue/fortitude	nouse
+1-1-1	*/natural_$_virtue/justice	nouse
+1-1-1	*/natural_$_virtue/prudence/providence	nouse
+1-1-1	*/natural_$_virtue/prudence/frugality	nouse
+1-1-1	*/natural_$_virtue/prudence/providence/foresight	nouse
+1-1-1	*/natural_$_virtue/prudence/frugality/economy	nouse
+1-1-1	*/natural_$_virtue/prudence/frugality/parsimony	nouse
+1-1-1	*/natural_$_virtue/temperance/abstemiousness	nouse
+1-1-1	*/natural_$_virtue/temperance/sobriety	nouse
+1-1-1	*/natural_$_virtue/fortitude/backbone	nouse
+1-1-1	*/natural_$_virtue/justice/fairness	nouse
+1-1-1	*/natural_$_virtue/justice/right	nouse
+1-1-1	*/natural_$_virtue/justice/fairness/sportsmanship	nouse
+1-1-1	*/natural_$_virtue/justice/fairness/non-discrimination	nouse

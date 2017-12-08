@@ -1,0 +1,15 @@
+1-1-1	*/hostility	nouse
+1-1-1	*/hostility/resentment	nouse
+1-1-1	*/hostility/belligerence	nouse
+1-1-1	*/hostility/animosity	nouse
+1-1-1	*/hostility/antagonism	nouse
+1-1-1	*/hostility/aggression	nouse
+1-1-1	*/hostility/class_$_feeling	nouse
+1-1-1	*/hostility/resentment/heartburning	nouse
+1-1-1	*/hostility/resentment/envy	nouse
+1-1-1	*/hostility/resentment/grudge	nouse
+1-1-1	*/hostility/resentment/sulkiness	nouse
+1-1-1	*/hostility/resentment/envy/covetousness	nouse
+1-1-1	*/hostility/resentment/envy/penis_$_envy	nouse
+1-1-1	*/hostility/resentment/envy/jealousy	nouse
+1-1-1	*/hostility/belligerence/warpath	nouse

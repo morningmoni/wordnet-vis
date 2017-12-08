@@ -1,0 +1,11 @@
+1-1-1	*/rise	nouse
+1-1-1	*/rise/levitation	nouse
+1-1-1	*/rise/heave	nouse
+1-1-1	*/rise/soar	nouse
+1-1-1	*/rise/climb	nouse
+1-1-1	*/rise/climb/rock_$_climbing	nouse
+1-1-1	*/rise/climb/mountain_$_climbing	nouse
+1-1-1	*/rise/climb/scaling	nouse
+1-1-1	*/rise/climb/clamber	nouse
+1-1-1	*/rise/climb/mountain_$_climbing/Alpinism	nouse
+1-1-1	*/rise/climb/scaling/escalade	nouse

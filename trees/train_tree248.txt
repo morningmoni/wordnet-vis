@@ -1,0 +1,11 @@
+1-1-1	*/fitting	nouse
+1-1-1	*/fitting/pipefitting	nouse
+1-1-1	*/fitting/receptacle	nouse
+1-1-1	*/fitting/gas_$_fitting	nouse
+1-1-1	*/fitting/pipefitting/reducer	nouse
+1-1-1	*/fitting/receptacle/wall_$_socket	nouse
+1-1-1	*/fitting/receptacle/socket	nouse
+1-1-1	*/fitting/receptacle/slot	nouse
+1-1-1	*/fitting/receptacle/outlet_$_box	nouse
+1-1-1	*/fitting/receptacle/wall_$_socket/point	nouse
+1-1-1	*/fitting/receptacle/socket/electric_$_socket	nouse

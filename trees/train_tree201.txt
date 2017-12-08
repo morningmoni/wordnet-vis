@@ -1,0 +1,14 @@
+1-1-1	*/pouch	nouse
+1-1-1	*/pouch/pocket	nouse
+1-1-1	*/pouch/sporran	nouse
+1-1-1	*/pouch/tobacco_$_pouch	nouse
+1-1-1	*/pouch/waist_$_pack	nouse
+1-1-1	*/pouch/mailbag	nouse
+1-1-1	*/pouch/pocket/vest_$_pocket	nouse
+1-1-1	*/pouch/pocket/hip_$_pocket	nouse
+1-1-1	*/pouch/pocket/patch_$_pocket	nouse
+1-1-1	*/pouch/pocket/breast_$_pocket	nouse
+1-1-1	*/pouch/pocket/slash_$_pocket	nouse
+1-1-1	*/pouch/pocket/vest_$_pocket/fob	nouse
+1-1-1	*/pouch/waist_$_pack/fanny_$_pack	nouse
+1-1-1	*/pouch/mailbag/diplomatic_$_pouch	nouse

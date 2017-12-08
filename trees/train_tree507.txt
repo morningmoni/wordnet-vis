@@ -1,0 +1,17 @@
+1-1-1	*/program	nouse
+1-1-1	*/program/rehabilitation_$_program	nouse
+1-1-1	*/program/tax_$_program	nouse
+1-1-1	*/program/defense_$_program	nouse
+1-1-1	*/program/Superfund_$_program	nouse
+1-1-1	*/program/space_$_program	nouse
+1-1-1	*/program/educational_$_program	nouse
+1-1-1	*/program/works_$_program	nouse
+1-1-1	*/program/rehabilitation_$_program/vocational_$_rehabilitation_$_program	nouse
+1-1-1	*/program/space_$_program/Apollo_$_program	nouse
+1-1-1	*/program/space_$_program/Gemini_$_program	nouse
+1-1-1	*/program/space_$_program/Mercury_$_program	nouse
+1-1-1	*/program/educational_$_program/training_$_program	nouse
+1-1-1	*/program/educational_$_program/vocational_$_program	nouse
+1-1-1	*/program/educational_$_program/academic_$_program	nouse
+1-1-1	*/program/educational_$_program/training_$_program/preemployment_$_training_$_program	nouse
+1-1-1	*/program/educational_$_program/training_$_program/biofeedback	nouse

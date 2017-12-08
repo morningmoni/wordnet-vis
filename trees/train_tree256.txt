@@ -1,0 +1,12 @@
+1-1-1	*/phase_$_change	nouse
+1-1-1	*/phase_$_change/liquefaction	nouse
+1-1-1	*/phase_$_change/thaw	nouse
+1-1-1	*/phase_$_change/vaporization	nouse
+1-1-1	*/phase_$_change/freeze	nouse
+1-1-1	*/phase_$_change/liquefaction/dissolving	nouse
+1-1-1	*/phase_$_change/vaporization/clouding	nouse
+1-1-1	*/phase_$_change/vaporization/boiling	nouse
+1-1-1	*/phase_$_change/vaporization/smoke	nouse
+1-1-1	*/phase_$_change/vaporization/boiling/decoction_$_process	nouse
+1-1-1	*/phase_$_change/freeze/freeze-drying	nouse
+1-1-1	*/phase_$_change/freeze/frost	nouse

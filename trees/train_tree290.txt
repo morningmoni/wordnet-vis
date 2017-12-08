@@ -1,0 +1,11 @@
+1-1-1	*/fold	nouse
+1-1-1	*/fold/pucker	nouse
+1-1-1	*/fold/pleat	nouse
+1-1-1	*/fold/kink	nouse
+1-1-1	*/fold/pleat/kick_$_pleat	nouse
+1-1-1	*/fold/pleat/tuck	nouse
+1-1-1	*/fold/pleat/knife_$_pleat	nouse
+1-1-1	*/fold/pleat/inverted_$_pleat	nouse
+1-1-1	*/fold/pleat/box_$_pleat	nouse
+1-1-1	*/fold/pleat/tuck/dart	nouse
+1-1-1	*/fold/pleat/knife_$_pleat/sunburst_$_pleat	nouse

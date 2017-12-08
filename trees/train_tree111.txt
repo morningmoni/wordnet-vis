@@ -1,0 +1,11 @@
+1-1-1	*/fertilization	nouse
+1-1-1	*/fertilization/self-fertilization	nouse
+1-1-1	*/fertilization/cross-fertilization	nouse
+1-1-1	*/fertilization/pollination	nouse
+1-1-1	*/fertilization/superfetation	nouse
+1-1-1	*/fertilization/superfecundation	nouse
+1-1-1	*/fertilization/self-fertilization/autogamy	nouse
+1-1-1	*/fertilization/cross-fertilization/allogamy	nouse
+1-1-1	*/fertilization/pollination/self-pollination	nouse
+1-1-1	*/fertilization/pollination/cross-pollination	nouse
+1-1-1	*/fertilization/pollination/self-pollination/cleistogamy	nouse

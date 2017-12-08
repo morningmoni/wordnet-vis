@@ -1,0 +1,13 @@
+1-1-1	*/cell	nouse
+1-1-1	*/cell/voltaic_$_cell	nouse
+1-1-1	*/cell/storage_$_cell	nouse
+1-1-1	*/cell/fuel_$_cell	nouse
+1-1-1	*/cell/solar_$_cell	nouse
+1-1-1	*/cell/electrolytic_$_cell	nouse
+1-1-1	*/cell/voltaic_$_cell/mercury_$_cell	nouse
+1-1-1	*/cell/voltaic_$_cell/Leclanche_$_cell	nouse
+1-1-1	*/cell/voltaic_$_cell/standard_$_cell	nouse
+1-1-1	*/cell/voltaic_$_cell/wet_$_cell	nouse
+1-1-1	*/cell/voltaic_$_cell/Leclanche_$_cell/dry_$_cell	nouse
+1-1-1	*/cell/voltaic_$_cell/standard_$_cell/Weston_$_cell	nouse
+1-1-1	*/cell/voltaic_$_cell/standard_$_cell/Clark_$_cell	nouse

@@ -1,0 +1,12 @@
+1-1-1	*/logic	nouse
+1-1-1	*/logic/symbolic_$_logic	nouse
+1-1-1	*/logic/Aristotelian_$_logic	nouse
+1-1-1	*/logic/symbolic_$_logic/modal_$_logic	nouse
+1-1-1	*/logic/symbolic_$_logic/fuzzy_$_logic	nouse
+1-1-1	*/logic/symbolic_$_logic/predicate_$_calculus	nouse
+1-1-1	*/logic/symbolic_$_logic/propositional_$_logic	nouse
+1-1-1	*/logic/symbolic_$_logic/Boolean_$_logic	nouse
+1-1-1	*/logic/symbolic_$_logic/modal_$_logic/alethic_$_logic	nouse
+1-1-1	*/logic/symbolic_$_logic/modal_$_logic/doxastic_$_logic	nouse
+1-1-1	*/logic/symbolic_$_logic/modal_$_logic/epistemic_$_logic	nouse
+1-1-1	*/logic/symbolic_$_logic/modal_$_logic/deontic_$_logic	nouse

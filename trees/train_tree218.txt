@@ -1,0 +1,13 @@
+1-1-1	*/malacostracan_$_crustacean	nouse
+1-1-1	*/malacostracan_$_crustacean/isopod	nouse
+1-1-1	*/malacostracan_$_crustacean/krill	nouse
+1-1-1	*/malacostracan_$_crustacean/amphipod	nouse
+1-1-1	*/malacostracan_$_crustacean/opossum_$_shrimp	nouse
+1-1-1	*/malacostracan_$_crustacean/isopod/sea_$_louse	nouse
+1-1-1	*/malacostracan_$_crustacean/isopod/woodlouse	nouse
+1-1-1	*/malacostracan_$_crustacean/isopod/woodlouse/sow_$_bug	nouse
+1-1-1	*/malacostracan_$_crustacean/isopod/woodlouse/pill_$_bug	nouse
+1-1-1	*/malacostracan_$_crustacean/krill/Euphausia_$_pacifica	nouse
+1-1-1	*/malacostracan_$_crustacean/amphipod/whale_$_louse	nouse
+1-1-1	*/malacostracan_$_crustacean/amphipod/skeleton_$_shrimp	nouse
+1-1-1	*/malacostracan_$_crustacean/amphipod/beach_$_flea	nouse

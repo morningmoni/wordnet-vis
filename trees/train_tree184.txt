@@ -1,0 +1,11 @@
+1-1-1	*/safety	nouse
+1-1-1	*/safety/salvation	nouse
+1-1-1	*/safety/invulnerability	nouse
+1-1-1	*/safety/risklessness	nouse
+1-1-1	*/safety/security	nouse
+1-1-1	*/safety/biosafety	nouse
+1-1-1	*/safety/security/peace	nouse
+1-1-1	*/safety/security/protection	nouse
+1-1-1	*/safety/security/secureness	nouse
+1-1-1	*/safety/security/protection/indemnity	nouse
+1-1-1	*/safety/security/protection/radioprotection	nouse

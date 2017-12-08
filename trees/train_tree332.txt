@@ -1,0 +1,17 @@
+1-1-1	*/pit_$_viper	nouse
+1-1-1	*/pit_$_viper/copperhead	nouse
+1-1-1	*/pit_$_viper/rattlesnake	nouse
+1-1-1	*/pit_$_viper/fer-de-lance	nouse
+1-1-1	*/pit_$_viper/water_$_moccasin	nouse
+1-1-1	*/pit_$_viper/rattlesnake/prairie_$_rattlesnake	nouse
+1-1-1	*/pit_$_viper/rattlesnake/ground_$_rattler	nouse
+1-1-1	*/pit_$_viper/rattlesnake/Western_$_diamondback	nouse
+1-1-1	*/pit_$_viper/rattlesnake/massasauga	nouse
+1-1-1	*/pit_$_viper/rattlesnake/rock_$_rattlesnake	nouse
+1-1-1	*/pit_$_viper/rattlesnake/Mojave_$_rattlesnake	nouse
+1-1-1	*/pit_$_viper/rattlesnake/timber_$_rattlesnake	nouse
+1-1-1	*/pit_$_viper/rattlesnake/sidewinder	nouse
+1-1-1	*/pit_$_viper/rattlesnake/tiger_$_rattlesnake	nouse
+1-1-1	*/pit_$_viper/rattlesnake/speckled_$_rattlesnake	nouse
+1-1-1	*/pit_$_viper/rattlesnake/diamondback	nouse
+1-1-1	*/pit_$_viper/rattlesnake/timber_$_rattlesnake/canebrake_$_rattlesnake	nouse

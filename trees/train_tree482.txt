@@ -1,0 +1,16 @@
+1-1-1	*/evidence	nouse
+1-1-1	*/evidence/exhibit	nouse
+1-1-1	*/evidence/direct_$_evidence	nouse
+1-1-1	*/evidence/hearsay_$_evidence	nouse
+1-1-1	*/evidence/circumstantial_$_evidence	nouse
+1-1-1	*/evidence/state's_$_evidence	nouse
+1-1-1	*/evidence/corroborating_$_evidence	nouse
+1-1-1	*/evidence/corpus_$_delicti	nouse
+1-1-1	*/evidence/testimony	nouse
+1-1-1	*/evidence/testimony/subornation	nouse
+1-1-1	*/evidence/testimony/affidavit	nouse
+1-1-1	*/evidence/testimony/declaration	nouse
+1-1-1	*/evidence/testimony/witness	nouse
+1-1-1	*/evidence/testimony/attestation	nouse
+1-1-1	*/evidence/testimony/affidavit/verification	nouse
+1-1-1	*/evidence/testimony/witness/shahadah	nouse

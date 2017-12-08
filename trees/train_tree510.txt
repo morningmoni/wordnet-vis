@@ -1,0 +1,12 @@
+1-1-1	*/calibration	nouse
+1-1-1	*/calibration/tuning	nouse
+1-1-1	*/calibration/adjustment	nouse
+1-1-1	*/calibration/adjustment/collimation	nouse
+1-1-1	*/calibration/adjustment/temperament	nouse
+1-1-1	*/calibration/adjustment/tune-up	nouse
+1-1-1	*/calibration/adjustment/alignment	nouse
+1-1-1	*/calibration/adjustment/voicing	nouse
+1-1-1	*/calibration/adjustment/synchronization	nouse
+1-1-1	*/calibration/adjustment/temperament/equal_$_temperament	nouse
+1-1-1	*/calibration/adjustment/alignment/toe-in	nouse
+1-1-1	*/calibration/adjustment/alignment/camber	nouse

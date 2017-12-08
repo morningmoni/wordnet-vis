@@ -1,0 +1,13 @@
+1-1-1	*/armor	nouse
+1-1-1	*/armor/body_$_armor	nouse
+1-1-1	*/armor/shield	nouse
+1-1-1	*/armor/body_$_armor/bulletproof_$_vest	nouse
+1-1-1	*/armor/body_$_armor/corselet	nouse
+1-1-1	*/armor/body_$_armor/cuirass	nouse
+1-1-1	*/armor/body_$_armor/chain_$_mail	nouse
+1-1-1	*/armor/body_$_armor/chain_$_mail/habergeon	nouse
+1-1-1	*/armor/body_$_armor/chain_$_mail/brigandine	nouse
+1-1-1	*/armor/body_$_armor/chain_$_mail/voider	nouse
+1-1-1	*/armor/body_$_armor/chain_$_mail/hauberk	nouse
+1-1-1	*/armor/shield/pavis	nouse
+1-1-1	*/armor/shield/escutcheon	nouse

@@ -1,0 +1,14 @@
+1-1-1	*/ad	nouse
+1-1-1	*/ad/mailer	nouse
+1-1-1	*/ad/top_$_billing	nouse
+1-1-1	*/ad/preview	nouse
+1-1-1	*/ad/commercial	nouse
+1-1-1	*/ad/direct_$_mail	nouse
+1-1-1	*/ad/advertorial	nouse
+1-1-1	*/ad/teaser	nouse
+1-1-1	*/ad/circular	nouse
+1-1-1	*/ad/newspaper_$_ad	nouse
+1-1-1	*/ad/commercial/infomercial	nouse
+1-1-1	*/ad/circular/stuffer	nouse
+1-1-1	*/ad/newspaper_$_ad/classified_$_ad	nouse
+1-1-1	*/ad/newspaper_$_ad/classified_$_ad/want_$_ad	nouse

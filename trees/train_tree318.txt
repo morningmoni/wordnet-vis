@@ -1,0 +1,16 @@
+1-1-1	*/reference_$_point	nouse
+1-1-1	*/reference_$_point/lubber's_$_line	nouse
+1-1-1	*/reference_$_point/white_$_line	nouse
+1-1-1	*/reference_$_point/landmark	nouse
+1-1-1	*/reference_$_point/buoy	nouse
+1-1-1	*/reference_$_point/target	nouse
+1-1-1	*/reference_$_point/benchmark	nouse
+1-1-1	*/reference_$_point/landmark/merestone	nouse
+1-1-1	*/reference_$_point/buoy/spar_$_buoy	nouse
+1-1-1	*/reference_$_point/buoy/acoustic_$_buoy	nouse
+1-1-1	*/reference_$_point/buoy/can	nouse
+1-1-1	*/reference_$_point/buoy/conical_$_buoy	nouse
+1-1-1	*/reference_$_point/buoy/acoustic_$_buoy/whistle_$_buoy	nouse
+1-1-1	*/reference_$_point/buoy/acoustic_$_buoy/bell_$_buoy	nouse
+1-1-1	*/reference_$_point/target/clout	nouse
+1-1-1	*/reference_$_point/target/drogue	nouse

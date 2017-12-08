@@ -1,0 +1,14 @@
+1-1-1	*/oratory	nouse
+1-1-1	*/oratory/declamation	nouse
+1-1-1	*/oratory/oration	nouse
+1-1-1	*/oratory/salutatory_$_address	nouse
+1-1-1	*/oratory/stump_$_speech	nouse
+1-1-1	*/oratory/epideictic_$_oratory	nouse
+1-1-1	*/oratory/valediction	nouse
+1-1-1	*/oratory/keynote_$_speech	nouse
+1-1-1	*/oratory/nominating_$_speech	nouse
+1-1-1	*/oratory/declamation/tirade	nouse
+1-1-1	*/oratory/declamation/harangue	nouse
+1-1-1	*/oratory/declamation/raving	nouse
+1-1-1	*/oratory/declamation/harangue/screed	nouse
+1-1-1	*/oratory/oration/peroration	nouse

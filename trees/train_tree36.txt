@@ -1,0 +1,14 @@
+1-1-1	*/fresh_$_bean	nouse
+1-1-1	*/fresh_$_bean/shell_$_bean	nouse
+1-1-1	*/fresh_$_bean/wax_$_bean	nouse
+1-1-1	*/fresh_$_bean/green_$_bean	nouse
+1-1-1	*/fresh_$_bean/shell_$_bean/lima_$_bean	nouse
+1-1-1	*/fresh_$_bean/shell_$_bean/green_$_soybean	nouse
+1-1-1	*/fresh_$_bean/shell_$_bean/sieva_$_bean	nouse
+1-1-1	*/fresh_$_bean/shell_$_bean/fava_$_bean	nouse
+1-1-1	*/fresh_$_bean/shell_$_bean/lima_$_bean/Fordhooks	nouse
+1-1-1	*/fresh_$_bean/green_$_bean/haricot_$_vert	nouse
+1-1-1	*/fresh_$_bean/green_$_bean/snap_$_bean	nouse
+1-1-1	*/fresh_$_bean/green_$_bean/string_$_bean	nouse
+1-1-1	*/fresh_$_bean/green_$_bean/Kentucky_$_wonder	nouse
+1-1-1	*/fresh_$_bean/green_$_bean/scarlet_$_runner	nouse

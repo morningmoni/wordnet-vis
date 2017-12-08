@@ -1,0 +1,13 @@
+1-1-1	*/float	nouse
+1-1-1	*/float/chip	nouse
+1-1-1	*/float/life_$_preserver	nouse
+1-1-1	*/float/raft	nouse
+1-1-1	*/float/pontoon	nouse
+1-1-1	*/float/bob	nouse
+1-1-1	*/float/life_$_preserver/life_$_jacket	nouse
+1-1-1	*/float/life_$_preserver/life_$_buoy	nouse
+1-1-1	*/float/life_$_preserver/water_$_wings	nouse
+1-1-1	*/float/life_$_preserver/life_$_jacket/Mae_$_West	nouse
+1-1-1	*/float/life_$_preserver/life_$_buoy/breeches_$_buoy	nouse
+1-1-1	*/float/raft/life_$_raft	nouse
+1-1-1	*/float/raft/balsa_$_raft	nouse

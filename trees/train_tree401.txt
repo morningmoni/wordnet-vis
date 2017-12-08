@@ -1,0 +1,16 @@
+1-1-1	*/playing_$_field	nouse
+1-1-1	*/playing_$_field/palestra	nouse
+1-1-1	*/playing_$_field/football_$_field	nouse
+1-1-1	*/playing_$_field/ball_$_field	nouse
+1-1-1	*/playing_$_field/court	nouse
+1-1-1	*/playing_$_field/arena	nouse
+1-1-1	*/playing_$_field/bowling_$_green	nouse
+1-1-1	*/playing_$_field/court/tennis_$_court	nouse
+1-1-1	*/playing_$_field/court/squash_$_court	nouse
+1-1-1	*/playing_$_field/court/piste	nouse
+1-1-1	*/playing_$_field/court/volleyball_$_court	nouse
+1-1-1	*/playing_$_field/court/handball_$_court	nouse
+1-1-1	*/playing_$_field/court/basketball_$_court	nouse
+1-1-1	*/playing_$_field/court/badminton_$_court	nouse
+1-1-1	*/playing_$_field/court/basketball_$_court/home_$_court	nouse
+1-1-1	*/playing_$_field/arena/circus	nouse

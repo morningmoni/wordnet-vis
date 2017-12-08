@@ -1,0 +1,12 @@
+1-1-1	*/heteropterous_$_insect	nouse
+1-1-1	*/heteropterous_$_insect/cotton_$_stainer	nouse
+1-1-1	*/heteropterous_$_insect/firebug	nouse
+1-1-1	*/heteropterous_$_insect/water_$_bug	nouse
+1-1-1	*/heteropterous_$_insect/assassin_$_bug	nouse
+1-1-1	*/heteropterous_$_insect/water_$_bug/water_$_boatman	nouse
+1-1-1	*/heteropterous_$_insect/water_$_bug/giant_$_water_$_bug	nouse
+1-1-1	*/heteropterous_$_insect/water_$_bug/water_$_scorpion	nouse
+1-1-1	*/heteropterous_$_insect/water_$_bug/water_$_strider	nouse
+1-1-1	*/heteropterous_$_insect/water_$_bug/water_$_strider/common_$_pond-skater	nouse
+1-1-1	*/heteropterous_$_insect/assassin_$_bug/wheel_$_bug	nouse
+1-1-1	*/heteropterous_$_insect/assassin_$_bug/conenose	nouse

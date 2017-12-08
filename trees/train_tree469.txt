@@ -1,0 +1,11 @@
+1-1-1	*/fatness	nouse
+1-1-1	*/fatness/abdominousness	nouse
+1-1-1	*/fatness/greasiness	nouse
+1-1-1	*/fatness/fleshiness	nouse
+1-1-1	*/fatness/adiposity	nouse
+1-1-1	*/fatness/steatopygia	nouse
+1-1-1	*/fatness/fleshiness/corpulence	nouse
+1-1-1	*/fatness/fleshiness/exogenous_$_obesity	nouse
+1-1-1	*/fatness/fleshiness/plumpness	nouse
+1-1-1	*/fatness/fleshiness/plumpness/buxomness	nouse
+1-1-1	*/fatness/fleshiness/plumpness/chubbiness	nouse

@@ -1,0 +1,14 @@
+1-1-1	*/command	nouse
+1-1-1	*/command/behest	nouse
+1-1-1	*/command/commandment	nouse
+1-1-1	*/command/countermand	nouse
+1-1-1	*/command/order	nouse
+1-1-1	*/command/open_$_sesame	nouse
+1-1-1	*/command/commission	nouse
+1-1-1	*/command/injunction	nouse
+1-1-1	*/command/commandment/Decalogue	nouse
+1-1-1	*/command/order/word	nouse
+1-1-1	*/command/order/marching_$_orders	nouse
+1-1-1	*/command/order/summons	nouse
+1-1-1	*/command/order/summons/call_$_up	nouse
+1-1-1	*/command/commission/misdirection	nouse

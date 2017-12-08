@@ -1,0 +1,15 @@
+1-1-1	*/influence	nouse
+1-1-1	*/influence/hypnotism	nouse
+1-1-1	*/influence/exposure	nouse
+1-1-1	*/influence/enticement	nouse
+1-1-1	*/influence/manipulation	nouse
+1-1-1	*/influence/impingement	nouse
+1-1-1	*/influence/cross-pollination	nouse
+1-1-1	*/influence/exposure/overexposure	nouse
+1-1-1	*/influence/exposure/underexposure	nouse
+1-1-1	*/influence/enticement/blandishment	nouse
+1-1-1	*/influence/enticement/leading_$_astray	nouse
+1-1-1	*/influence/enticement/solicitation	nouse
+1-1-1	*/influence/enticement/seduction	nouse
+1-1-1	*/influence/enticement/blandishment/ingratiation	nouse
+1-1-1	*/influence/manipulation/mind_$_game	nouse

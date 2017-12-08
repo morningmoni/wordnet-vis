@@ -1,0 +1,16 @@
+1-1-1	*/computer_$_circuit	nouse
+1-1-1	*/computer_$_circuit/printed_$_circuit	nouse
+1-1-1	*/computer_$_circuit/module	nouse
+1-1-1	*/computer_$_circuit/interface	nouse
+1-1-1	*/computer_$_circuit/integrated_$_circuit	nouse
+1-1-1	*/computer_$_circuit/gate	nouse
+1-1-1	*/computer_$_circuit/printed_$_circuit/circuit_$_board	nouse
+1-1-1	*/computer_$_circuit/printed_$_circuit/circuit_$_board/PC_$_board	nouse
+1-1-1	*/computer_$_circuit/printed_$_circuit/circuit_$_board/CPU_$_board	nouse
+1-1-1	*/computer_$_circuit/interface/serial_$_port	nouse
+1-1-1	*/computer_$_circuit/interface/parallel_$_interface	nouse
+1-1-1	*/computer_$_circuit/interface/small_$_computer_$_system_$_interface	nouse
+1-1-1	*/computer_$_circuit/gate/X-OR_$_circuit	nouse
+1-1-1	*/computer_$_circuit/gate/AND_$_circuit	nouse
+1-1-1	*/computer_$_circuit/gate/OR_$_circuit	nouse
+1-1-1	*/computer_$_circuit/gate/NAND_$_circuit	nouse

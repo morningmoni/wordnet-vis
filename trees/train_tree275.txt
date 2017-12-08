@@ -1,0 +1,12 @@
+1-1-1	*/collegian	nouse
+1-1-1	*/collegian/undergraduate	nouse
+1-1-1	*/collegian/graduate_$_student	nouse
+1-1-1	*/collegian/college_$_student	nouse
+1-1-1	*/collegian/undergraduate/senior	nouse
+1-1-1	*/collegian/undergraduate/lowerclassman	nouse
+1-1-1	*/collegian/undergraduate/co-ed	nouse
+1-1-1	*/collegian/undergraduate/lowerclassman/sophomore	nouse
+1-1-1	*/collegian/undergraduate/lowerclassman/junior	nouse
+1-1-1	*/collegian/undergraduate/lowerclassman/freshman	nouse
+1-1-1	*/collegian/college_$_student/student_$_teacher	nouse
+1-1-1	*/collegian/college_$_student/matriculate	nouse

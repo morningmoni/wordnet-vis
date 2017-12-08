@@ -1,0 +1,11 @@
+1-1-1	*/crowd	nouse
+1-1-1	*/crowd/phalanx	nouse
+1-1-1	*/crowd/army	nouse
+1-1-1	*/crowd/huddle	nouse
+1-1-1	*/crowd/troop	nouse
+1-1-1	*/crowd/drove	nouse
+1-1-1	*/crowd/mob	nouse
+1-1-1	*/crowd/crush	nouse
+1-1-1	*/crowd/mob/lynch_$_mob	nouse
+1-1-1	*/crowd/crush/traffic_$_jam	nouse
+1-1-1	*/crowd/crush/traffic_$_jam/gridlock	nouse

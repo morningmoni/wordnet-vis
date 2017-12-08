@@ -1,0 +1,14 @@
+1-1-1	*/intensity	nouse
+1-1-1	*/intensity/ferocity	nouse
+1-1-1	*/intensity/vehemence	nouse
+1-1-1	*/intensity/badness	nouse
+1-1-1	*/intensity/top	nouse
+1-1-1	*/intensity/force	nouse
+1-1-1	*/intensity/ferocity/savageness	nouse
+1-1-1	*/intensity/vehemence/overemphasis	nouse
+1-1-1	*/intensity/badness/foulness	nouse
+1-1-1	*/intensity/badness/seriousness	nouse
+1-1-1	*/intensity/force/energy	nouse
+1-1-1	*/intensity/force/momentum	nouse
+1-1-1	*/intensity/force/brunt	nouse
+1-1-1	*/intensity/force/energy/athleticism	nouse

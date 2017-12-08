@@ -1,0 +1,12 @@
+1-1-1	*/seizure	nouse
+1-1-1	*/seizure/focal_$_seizure	nouse
+1-1-1	*/seizure/absence	nouse
+1-1-1	*/seizure/raptus_$_hemorrhagicus	nouse
+1-1-1	*/seizure/convulsion	nouse
+1-1-1	*/seizure/absence/subclinical_$_absence	nouse
+1-1-1	*/seizure/absence/pure_$_absence	nouse
+1-1-1	*/seizure/absence/complex_$_absence	nouse
+1-1-1	*/seizure/convulsion/epileptic_$_seizure	nouse
+1-1-1	*/seizure/convulsion/clonus	nouse
+1-1-1	*/seizure/convulsion/epileptic_$_seizure/grand_$_mal	nouse
+1-1-1	*/seizure/convulsion/epileptic_$_seizure/petit_$_mal	nouse

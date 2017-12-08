@@ -1,0 +1,14 @@
+1-1-1	*/computer_$_file	nouse
+1-1-1	*/computer_$_file/read-only_$_file	nouse
+1-1-1	*/computer_$_file/input_$_file	nouse
+1-1-1	*/computer_$_file/transaction_$_file	nouse
+1-1-1	*/computer_$_file/disk_$_file	nouse
+1-1-1	*/computer_$_file/master_$_file	nouse
+1-1-1	*/computer_$_file/backup_$_file	nouse
+1-1-1	*/computer_$_file/text_$_file	nouse
+1-1-1	*/computer_$_file/output_$_file	nouse
+1-1-1	*/computer_$_file/binary_$_file	nouse
+1-1-1	*/computer_$_file/text_$_file/web_$_page	nouse
+1-1-1	*/computer_$_file/text_$_file/ASCII_$_text_$_file	nouse
+1-1-1	*/computer_$_file/text_$_file/web_$_page/home_$_page	nouse
+1-1-1	*/computer_$_file/text_$_file/ASCII_$_text_$_file/source_$_code	nouse

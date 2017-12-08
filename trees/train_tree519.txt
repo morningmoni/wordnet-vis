@@ -1,0 +1,12 @@
+1-1-1	*/fossil_$_fuel	nouse
+1-1-1	*/fossil_$_fuel/natural_$_gas	nouse
+1-1-1	*/fossil_$_fuel/petroleum	nouse
+1-1-1	*/fossil_$_fuel/coal	nouse
+1-1-1	*/fossil_$_fuel/petroleum/residual_$_oil	nouse
+1-1-1	*/fossil_$_fuel/coal/anthracite	nouse
+1-1-1	*/fossil_$_fuel/coal/lignite	nouse
+1-1-1	*/fossil_$_fuel/coal/bituminous_$_coal	nouse
+1-1-1	*/fossil_$_fuel/coal/steam_$_coal	nouse
+1-1-1	*/fossil_$_fuel/coal/lignite/jet	nouse
+1-1-1	*/fossil_$_fuel/coal/bituminous_$_coal/sea_$_coal	nouse
+1-1-1	*/fossil_$_fuel/coal/bituminous_$_coal/cannel_$_coal	nouse

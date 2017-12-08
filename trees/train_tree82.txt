@@ -1,0 +1,12 @@
+1-1-1	*/bedroom	nouse
+1-1-1	*/bedroom/motel_$_room	nouse
+1-1-1	*/bedroom/child's_$_room	nouse
+1-1-1	*/bedroom/boudoir	nouse
+1-1-1	*/bedroom/guestroom	nouse
+1-1-1	*/bedroom/master_$_bedroom	nouse
+1-1-1	*/bedroom/dormitory	nouse
+1-1-1	*/bedroom/hotel_$_room	nouse
+1-1-1	*/bedroom/child's_$_room/nursery	nouse
+1-1-1	*/bedroom/child's_$_room/nursery/day_$_nursery	nouse
+1-1-1	*/bedroom/hotel_$_room/connecting_$_room	nouse
+1-1-1	*/bedroom/hotel_$_room/adjoining_$_room	nouse

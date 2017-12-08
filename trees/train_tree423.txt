@@ -1,0 +1,17 @@
+1-1-1	*/bedclothes	nouse
+1-1-1	*/bedclothes/blanket	nouse
+1-1-1	*/bedclothes/quilt	nouse
+1-1-1	*/bedclothes/bedspread	nouse
+1-1-1	*/bedclothes/bedroll	nouse
+1-1-1	*/bedclothes/throw	nouse
+1-1-1	*/bedclothes/mattress_$_cover	nouse
+1-1-1	*/bedclothes/blanket/manta	nouse
+1-1-1	*/bedclothes/blanket/security_$_blanket	nouse
+1-1-1	*/bedclothes/blanket/afghan	nouse
+1-1-1	*/bedclothes/blanket/electric_$_blanket	nouse
+1-1-1	*/bedclothes/blanket/mackinaw	nouse
+1-1-1	*/bedclothes/quilt/patchwork	nouse
+1-1-1	*/bedclothes/quilt/eiderdown	nouse
+1-1-1	*/bedclothes/quilt/patchwork/crazy_$_quilt	nouse
+1-1-1	*/bedclothes/bedspread/coverlet	nouse
+1-1-1	*/bedclothes/bedspread/quilted_$_bedspread	nouse

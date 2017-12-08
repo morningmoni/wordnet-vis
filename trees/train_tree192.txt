@@ -1,0 +1,15 @@
+1-1-1	*/proportion	nouse
+1-1-1	*/proportion/scale	nouse
+1-1-1	*/proportion/case-fatality_$_proportion	nouse
+1-1-1	*/proportion/content	nouse
+1-1-1	*/proportion/percentage	nouse
+1-1-1	*/proportion/rate	nouse
+1-1-1	*/proportion/case-to-infection_$_proportion	nouse
+1-1-1	*/proportion/golden_$_section	nouse
+1-1-1	*/proportion/batting_$_average	nouse
+1-1-1	*/proportion/percentage/vacancy_$_rate	nouse
+1-1-1	*/proportion/percentage/unemployment_$_rate	nouse
+1-1-1	*/proportion/percentage/occupancy_$_rate	nouse
+1-1-1	*/proportion/percentage/absentee_$_rate	nouse
+1-1-1	*/proportion/percentage/occupancy_$_rate/hotel_$_occupancy	nouse
+1-1-1	*/proportion/percentage/occupancy_$_rate/hospital_$_occupancy	nouse

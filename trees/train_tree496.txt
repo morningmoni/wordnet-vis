@@ -1,0 +1,17 @@
+1-1-1	*/corporal_$_punishment	nouse
+1-1-1	*/corporal_$_punishment/kick_$_in_$_the_$_butt	nouse
+1-1-1	*/corporal_$_punishment/electric_$_shock	nouse
+1-1-1	*/corporal_$_punishment/stoning	nouse
+1-1-1	*/corporal_$_punishment/beating	nouse
+1-1-1	*/corporal_$_punishment/execution	nouse
+1-1-1	*/corporal_$_punishment/gauntlet	nouse
+1-1-1	*/corporal_$_punishment/beating/whipping	nouse
+1-1-1	*/corporal_$_punishment/beating/flagellation	nouse
+1-1-1	*/corporal_$_punishment/beating/whipping/self-flagellation	nouse
+1-1-1	*/corporal_$_punishment/beating/whipping/horsewhipping	nouse
+1-1-1	*/corporal_$_punishment/execution/electrocution	nouse
+1-1-1	*/corporal_$_punishment/execution/burning	nouse
+1-1-1	*/corporal_$_punishment/execution/crucifixion	nouse
+1-1-1	*/corporal_$_punishment/execution/hanging	nouse
+1-1-1	*/corporal_$_punishment/execution/decapitation	nouse
+1-1-1	*/corporal_$_punishment/execution/burning/auto-da-fe	nouse

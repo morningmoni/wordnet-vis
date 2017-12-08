@@ -1,0 +1,14 @@
+1-1-1	*/reprobate	nouse
+1-1-1	*/reprobate/scapegrace	nouse
+1-1-1	*/reprobate/pervert	nouse
+1-1-1	*/reprobate/wretch	nouse
+1-1-1	*/reprobate/pervert/pedophile	nouse
+1-1-1	*/reprobate/pervert/sodomite	nouse
+1-1-1	*/reprobate/pervert/nymphomaniac	nouse
+1-1-1	*/reprobate/pervert/sadomasochist	nouse
+1-1-1	*/reprobate/pervert/masochist	nouse
+1-1-1	*/reprobate/pervert/pederast	nouse
+1-1-1	*/reprobate/pervert/fetishist	nouse
+1-1-1	*/reprobate/pervert/satyr	nouse
+1-1-1	*/reprobate/pervert/sadist	nouse
+1-1-1	*/reprobate/pervert/masochist/flagellant	nouse

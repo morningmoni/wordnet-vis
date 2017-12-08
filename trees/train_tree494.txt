@@ -1,0 +1,17 @@
+1-1-1	*/indirect_$_tax	nouse
+1-1-1	*/indirect_$_tax/hidden_$_tax	nouse
+1-1-1	*/indirect_$_tax/duty	nouse
+1-1-1	*/indirect_$_tax/excise	nouse
+1-1-1	*/indirect_$_tax/duty/countervailing_$_duty	nouse
+1-1-1	*/indirect_$_tax/duty/octroi	nouse
+1-1-1	*/indirect_$_tax/duty/customs	nouse
+1-1-1	*/indirect_$_tax/duty/tonnage	nouse
+1-1-1	*/indirect_$_tax/duty/revenue_$_tariff	nouse
+1-1-1	*/indirect_$_tax/duty/export_$_duty	nouse
+1-1-1	*/indirect_$_tax/duty/import_$_duty	nouse
+1-1-1	*/indirect_$_tax/duty/protective_$_tariff	nouse
+1-1-1	*/indirect_$_tax/duty/customs/ship_$_money	nouse
+1-1-1	*/indirect_$_tax/duty/protective_$_tariff/anti-dumping_$_duty	nouse
+1-1-1	*/indirect_$_tax/excise/sales_$_tax	nouse
+1-1-1	*/indirect_$_tax/excise/VAT	nouse
+1-1-1	*/indirect_$_tax/excise/gasoline_$_tax	nouse

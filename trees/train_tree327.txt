@@ -1,0 +1,13 @@
+1-1-1	*/demonstration	nouse
+1-1-1	*/demonstration/expression	nouse
+1-1-1	*/demonstration/exemplification	nouse
+1-1-1	*/demonstration/display	nouse
+1-1-1	*/demonstration/expression/lamentation	nouse
+1-1-1	*/demonstration/expression/effusion	nouse
+1-1-1	*/demonstration/expression/act	nouse
+1-1-1	*/demonstration/expression/effusion/cry	nouse
+1-1-1	*/demonstration/expression/effusion/acting_$_out	nouse
+1-1-1	*/demonstration/expression/effusion/explosion	nouse
+1-1-1	*/demonstration/expression/effusion/flare	nouse
+1-1-1	*/demonstration/display/big_$_stick	nouse
+1-1-1	*/demonstration/display/gaudery	nouse

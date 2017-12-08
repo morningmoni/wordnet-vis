@@ -1,0 +1,11 @@
+1-1-1	*/junction	nouse
+1-1-1	*/junction/intersection	nouse
+1-1-1	*/junction/T-junction	nouse
+1-1-1	*/junction/interchange	nouse
+1-1-1	*/junction/railway_$_junction	nouse
+1-1-1	*/junction/traffic_$_circle	nouse
+1-1-1	*/junction/intersection/corner	nouse
+1-1-1	*/junction/intersection/level_$_crossing	nouse
+1-1-1	*/junction/intersection/corner/blind_$_corner	nouse
+1-1-1	*/junction/interchange/cloverleaf	nouse
+1-1-1	*/junction/interchange/spaghetti_$_junction	nouse

@@ -1,0 +1,11 @@
+1-1-1	*/pipe	nouse
+1-1-1	*/pipe/drone	nouse
+1-1-1	*/pipe/panpipe	nouse
+1-1-1	*/pipe/fipple_$_flute	nouse
+1-1-1	*/pipe/chanter	nouse
+1-1-1	*/pipe/pitch_$_pipe	nouse
+1-1-1	*/pipe/bagpipe	nouse
+1-1-1	*/pipe/fipple_$_flute/pennywhistle	nouse
+1-1-1	*/pipe/fipple_$_flute/flageolet	nouse
+1-1-1	*/pipe/fipple_$_flute/flageolet/tabor_$_pipe	nouse
+1-1-1	*/pipe/bagpipe/musette	nouse

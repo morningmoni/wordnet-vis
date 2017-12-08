@@ -1,0 +1,13 @@
+1-1-1	*/pilot	nouse
+1-1-1	*/pilot/combat_$_pilot	nouse
+1-1-1	*/pilot/test_$_pilot	nouse
+1-1-1	*/pilot/copilot	nouse
+1-1-1	*/pilot/kamikaze	nouse
+1-1-1	*/pilot/barnstormer	nouse
+1-1-1	*/pilot/wingman	nouse
+1-1-1	*/pilot/captain	nouse
+1-1-1	*/pilot/combat_$_pilot/strafer	nouse
+1-1-1	*/pilot/combat_$_pilot/Rickenbacker	nouse
+1-1-1	*/pilot/combat_$_pilot/fighter_$_pilot	nouse
+1-1-1	*/pilot/combat_$_pilot/fighter_$_pilot/dogfighter	nouse
+1-1-1	*/pilot/captain/group_$_captain	nouse

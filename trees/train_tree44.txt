@@ -1,0 +1,12 @@
+1-1-1	*/uniform	nouse
+1-1-1	*/uniform/military_$_uniform	nouse
+1-1-1	*/uniform/jump_$_suit	nouse
+1-1-1	*/uniform/livery	nouse
+1-1-1	*/uniform/military_$_uniform/dress_$_uniform	nouse
+1-1-1	*/uniform/military_$_uniform/regimentals	nouse
+1-1-1	*/uniform/military_$_uniform/olive_$_drab	nouse
+1-1-1	*/uniform/military_$_uniform/fatigues	nouse
+1-1-1	*/uniform/military_$_uniform/battle_$_dress	nouse
+1-1-1	*/uniform/military_$_uniform/khakis	nouse
+1-1-1	*/uniform/military_$_uniform/full-dress_$_uniform	nouse
+1-1-1	*/uniform/military_$_uniform/dress_$_uniform/dress_$_blues	nouse

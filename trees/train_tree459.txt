@@ -1,0 +1,12 @@
+1-1-1	*/conserve	nouse
+1-1-1	*/conserve/jelly	nouse
+1-1-1	*/conserve/lemon_$_curd	nouse
+1-1-1	*/conserve/jam	nouse
+1-1-1	*/conserve/marmalade	nouse
+1-1-1	*/conserve/apple_$_butter	nouse
+1-1-1	*/conserve/chowchow	nouse
+1-1-1	*/conserve/jelly/grape_$_jelly	nouse
+1-1-1	*/conserve/jelly/apple_$_jelly	nouse
+1-1-1	*/conserve/jelly/apple_$_jelly/crabapple_$_jelly	nouse
+1-1-1	*/conserve/jam/strawberry_$_jam	nouse
+1-1-1	*/conserve/marmalade/orange_$_marmalade	nouse

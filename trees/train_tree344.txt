@@ -1,0 +1,15 @@
+1-1-1	*/appropriation	nouse
+1-1-1	*/appropriation/borrowing	nouse
+1-1-1	*/appropriation/preemption	nouse
+1-1-1	*/appropriation/seizure	nouse
+1-1-1	*/appropriation/sequestration	nouse
+1-1-1	*/appropriation/borrowing/crossover	nouse
+1-1-1	*/appropriation/borrowing/naturalization	nouse
+1-1-1	*/appropriation/borrowing/misappropriation	nouse
+1-1-1	*/appropriation/seizure/confiscation	nouse
+1-1-1	*/appropriation/seizure/distress	nouse
+1-1-1	*/appropriation/seizure/impoundment	nouse
+1-1-1	*/appropriation/seizure/recapture	nouse
+1-1-1	*/appropriation/seizure/impress	nouse
+1-1-1	*/appropriation/seizure/confiscation/expropriation	nouse
+1-1-1	*/appropriation/seizure/impoundment/drug_$_bust	nouse

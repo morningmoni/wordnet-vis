@@ -1,0 +1,12 @@
+1-1-1	*/voice	nouse
+1-1-1	*/voice/singing_$_voice	nouse
+1-1-1	*/voice/voice_$_over	nouse
+1-1-1	*/voice/sprechgesang	nouse
+1-1-1	*/voice/singing_$_voice/bass	nouse
+1-1-1	*/voice/singing_$_voice/mezzo-soprano	nouse
+1-1-1	*/voice/singing_$_voice/countertenor	nouse
+1-1-1	*/voice/singing_$_voice/soprano	nouse
+1-1-1	*/voice/singing_$_voice/baritone	nouse
+1-1-1	*/voice/singing_$_voice/contralto	nouse
+1-1-1	*/voice/singing_$_voice/tenor	nouse
+1-1-1	*/voice/singing_$_voice/bass/basso_$_profundo	nouse

@@ -1,0 +1,16 @@
+1-1-1	*/hole	nouse
+1-1-1	*/hole/aperture	nouse
+1-1-1	*/hole/leak	nouse
+1-1-1	*/hole/cranny	nouse
+1-1-1	*/hole/ozone_$_hole	nouse
+1-1-1	*/hole/knothole	nouse
+1-1-1	*/hole/bolt-hole	nouse
+1-1-1	*/hole/perforation	nouse
+1-1-1	*/hole/bullet_$_hole	nouse
+1-1-1	*/hole/rathole	nouse
+1-1-1	*/hole/aperture/micropyle	nouse
+1-1-1	*/hole/aperture/stoma	nouse
+1-1-1	*/hole/aperture/pupil	nouse
+1-1-1	*/hole/aperture/stoma/lenticel	nouse
+1-1-1	*/hole/aperture/stoma/hydathode	nouse
+1-1-1	*/hole/aperture/stoma/germ_$_pore	nouse

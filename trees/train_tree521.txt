@@ -1,0 +1,15 @@
+1-1-1	*/determinant	nouse
+1-1-1	*/determinant/clincher	nouse
+1-1-1	*/determinant/influence	nouse
+1-1-1	*/determinant/influence/imponderable	nouse
+1-1-1	*/determinant/influence/temptation	nouse
+1-1-1	*/determinant/influence/support	nouse
+1-1-1	*/determinant/influence/pestilence	nouse
+1-1-1	*/determinant/influence/imprint	nouse
+1-1-1	*/determinant/influence/morale_$_builder	nouse
+1-1-1	*/determinant/influence/imponderable/leaven	nouse
+1-1-1	*/determinant/influence/temptation/forbidden_$_fruit	nouse
+1-1-1	*/determinant/influence/temptation/allurement	nouse
+1-1-1	*/determinant/influence/temptation/bait	nouse
+1-1-1	*/determinant/influence/support/lifeline	nouse
+1-1-1	*/determinant/influence/support/anchor	nouse

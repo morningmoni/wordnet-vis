@@ -1,0 +1,12 @@
+1-1-1	*/admirer	nouse
+1-1-1	*/admirer/suitor	nouse
+1-1-1	*/admirer/worshiper	nouse
+1-1-1	*/admirer/fancier	nouse
+1-1-1	*/admirer/suitor/prince_$_charming	nouse
+1-1-1	*/admirer/worshiper/hero_$_worshiper	nouse
+1-1-1	*/admirer/fancier/maniac	nouse
+1-1-1	*/admirer/fancier/bird_$_fancier	nouse
+1-1-1	*/admirer/fancier/animal_$_fancier	nouse
+1-1-1	*/admirer/fancier/technophile	nouse
+1-1-1	*/admirer/fancier/animal_$_fancier/cat_$_fancier	nouse
+1-1-1	*/admirer/fancier/animal_$_fancier/horseman	nouse

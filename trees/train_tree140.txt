@@ -1,0 +1,15 @@
+1-1-1	*/sacrament	nouse
+1-1-1	*/sacrament/Holy_$_Eucharist	nouse
+1-1-1	*/sacrament/anointing_$_of_$_the_$_sick	nouse
+1-1-1	*/sacrament/baptism	nouse
+1-1-1	*/sacrament/matrimony	nouse
+1-1-1	*/sacrament/confirmation	nouse
+1-1-1	*/sacrament/penance	nouse
+1-1-1	*/sacrament/holy_$_order	nouse
+1-1-1	*/sacrament/baptism/affusion	nouse
+1-1-1	*/sacrament/baptism/immersion	nouse
+1-1-1	*/sacrament/baptism/christening	nouse
+1-1-1	*/sacrament/baptism/aspersion	nouse
+1-1-1	*/sacrament/baptism/immersion/trine_$_immersion	nouse
+1-1-1	*/sacrament/penance/confession	nouse
+1-1-1	*/sacrament/penance/confession/shrift	nouse

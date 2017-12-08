@@ -1,0 +1,16 @@
+1-1-1	*/major_$_form_$_class	nouse
+1-1-1	*/major_$_form_$_class/adverb	nouse
+1-1-1	*/major_$_form_$_class/adjective	nouse
+1-1-1	*/major_$_form_$_class/noun	nouse
+1-1-1	*/major_$_form_$_class/verb	nouse
+1-1-1	*/major_$_form_$_class/verb/intransitive_$_verb	nouse
+1-1-1	*/major_$_form_$_class/verb/phrasal_$_verb	nouse
+1-1-1	*/major_$_form_$_class/verb/infinitive	nouse
+1-1-1	*/major_$_form_$_class/verb/transitive_$_verb	nouse
+1-1-1	*/major_$_form_$_class/verb/auxiliary_$_verb	nouse
+1-1-1	*/major_$_form_$_class/verb/participle	nouse
+1-1-1	*/major_$_form_$_class/verb/infinitive/split_$_infinitive	nouse
+1-1-1	*/major_$_form_$_class/verb/transitive_$_verb/doubly_$_transitive_$_verb	nouse
+1-1-1	*/major_$_form_$_class/verb/auxiliary_$_verb/modal_$_auxiliary_$_verb	nouse
+1-1-1	*/major_$_form_$_class/verb/participle/present_$_participle	nouse
+1-1-1	*/major_$_form_$_class/verb/participle/past_$_participle	nouse

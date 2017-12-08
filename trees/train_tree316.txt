@@ -1,0 +1,13 @@
+1-1-1	*/fastening	nouse
+1-1-1	*/fastening/welding	nouse
+1-1-1	*/fastening/doweling	nouse
+1-1-1	*/fastening/tying	nouse
+1-1-1	*/fastening/linkage	nouse
+1-1-1	*/fastening/bonding	nouse
+1-1-1	*/fastening/fixation	nouse
+1-1-1	*/fastening/grounding	nouse
+1-1-1	*/fastening/welding/spot_$_welding	nouse
+1-1-1	*/fastening/welding/butt_$_welding	nouse
+1-1-1	*/fastening/welding/butt_$_welding/flash_$_welding	nouse
+1-1-1	*/fastening/tying/ligation	nouse
+1-1-1	*/fastening/tying/ligation/tubal_$_ligation	nouse

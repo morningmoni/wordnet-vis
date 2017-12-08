@@ -1,0 +1,12 @@
+1-1-1	*/storage_$_space	nouse
+1-1-1	*/storage_$_space/cupboard	nouse
+1-1-1	*/storage_$_space/root_$_cellar	nouse
+1-1-1	*/storage_$_space/drawer	nouse
+1-1-1	*/storage_$_space/cellar	nouse
+1-1-1	*/storage_$_space/cache	nouse
+1-1-1	*/storage_$_space/stacks	nouse
+1-1-1	*/storage_$_space/cupboard/safe	nouse
+1-1-1	*/storage_$_space/cupboard/supply_$_closet	nouse
+1-1-1	*/storage_$_space/cupboard/broom_$_closet	nouse
+1-1-1	*/storage_$_space/cupboard/airing_$_cupboard	nouse
+1-1-1	*/storage_$_space/cupboard/safe/meat_$_safe	nouse

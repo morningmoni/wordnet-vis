@@ -1,0 +1,16 @@
+1-1-1	*/brace	nouse
+1-1-1	*/brace/crosspiece	nouse
+1-1-1	*/brace/strut	nouse
+1-1-1	*/brace/guy	nouse
+1-1-1	*/brace/tie	nouse
+1-1-1	*/brace/stringer	nouse
+1-1-1	*/brace/stay	nouse
+1-1-1	*/brace/gusset	nouse
+1-1-1	*/brace/crosspiece/transom	nouse
+1-1-1	*/brace/crosspiece/rung	nouse
+1-1-1	*/brace/crosspiece/crossbar	nouse
+1-1-1	*/brace/crosspiece/rundle	nouse
+1-1-1	*/brace/crosspiece/thwart	nouse
+1-1-1	*/brace/stay/backstay	nouse
+1-1-1	*/brace/stay/forestay	nouse
+1-1-1	*/brace/stay/forestay/mainstay	nouse

@@ -1,0 +1,14 @@
+1-1-1	*/sharing	nouse
+1-1-1	*/sharing/generosity	nouse
+1-1-1	*/sharing/giving	nouse
+1-1-1	*/sharing/giving/contribution	nouse
+1-1-1	*/sharing/giving/charity	nouse
+1-1-1	*/sharing/giving/oblation	nouse
+1-1-1	*/sharing/giving/alms-giving	nouse
+1-1-1	*/sharing/giving/accordance	nouse
+1-1-1	*/sharing/giving/endowment	nouse
+1-1-1	*/sharing/giving/bestowal	nouse
+1-1-1	*/sharing/giving/contribution/alms	nouse
+1-1-1	*/sharing/giving/contribution/subscription	nouse
+1-1-1	*/sharing/giving/charity/handout	nouse
+1-1-1	*/sharing/giving/charity/zakat	nouse

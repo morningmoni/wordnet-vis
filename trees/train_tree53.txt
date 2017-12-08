@@ -1,0 +1,16 @@
+1-1-1	*/coastal_$_diving_$_bird	nouse
+1-1-1	*/coastal_$_diving_$_bird/jaeger	nouse
+1-1-1	*/coastal_$_diving_$_bird/skimmer	nouse
+1-1-1	*/coastal_$_diving_$_bird/larid	nouse
+1-1-1	*/coastal_$_diving_$_bird/jaeger/parasitic_$_jaeger	nouse
+1-1-1	*/coastal_$_diving_$_bird/jaeger/skua	nouse
+1-1-1	*/coastal_$_diving_$_bird/jaeger/skua/great_$_skua	nouse
+1-1-1	*/coastal_$_diving_$_bird/larid/tern	nouse
+1-1-1	*/coastal_$_diving_$_bird/larid/gull	nouse
+1-1-1	*/coastal_$_diving_$_bird/larid/tern/sea_$_swallow	nouse
+1-1-1	*/coastal_$_diving_$_bird/larid/gull/ivory_$_gull	nouse
+1-1-1	*/coastal_$_diving_$_bird/larid/gull/herring_$_gull	nouse
+1-1-1	*/coastal_$_diving_$_bird/larid/gull/laughing_$_gull	nouse
+1-1-1	*/coastal_$_diving_$_bird/larid/gull/mew	nouse
+1-1-1	*/coastal_$_diving_$_bird/larid/gull/kittiwake	nouse
+1-1-1	*/coastal_$_diving_$_bird/larid/gull/black-backed_$_gull	nouse

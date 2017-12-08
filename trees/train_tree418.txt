@@ -1,0 +1,16 @@
+1-1-1	*/section	nouse
+1-1-1	*/section/Forbidden_$_City	nouse
+1-1-1	*/section/outskirts	nouse
+1-1-1	*/section/vicinity	nouse
+1-1-1	*/section/vicinity/scenery	nouse
+1-1-1	*/section/vicinity/Left_$_Bank	nouse
+1-1-1	*/section/vicinity/place	nouse
+1-1-1	*/section/vicinity/proximity	nouse
+1-1-1	*/section/vicinity/gold_$_coast	nouse
+1-1-1	*/section/vicinity/'hood	nouse
+1-1-1	*/section/vicinity/Right_$_Bank	nouse
+1-1-1	*/section/vicinity/Montmartre	nouse
+1-1-1	*/section/vicinity/Charlestown	nouse
+1-1-1	*/section/vicinity/scenery/landscape	nouse
+1-1-1	*/section/vicinity/scenery/seascape	nouse
+1-1-1	*/section/vicinity/proximity/presence	nouse

@@ -1,0 +1,14 @@
+1-1-1	*/astronomical_$_telescope	nouse
+1-1-1	*/astronomical_$_telescope/radio_$_telescope	nouse
+1-1-1	*/astronomical_$_telescope/optical_$_telescope	nouse
+1-1-1	*/astronomical_$_telescope/radio_$_telescope/radio_$_interferometer	nouse
+1-1-1	*/astronomical_$_telescope/optical_$_telescope/refracting_$_telescope	nouse
+1-1-1	*/astronomical_$_telescope/optical_$_telescope/reflecting_$_telescope	nouse
+1-1-1	*/astronomical_$_telescope/optical_$_telescope/refracting_$_telescope/Galilean_$_telescope	nouse
+1-1-1	*/astronomical_$_telescope/optical_$_telescope/refracting_$_telescope/field_$_glass	nouse
+1-1-1	*/astronomical_$_telescope/optical_$_telescope/reflecting_$_telescope/Maksutov_$_telescope	nouse
+1-1-1	*/astronomical_$_telescope/optical_$_telescope/reflecting_$_telescope/Cassegrainian_$_telescope	nouse
+1-1-1	*/astronomical_$_telescope/optical_$_telescope/reflecting_$_telescope/coude_$_telescope	nouse
+1-1-1	*/astronomical_$_telescope/optical_$_telescope/reflecting_$_telescope/Newtonian_$_telescope	nouse
+1-1-1	*/astronomical_$_telescope/optical_$_telescope/reflecting_$_telescope/Schmidt_$_telescope	nouse
+1-1-1	*/astronomical_$_telescope/optical_$_telescope/reflecting_$_telescope/Herschelian_$_telescope	nouse

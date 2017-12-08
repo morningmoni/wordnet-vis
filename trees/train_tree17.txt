@@ -1,0 +1,14 @@
+1-1-1	*/impropriety	nouse
+1-1-1	*/impropriety/indecency	nouse
+1-1-1	*/impropriety/indecorum	nouse
+1-1-1	*/impropriety/indelicacy	nouse
+1-1-1	*/impropriety/inappropriateness	nouse
+1-1-1	*/impropriety/incorrectness	nouse
+1-1-1	*/impropriety/indecency/immodesty	nouse
+1-1-1	*/impropriety/indecency/obscenity	nouse
+1-1-1	*/impropriety/indecency/outrageousness	nouse
+1-1-1	*/impropriety/indecency/obscenity/smuttiness	nouse
+1-1-1	*/impropriety/indecorum/unbecomingness	nouse
+1-1-1	*/impropriety/indecorum/unseemliness	nouse
+1-1-1	*/impropriety/indelicacy/gaminess	nouse
+1-1-1	*/impropriety/incorrectness/political_$_incorrectness	nouse

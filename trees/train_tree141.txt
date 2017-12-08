@@ -1,0 +1,11 @@
+1-1-1	*/insensitivity	nouse
+1-1-1	*/insensitivity/unfeelingness	nouse
+1-1-1	*/insensitivity/unperceptiveness	nouse
+1-1-1	*/insensitivity/crassness	nouse
+1-1-1	*/insensitivity/unkindness	nouse
+1-1-1	*/insensitivity/tin_$_ear	nouse
+1-1-1	*/insensitivity/unfeelingness/dullness	nouse
+1-1-1	*/insensitivity/unkindness/unhelpfulness	nouse
+1-1-1	*/insensitivity/unkindness/inconsideration	nouse
+1-1-1	*/insensitivity/unkindness/inconsideration/tactlessness	nouse
+1-1-1	*/insensitivity/unkindness/inconsideration/bluntness	nouse

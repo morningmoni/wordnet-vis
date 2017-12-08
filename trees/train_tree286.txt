@@ -1,0 +1,17 @@
+1-1-1	*/direct_$_action	nouse
+1-1-1	*/direct_$_action/civil_$_disobedience	nouse
+1-1-1	*/direct_$_action/recusancy	nouse
+1-1-1	*/direct_$_action/passive_$_resistance	nouse
+1-1-1	*/direct_$_action/job_$_action	nouse
+1-1-1	*/direct_$_action/civil_$_disobedience/protest_$_march	nouse
+1-1-1	*/direct_$_action/civil_$_disobedience/sit-in	nouse
+1-1-1	*/direct_$_action/civil_$_disobedience/protest_$_march/peace_$_march	nouse
+1-1-1	*/direct_$_action/passive_$_resistance/hunger_$_strike	nouse
+1-1-1	*/direct_$_action/passive_$_resistance/Satyagraha	nouse
+1-1-1	*/direct_$_action/job_$_action/strike	nouse
+1-1-1	*/direct_$_action/job_$_action/work_$_to_$_rule	nouse
+1-1-1	*/direct_$_action/job_$_action/go-slow	nouse
+1-1-1	*/direct_$_action/job_$_action/strike/sit-down	nouse
+1-1-1	*/direct_$_action/job_$_action/strike/sympathy_$_strike	nouse
+1-1-1	*/direct_$_action/job_$_action/strike/walkout	nouse
+1-1-1	*/direct_$_action/job_$_action/strike/wildcat_$_strike	nouse

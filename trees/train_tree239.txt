@@ -1,0 +1,13 @@
+1-1-1	*/relish	nouse
+1-1-1	*/relish/olive	nouse
+1-1-1	*/relish/pickle	nouse
+1-1-1	*/relish/chowchow	nouse
+1-1-1	*/relish/piccalilli	nouse
+1-1-1	*/relish/pickle_$_relish	nouse
+1-1-1	*/relish/olive/green_$_olive	nouse
+1-1-1	*/relish/olive/black_$_olive	nouse
+1-1-1	*/relish/pickle/dill_$_pickle	nouse
+1-1-1	*/relish/pickle/gherkin	nouse
+1-1-1	*/relish/pickle/caper	nouse
+1-1-1	*/relish/pickle/sweet_$_pickle	nouse
+1-1-1	*/relish/pickle/sweet_$_pickle/bread_$_and_$_butter_$_pickle	nouse

@@ -1,0 +1,14 @@
+1-1-1	*/certainty	nouse
+1-1-1	*/certainty/indisputability	nouse
+1-1-1	*/certainty/inevitability	nouse
+1-1-1	*/certainty/moral_$_certainty	nouse
+1-1-1	*/certainty/slam_$_dunk	nouse
+1-1-1	*/certainty/cert	nouse
+1-1-1	*/certainty/predictability	nouse
+1-1-1	*/certainty/ineluctability	nouse
+1-1-1	*/certainty/surety	nouse
+1-1-1	*/certainty/indisputability/incontrovertibility	nouse
+1-1-1	*/certainty/indisputability/givenness	nouse
+1-1-1	*/certainty/indisputability/demonstrability	nouse
+1-1-1	*/certainty/predictability/determinateness	nouse
+1-1-1	*/certainty/predictability/determinateness/finality	nouse

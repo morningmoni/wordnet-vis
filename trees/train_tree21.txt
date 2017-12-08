@@ -1,0 +1,11 @@
+1-1-1	*/uropathy	nouse
+1-1-1	*/uropathy/kidney_$_disease	nouse
+1-1-1	*/uropathy/kidney_$_disease/polycystic_$_kidney_$_disease	nouse
+1-1-1	*/uropathy/kidney_$_disease/renal_$_insufficiency	nouse
+1-1-1	*/uropathy/kidney_$_disease/renal_$_failure	nouse
+1-1-1	*/uropathy/kidney_$_disease/polyuria	nouse
+1-1-1	*/uropathy/kidney_$_disease/nephritis	nouse
+1-1-1	*/uropathy/kidney_$_disease/nephrosclerosis	nouse
+1-1-1	*/uropathy/kidney_$_disease/renal_$_failure/acute_$_renal_$_failure	nouse
+1-1-1	*/uropathy/kidney_$_disease/renal_$_failure/chronic_$_renal_$_failure	nouse
+1-1-1	*/uropathy/kidney_$_disease/nephritis/glomerulonephritis	nouse

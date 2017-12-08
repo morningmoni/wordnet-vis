@@ -1,0 +1,12 @@
+1-1-1	*/intruder	nouse
+1-1-1	*/intruder/penetrator	nouse
+1-1-1	*/intruder/infiltrator	nouse
+1-1-1	*/intruder/boarder	nouse
+1-1-1	*/intruder/gatecrasher	nouse
+1-1-1	*/intruder/invader	nouse
+1-1-1	*/intruder/stranger	nouse
+1-1-1	*/intruder/squatter	nouse
+1-1-1	*/intruder/pusher	nouse
+1-1-1	*/intruder/prowler	nouse
+1-1-1	*/intruder/stranger/foreigner	nouse
+1-1-1	*/intruder/stranger/foreigner/transalpine	nouse

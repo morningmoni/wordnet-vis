@@ -1,0 +1,14 @@
+1-1-1	*/quantity	nouse
+1-1-1	*/quantity/abundance	nouse
+1-1-1	*/quantity/abundance/wealth	nouse
+1-1-1	*/quantity/abundance/overabundance	nouse
+1-1-1	*/quantity/abundance/profusion	nouse
+1-1-1	*/quantity/abundance/amplitude	nouse
+1-1-1	*/quantity/abundance/luxuriance	nouse
+1-1-1	*/quantity/abundance/plenty	nouse
+1-1-1	*/quantity/abundance/overabundance/excess	nouse
+1-1-1	*/quantity/abundance/overabundance/bellyful	nouse
+1-1-1	*/quantity/abundance/overabundance/glut	nouse
+1-1-1	*/quantity/abundance/profusion/wilderness	nouse
+1-1-1	*/quantity/abundance/profusion/overgrowth	nouse
+1-1-1	*/quantity/abundance/profusion/greenness	nouse

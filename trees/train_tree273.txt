@@ -1,0 +1,16 @@
+1-1-1	*/chemistry	nouse
+1-1-1	*/chemistry/radiochemistry	nouse
+1-1-1	*/chemistry/immunochemistry	nouse
+1-1-1	*/chemistry/inorganic_$_chemistry	nouse
+1-1-1	*/chemistry/femtochemistry	nouse
+1-1-1	*/chemistry/surface_$_chemistry	nouse
+1-1-1	*/chemistry/electrochemistry	nouse
+1-1-1	*/chemistry/organic_$_chemistry	nouse
+1-1-1	*/chemistry/physical_$_chemistry	nouse
+1-1-1	*/chemistry/geochemistry	nouse
+1-1-1	*/chemistry/thermochemistry	nouse
+1-1-1	*/chemistry/photochemistry	nouse
+1-1-1	*/chemistry/organic_$_chemistry/phytochemistry	nouse
+1-1-1	*/chemistry/organic_$_chemistry/biochemistry	nouse
+1-1-1	*/chemistry/organic_$_chemistry/biochemistry/enzymology	nouse
+1-1-1	*/chemistry/organic_$_chemistry/biochemistry/zymology	nouse

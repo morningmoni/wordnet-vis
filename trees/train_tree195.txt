@@ -1,0 +1,13 @@
+1-1-1	*/glycoside	nouse
+1-1-1	*/glycoside/strophanthin	nouse
+1-1-1	*/glycoside/nucleoside	nouse
+1-1-1	*/glycoside/glucoside	nouse
+1-1-1	*/glycoside/nucleoside/deoxythymidine	nouse
+1-1-1	*/glycoside/nucleoside/deoxyguanosine	nouse
+1-1-1	*/glycoside/nucleoside/inosine	nouse
+1-1-1	*/glycoside/nucleoside/deoxyadenosine	nouse
+1-1-1	*/glycoside/nucleoside/adenosine	nouse
+1-1-1	*/glycoside/nucleoside/deoxycytidine	nouse
+1-1-1	*/glycoside/glucoside/amygdalin	nouse
+1-1-1	*/glycoside/glucoside/saponin	nouse
+1-1-1	*/glycoside/glucoside/amygdalin/laetrile	nouse

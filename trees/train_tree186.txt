@@ -1,0 +1,14 @@
+1-1-1	*/handbook	nouse
+1-1-1	*/handbook/guidebook	nouse
+1-1-1	*/handbook/reckoner	nouse
+1-1-1	*/handbook/bible	nouse
+1-1-1	*/handbook/manual	nouse
+1-1-1	*/handbook/guidebook/travel_$_guidebook	nouse
+1-1-1	*/handbook/guidebook/field_$_guide	nouse
+1-1-1	*/handbook/guidebook/roadbook	nouse
+1-1-1	*/handbook/guidebook/travel_$_guidebook/baedeker	nouse
+1-1-1	*/handbook/manual/instruction_$_manual	nouse
+1-1-1	*/handbook/manual/consuetudinary	nouse
+1-1-1	*/handbook/manual/reference_$_manual	nouse
+1-1-1	*/handbook/manual/sex_$_manual	nouse
+1-1-1	*/handbook/manual/grimoire	nouse

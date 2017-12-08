@@ -1,0 +1,15 @@
+1-1-1	*/liability	nouse
+1-1-1	*/liability/weak_$_point	nouse
+1-1-1	*/liability/disadvantage	nouse
+1-1-1	*/liability/disadvantage/loss	nouse
+1-1-1	*/liability/disadvantage/defect	nouse
+1-1-1	*/liability/disadvantage/inferiority	nouse
+1-1-1	*/liability/disadvantage/unfavorableness	nouse
+1-1-1	*/liability/disadvantage/limitation	nouse
+1-1-1	*/liability/disadvantage/penalty	nouse
+1-1-1	*/liability/disadvantage/drawback	nouse
+1-1-1	*/liability/disadvantage/unprofitableness	nouse
+1-1-1	*/liability/disadvantage/inexpedience	nouse
+1-1-1	*/liability/disadvantage/awkwardness	nouse
+1-1-1	*/liability/disadvantage/unfavorableness/inauspiciousness	nouse
+1-1-1	*/liability/disadvantage/drawback/catch	nouse

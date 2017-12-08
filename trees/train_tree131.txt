@@ -1,0 +1,15 @@
+1-1-1	*/dermatitis	nouse
+1-1-1	*/dermatitis/seborrheic_$_dermatitis	nouse
+1-1-1	*/dermatitis/actinic_$_dermatitis	nouse
+1-1-1	*/dermatitis/cradle_$_cap	nouse
+1-1-1	*/dermatitis/hypericism	nouse
+1-1-1	*/dermatitis/schistosome_$_dermatitis	nouse
+1-1-1	*/dermatitis/neurodermatitis	nouse
+1-1-1	*/dermatitis/diaper_$_rash	nouse
+1-1-1	*/dermatitis/atopic_$_dermatitis	nouse
+1-1-1	*/dermatitis/contact_$_dermatitis	nouse
+1-1-1	*/dermatitis/contact_$_dermatitis/bubble_$_gum_$_dermatitis	nouse
+1-1-1	*/dermatitis/contact_$_dermatitis/Rhus_$_dermatitis	nouse
+1-1-1	*/dermatitis/contact_$_dermatitis/Rhus_$_dermatitis/poison_$_ivy	nouse
+1-1-1	*/dermatitis/contact_$_dermatitis/Rhus_$_dermatitis/poison_$_sumac	nouse
+1-1-1	*/dermatitis/contact_$_dermatitis/Rhus_$_dermatitis/poison_$_oak	nouse

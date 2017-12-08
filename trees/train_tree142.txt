@@ -1,0 +1,17 @@
+1-1-1	*/function_$_word	nouse
+1-1-1	*/function_$_word/determiner	nouse
+1-1-1	*/function_$_word/preposition	nouse
+1-1-1	*/function_$_word/conjunction	nouse
+1-1-1	*/function_$_word/pronoun	nouse
+1-1-1	*/function_$_word/particle	nouse
+1-1-1	*/function_$_word/determiner/article	nouse
+1-1-1	*/function_$_word/determiner/article/definite_$_article	nouse
+1-1-1	*/function_$_word/determiner/article/indefinite_$_article	nouse
+1-1-1	*/function_$_word/conjunction/coordinating_$_conjunction	nouse
+1-1-1	*/function_$_word/conjunction/subordinating_$_conjunction	nouse
+1-1-1	*/function_$_word/pronoun/anaphoric_$_pronoun	nouse
+1-1-1	*/function_$_word/pronoun/reciprocal_$_pronoun	nouse
+1-1-1	*/function_$_word/pronoun/personal_$_pronoun	nouse
+1-1-1	*/function_$_word/pronoun/relative_$_pronoun	nouse
+1-1-1	*/function_$_word/pronoun/demonstrative_$_pronoun	nouse
+1-1-1	*/function_$_word/pronoun/personal_$_pronoun/reflexive_$_pronoun	nouse

@@ -1,0 +1,11 @@
+1-1-1	*/lighter-than-air_$_craft	nouse
+1-1-1	*/lighter-than-air_$_craft/airship	nouse
+1-1-1	*/lighter-than-air_$_craft/balloon	nouse
+1-1-1	*/lighter-than-air_$_craft/airship/zeppelin	nouse
+1-1-1	*/lighter-than-air_$_craft/airship/barrage_$_balloon	nouse
+1-1-1	*/lighter-than-air_$_craft/airship/blimp	nouse
+1-1-1	*/lighter-than-air_$_craft/airship/barrage_$_balloon/kite_$_balloon	nouse
+1-1-1	*/lighter-than-air_$_craft/balloon/trial_$_balloon	nouse
+1-1-1	*/lighter-than-air_$_craft/balloon/hot-air_$_balloon	nouse
+1-1-1	*/lighter-than-air_$_craft/balloon/meteorological_$_balloon	nouse
+1-1-1	*/lighter-than-air_$_craft/balloon/meteorological_$_balloon/pilot_$_balloon	nouse

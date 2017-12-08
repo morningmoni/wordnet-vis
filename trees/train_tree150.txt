@@ -1,0 +1,17 @@
+1-1-1	*/professional_$_relation	nouse
+1-1-1	*/professional_$_relation/academic_$_relation	nouse
+1-1-1	*/professional_$_relation/medical_$_relation	nouse
+1-1-1	*/professional_$_relation/legal_$_relation	nouse
+1-1-1	*/professional_$_relation/academic_$_relation/teacher-student_$_relation	nouse
+1-1-1	*/professional_$_relation/medical_$_relation/nurse-patient_$_relation	nouse
+1-1-1	*/professional_$_relation/medical_$_relation/doctor-patient_$_relation	nouse
+1-1-1	*/professional_$_relation/legal_$_relation/fiduciary_$_relation	nouse
+1-1-1	*/professional_$_relation/legal_$_relation/fiduciary_$_relation/bank-depositor_$_relation	nouse
+1-1-1	*/professional_$_relation/legal_$_relation/fiduciary_$_relation/director-stockholder_$_relation	nouse
+1-1-1	*/professional_$_relation/legal_$_relation/fiduciary_$_relation/lawyer-client_$_relation	nouse
+1-1-1	*/professional_$_relation/legal_$_relation/fiduciary_$_relation/confidential_$_adviser-advisee_$_relation	nouse
+1-1-1	*/professional_$_relation/legal_$_relation/fiduciary_$_relation/partner_$_relation	nouse
+1-1-1	*/professional_$_relation/legal_$_relation/fiduciary_$_relation/executor-heir_$_relation	nouse
+1-1-1	*/professional_$_relation/legal_$_relation/fiduciary_$_relation/receiver-creditor_$_relation	nouse
+1-1-1	*/professional_$_relation/legal_$_relation/fiduciary_$_relation/conservator-ward_$_relation	nouse
+1-1-1	*/professional_$_relation/legal_$_relation/fiduciary_$_relation/trustee-beneficiary_$_relation	nouse

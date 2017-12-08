@@ -1,0 +1,17 @@
+1-1-1	*/kindness	nouse
+1-1-1	*/kindness/loving-kindness	nouse
+1-1-1	*/kindness/benevolence	nouse
+1-1-1	*/kindness/generosity	nouse
+1-1-1	*/kindness/consideration	nouse
+1-1-1	*/kindness/benevolence/charity	nouse
+1-1-1	*/kindness/generosity/liberality	nouse
+1-1-1	*/kindness/generosity/bigheartedness	nouse
+1-1-1	*/kindness/generosity/bounty	nouse
+1-1-1	*/kindness/generosity/unselfishness	nouse
+1-1-1	*/kindness/generosity/charitableness	nouse
+1-1-1	*/kindness/generosity/liberality/munificence	nouse
+1-1-1	*/kindness/generosity/unselfishness/altruism	nouse
+1-1-1	*/kindness/consideration/tact	nouse
+1-1-1	*/kindness/consideration/attentiveness	nouse
+1-1-1	*/kindness/consideration/tact/delicacy	nouse
+1-1-1	*/kindness/consideration/tact/savoir-faire	nouse

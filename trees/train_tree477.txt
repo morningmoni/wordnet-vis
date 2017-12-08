@@ -1,0 +1,12 @@
+1-1-1	*/allotment	nouse
+1-1-1	*/allotment/rationing	nouse
+1-1-1	*/allotment/grant	nouse
+1-1-1	*/allotment/deal	nouse
+1-1-1	*/allotment/reallotment	nouse
+1-1-1	*/allotment/parcel	nouse
+1-1-1	*/allotment/grant/grant-in-aid	nouse
+1-1-1	*/allotment/grant/award	nouse
+1-1-1	*/allotment/grant/block_$_grant	nouse
+1-1-1	*/allotment/grant/award/addiction	nouse
+1-1-1	*/allotment/deal/new_$_deal	nouse
+1-1-1	*/allotment/reallotment/reshuffle	nouse

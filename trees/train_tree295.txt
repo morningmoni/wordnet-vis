@@ -1,0 +1,12 @@
+1-1-1	*/reply	nouse
+1-1-1	*/reply/echo	nouse
+1-1-1	*/reply/answer	nouse
+1-1-1	*/reply/rejoinder	nouse
+1-1-1	*/reply/non_$_sequitur	nouse
+1-1-1	*/reply/counterblast	nouse
+1-1-1	*/reply/echo/echolalia	nouse
+1-1-1	*/reply/answer/refutation	nouse
+1-1-1	*/reply/answer/Urim_$_and_$_Thummim	nouse
+1-1-1	*/reply/answer/refutation/rebuttal	nouse
+1-1-1	*/reply/answer/refutation/confutation	nouse
+1-1-1	*/reply/rejoinder/sass	nouse

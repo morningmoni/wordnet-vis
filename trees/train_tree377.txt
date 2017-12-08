@@ -1,0 +1,12 @@
+1-1-1	*/seating	nouse
+1-1-1	*/seating/parquet_$_circle	nouse
+1-1-1	*/seating/orchestra	nouse
+1-1-1	*/seating/stall	nouse
+1-1-1	*/seating/ringside	nouse
+1-1-1	*/seating/circle	nouse
+1-1-1	*/seating/tiered_$_seat	nouse
+1-1-1	*/seating/parquet	nouse
+1-1-1	*/seating/tiered_$_seat/stand	nouse
+1-1-1	*/seating/tiered_$_seat/stand/bleachers	nouse
+1-1-1	*/seating/tiered_$_seat/stand/reviewing_$_stand	nouse
+1-1-1	*/seating/tiered_$_seat/stand/grandstand	nouse

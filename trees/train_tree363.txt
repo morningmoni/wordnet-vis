@@ -1,0 +1,12 @@
+1-1-1	*/egotist	nouse
+1-1-1	*/egotist/bragger	nouse
+1-1-1	*/egotist/egomaniac	nouse
+1-1-1	*/egotist/megalomaniac	nouse
+1-1-1	*/egotist/exhibitionist	nouse
+1-1-1	*/egotist/miles_$_gloriosus	nouse
+1-1-1	*/egotist/know-it-all	nouse
+1-1-1	*/egotist/popinjay	nouse
+1-1-1	*/egotist/exhibitionist/grandstander	nouse
+1-1-1	*/egotist/exhibitionist/hotdog	nouse
+1-1-1	*/egotist/exhibitionist/poseur	nouse
+1-1-1	*/egotist/exhibitionist/poseur/poseuse	nouse

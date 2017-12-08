@@ -1,0 +1,15 @@
+1-1-1	*/day_$_of_$_the_$_week	nouse
+1-1-1	*/day_$_of_$_the_$_week/weekday	nouse
+1-1-1	*/day_$_of_$_the_$_week/rest_$_day	nouse
+1-1-1	*/day_$_of_$_the_$_week/weekday/Monday	nouse
+1-1-1	*/day_$_of_$_the_$_week/weekday/workday	nouse
+1-1-1	*/day_$_of_$_the_$_week/weekday/Wednesday	nouse
+1-1-1	*/day_$_of_$_the_$_week/weekday/Saturday	nouse
+1-1-1	*/day_$_of_$_the_$_week/weekday/Thursday	nouse
+1-1-1	*/day_$_of_$_the_$_week/weekday/Tuesday	nouse
+1-1-1	*/day_$_of_$_the_$_week/weekday/Friday	nouse
+1-1-1	*/day_$_of_$_the_$_week/weekday/feria	nouse
+1-1-1	*/day_$_of_$_the_$_week/weekday/Monday/Whitmonday	nouse
+1-1-1	*/day_$_of_$_the_$_week/weekday/Tuesday/Whit-Tuesday	nouse
+1-1-1	*/day_$_of_$_the_$_week/rest_$_day/Sunday	nouse
+1-1-1	*/day_$_of_$_the_$_week/rest_$_day/Sabbath	nouse

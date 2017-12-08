@@ -1,0 +1,16 @@
+1-1-1	*/coefficient	nouse
+1-1-1	*/coefficient/coefficient_$_of_$_viscosity	nouse
+1-1-1	*/coefficient/transmittance	nouse
+1-1-1	*/coefficient/drag_$_coefficient	nouse
+1-1-1	*/coefficient/coefficient_$_of_$_self_$_induction	nouse
+1-1-1	*/coefficient/weight	nouse
+1-1-1	*/coefficient/absorption_$_coefficient	nouse
+1-1-1	*/coefficient/coefficient_$_of_$_reflection	nouse
+1-1-1	*/coefficient/modulus	nouse
+1-1-1	*/coefficient/coefficient_$_of_$_mutual_$_induction	nouse
+1-1-1	*/coefficient/coefficient_$_of_$_friction	nouse
+1-1-1	*/coefficient/coefficient_$_of_$_expansion	nouse
+1-1-1	*/coefficient/modulus/coefficient_$_of_$_elasticity	nouse
+1-1-1	*/coefficient/modulus/coefficient_$_of_$_elasticity/bulk_$_modulus	nouse
+1-1-1	*/coefficient/modulus/coefficient_$_of_$_elasticity/modulus_$_of_$_rigidity	nouse
+1-1-1	*/coefficient/modulus/coefficient_$_of_$_elasticity/Young's_$_modulus	nouse

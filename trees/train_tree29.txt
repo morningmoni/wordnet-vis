@@ -1,0 +1,17 @@
+1-1-1	*/agglomeration	nouse
+1-1-1	*/agglomeration/ball	nouse
+1-1-1	*/agglomeration/bunch	nouse
+1-1-1	*/agglomeration/ball/clew	nouse
+1-1-1	*/agglomeration/ball/clot	nouse
+1-1-1	*/agglomeration/ball/gob	nouse
+1-1-1	*/agglomeration/ball/clot/embolus	nouse
+1-1-1	*/agglomeration/ball/clot/thrombus	nouse
+1-1-1	*/agglomeration/bunch/Omega_$_Centauri	nouse
+1-1-1	*/agglomeration/bunch/Pleiades	nouse
+1-1-1	*/agglomeration/bunch/knot	nouse
+1-1-1	*/agglomeration/bunch/Northern_$_Cross	nouse
+1-1-1	*/agglomeration/bunch/swad	nouse
+1-1-1	*/agglomeration/bunch/tuft	nouse
+1-1-1	*/agglomeration/bunch/tuft/witches'_$_broom	nouse
+1-1-1	*/agglomeration/bunch/tuft/coma	nouse
+1-1-1	*/agglomeration/bunch/tuft/wisp	nouse

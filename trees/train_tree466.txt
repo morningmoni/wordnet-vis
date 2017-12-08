@@ -1,0 +1,13 @@
+1-1-1	*/cosmic_$_time	nouse
+1-1-1	*/cosmic_$_time/equinox	nouse
+1-1-1	*/cosmic_$_time/solstice	nouse
+1-1-1	*/cosmic_$_time/sidereal_$_time	nouse
+1-1-1	*/cosmic_$_time/equinox/vernal_$_equinox	nouse
+1-1-1	*/cosmic_$_time/equinox/autumnal_$_equinox	nouse
+1-1-1	*/cosmic_$_time/equinox/vernal_$_equinox/Noruz	nouse
+1-1-1	*/cosmic_$_time/solstice/winter_$_solstice	nouse
+1-1-1	*/cosmic_$_time/solstice/summer_$_solstice	nouse
+1-1-1	*/cosmic_$_time/sidereal_$_time/sidereal_$_year	nouse
+1-1-1	*/cosmic_$_time/sidereal_$_time/sidereal_$_month	nouse
+1-1-1	*/cosmic_$_time/sidereal_$_time/sidereal_$_day	nouse
+1-1-1	*/cosmic_$_time/sidereal_$_time/sidereal_$_hour	nouse

@@ -1,0 +1,15 @@
+1-1-1	*/oppressor	nouse
+1-1-1	*/oppressor/authoritarian	nouse
+1-1-1	*/oppressor/switcher	nouse
+1-1-1	*/oppressor/meanie	nouse
+1-1-1	*/oppressor/tormentor	nouse
+1-1-1	*/oppressor/torturer	nouse
+1-1-1	*/oppressor/authoritarian/Big_$_Brother	nouse
+1-1-1	*/oppressor/authoritarian/martinet	nouse
+1-1-1	*/oppressor/authoritarian/martinet/stickler	nouse
+1-1-1	*/oppressor/tormentor/witch-hunter	nouse
+1-1-1	*/oppressor/tormentor/harasser	nouse
+1-1-1	*/oppressor/tormentor/pest	nouse
+1-1-1	*/oppressor/tormentor/tantalizer	nouse
+1-1-1	*/oppressor/tormentor/pest/nudnik	nouse
+1-1-1	*/oppressor/torturer/flogger	nouse

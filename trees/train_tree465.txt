@@ -1,0 +1,13 @@
+1-1-1	*/change_$_of_$_course	nouse
+1-1-1	*/change_$_of_$_course/tack	nouse
+1-1-1	*/change_$_of_$_course/turn	nouse
+1-1-1	*/change_$_of_$_course/turn/telemark	nouse
+1-1-1	*/change_$_of_$_course/turn/swerve	nouse
+1-1-1	*/change_$_of_$_course/turn/left	nouse
+1-1-1	*/change_$_of_$_course/turn/right	nouse
+1-1-1	*/change_$_of_$_course/turn/three-point_$_turn	nouse
+1-1-1	*/change_$_of_$_course/turn/diversion	nouse
+1-1-1	*/change_$_of_$_course/turn/stem_$_turn	nouse
+1-1-1	*/change_$_of_$_course/turn/version	nouse
+1-1-1	*/change_$_of_$_course/turn/kick_$_turn	nouse
+1-1-1	*/change_$_of_$_course/turn/diversion/red_$_herring	nouse

@@ -1,0 +1,15 @@
+1-1-1	*/dispute	nouse
+1-1-1	*/dispute/quarrel	nouse
+1-1-1	*/dispute/gap	nouse
+1-1-1	*/dispute/controversy	nouse
+1-1-1	*/dispute/collision	nouse
+1-1-1	*/dispute/quarrel/bicker	nouse
+1-1-1	*/dispute/quarrel/bust-up	nouse
+1-1-1	*/dispute/quarrel/affray	nouse
+1-1-1	*/dispute/quarrel/affray/batrachomyomachia	nouse
+1-1-1	*/dispute/gap/generation_$_gap	nouse
+1-1-1	*/dispute/controversy/fight	nouse
+1-1-1	*/dispute/controversy/firestorm	nouse
+1-1-1	*/dispute/controversy/sparring	nouse
+1-1-1	*/dispute/controversy/polemic	nouse
+1-1-1	*/dispute/controversy/argy-bargy	nouse

@@ -1,0 +1,12 @@
+1-1-1	*/neuropteron	nouse
+1-1-1	*/neuropteron/snakefly	nouse
+1-1-1	*/neuropteron/spongefly	nouse
+1-1-1	*/neuropteron/lacewing	nouse
+1-1-1	*/neuropteron/ant_$_lion	nouse
+1-1-1	*/neuropteron/dobson	nouse
+1-1-1	*/neuropteron/alderfly	nouse
+1-1-1	*/neuropteron/fish_$_fly	nouse
+1-1-1	*/neuropteron/mantispid	nouse
+1-1-1	*/neuropteron/lacewing/brown_$_lacewing	nouse
+1-1-1	*/neuropteron/lacewing/green_$_lacewing	nouse
+1-1-1	*/neuropteron/lacewing/green_$_lacewing/goldeneye	nouse

@@ -1,0 +1,12 @@
+1-1-1	*/attentiveness	nouse
+1-1-1	*/attentiveness/carefulness	nouse
+1-1-1	*/attentiveness/watchfulness	nouse
+1-1-1	*/attentiveness/unmindfulness	nouse
+1-1-1	*/attentiveness/caution	nouse
+1-1-1	*/attentiveness/mindfulness	nouse
+1-1-1	*/attentiveness/alertness	nouse
+1-1-1	*/attentiveness/carefulness/conscientiousness	nouse
+1-1-1	*/attentiveness/carefulness/conscientiousness/strictness	nouse
+1-1-1	*/attentiveness/carefulness/conscientiousness/thoroughness	nouse
+1-1-1	*/attentiveness/carefulness/conscientiousness/diligence	nouse
+1-1-1	*/attentiveness/carefulness/conscientiousness/meticulousness	nouse

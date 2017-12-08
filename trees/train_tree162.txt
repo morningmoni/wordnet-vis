@@ -1,0 +1,12 @@
+1-1-1	*/education	nouse
+1-1-1	*/education/enlightenment	nouse
+1-1-1	*/education/physical_$_education	nouse
+1-1-1	*/education/experience	nouse
+1-1-1	*/education/foundation	nouse
+1-1-1	*/education/eruditeness	nouse
+1-1-1	*/education/enlightenment/edification	nouse
+1-1-1	*/education/enlightenment/satori	nouse
+1-1-1	*/education/enlightenment/edification/disenchantment	nouse
+1-1-1	*/education/experience/woodcraft	nouse
+1-1-1	*/education/experience/familiarization	nouse
+1-1-1	*/education/eruditeness/letters	nouse

@@ -1,0 +1,13 @@
+1-1-1	*/descriptive_$_linguistics	nouse
+1-1-1	*/descriptive_$_linguistics/morphophonemics	nouse
+1-1-1	*/descriptive_$_linguistics/grammar	nouse
+1-1-1	*/descriptive_$_linguistics/phonology	nouse
+1-1-1	*/descriptive_$_linguistics/grammar/syntax	nouse
+1-1-1	*/descriptive_$_linguistics/grammar/descriptive_$_grammar	nouse
+1-1-1	*/descriptive_$_linguistics/grammar/morphology	nouse
+1-1-1	*/descriptive_$_linguistics/grammar/prescriptive_$_grammar	nouse
+1-1-1	*/descriptive_$_linguistics/grammar/syntax/generative_$_grammar	nouse
+1-1-1	*/descriptive_$_linguistics/grammar/morphology/compound_$_morphology	nouse
+1-1-1	*/descriptive_$_linguistics/grammar/morphology/derivational_$_morphology	nouse
+1-1-1	*/descriptive_$_linguistics/grammar/morphology/inflectional_$_morphology	nouse
+1-1-1	*/descriptive_$_linguistics/phonology/orthoepy	nouse

@@ -1,0 +1,16 @@
+1-1-1	*/occultist	nouse
+1-1-1	*/occultist/psychic	nouse
+1-1-1	*/occultist/Chaldean	nouse
+1-1-1	*/occultist/sorcerer	nouse
+1-1-1	*/occultist/enchantress	nouse
+1-1-1	*/occultist/psychic/spirit_$_rapper	nouse
+1-1-1	*/occultist/psychic/medium	nouse
+1-1-1	*/occultist/psychic/clairvoyant	nouse
+1-1-1	*/occultist/sorcerer/sorceress	nouse
+1-1-1	*/occultist/sorcerer/magus	nouse
+1-1-1	*/occultist/sorcerer/exorcist	nouse
+1-1-1	*/occultist/sorcerer/enchanter	nouse
+1-1-1	*/occultist/sorcerer/witch_$_doctor	nouse
+1-1-1	*/occultist/sorcerer/Cagliostro	nouse
+1-1-1	*/occultist/sorcerer/sorceress/Circe	nouse
+1-1-1	*/occultist/sorcerer/witch_$_doctor/conjurer	nouse

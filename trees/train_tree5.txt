@@ -1,0 +1,15 @@
+1-1-1	*/praise	nouse
+1-1-1	*/praise/encomium	nouse
+1-1-1	*/praise/compliment	nouse
+1-1-1	*/praise/recommendation	nouse
+1-1-1	*/praise/eulogy	nouse
+1-1-1	*/praise/superlative	nouse
+1-1-1	*/praise/compliment/trade-last	nouse
+1-1-1	*/praise/compliment/unction	nouse
+1-1-1	*/praise/compliment/flattery	nouse
+1-1-1	*/praise/compliment/flattery/blandishment	nouse
+1-1-1	*/praise/compliment/flattery/blarney	nouse
+1-1-1	*/praise/compliment/flattery/adulation	nouse
+1-1-1	*/praise/compliment/flattery/puffery	nouse
+1-1-1	*/praise/recommendation/puff	nouse
+1-1-1	*/praise/recommendation/character	nouse

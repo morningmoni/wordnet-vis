@@ -1,0 +1,13 @@
+1-1-1	*/cephalopod	nouse
+1-1-1	*/cephalopod/chambered_$_nautilus	nouse
+1-1-1	*/cephalopod/dibranchiate	nouse
+1-1-1	*/cephalopod/decapod	nouse
+1-1-1	*/cephalopod/octopod	nouse
+1-1-1	*/cephalopod/decapod/spirula	nouse
+1-1-1	*/cephalopod/decapod/cuttlefish	nouse
+1-1-1	*/cephalopod/decapod/squid	nouse
+1-1-1	*/cephalopod/decapod/squid/ommastrephes	nouse
+1-1-1	*/cephalopod/decapod/squid/architeuthis	nouse
+1-1-1	*/cephalopod/decapod/squid/loligo	nouse
+1-1-1	*/cephalopod/octopod/paper_$_nautilus	nouse
+1-1-1	*/cephalopod/octopod/octopus	nouse

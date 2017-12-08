@@ -1,0 +1,17 @@
+1-1-1	*/need	nouse
+1-1-1	*/need/lack	nouse
+1-1-1	*/need/necessity	nouse
+1-1-1	*/need/lack/deficit	nouse
+1-1-1	*/need/lack/stringency	nouse
+1-1-1	*/need/lack/mineral_$_deficiency	nouse
+1-1-1	*/need/lack/dearth	nouse
+1-1-1	*/need/lack/absence	nouse
+1-1-1	*/need/lack/shortness	nouse
+1-1-1	*/need/lack/mineral_$_deficiency/sideropenia	nouse
+1-1-1	*/need/lack/absence/awayness	nouse
+1-1-1	*/need/lack/absence/nonoccurrence	nouse
+1-1-1	*/need/necessity/urgency	nouse
+1-1-1	*/need/necessity/requisiteness	nouse
+1-1-1	*/need/necessity/urgency/criticality	nouse
+1-1-1	*/need/necessity/urgency/hurry	nouse
+1-1-1	*/need/necessity/urgency/imperativeness	nouse

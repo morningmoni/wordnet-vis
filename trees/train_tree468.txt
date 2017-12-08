@@ -1,0 +1,11 @@
+1-1-1	*/friedcake	nouse
+1-1-1	*/friedcake/French_$_fritter	nouse
+1-1-1	*/friedcake/cruller	nouse
+1-1-1	*/friedcake/doughboy	nouse
+1-1-1	*/friedcake/fritter	nouse
+1-1-1	*/friedcake/doughnut	nouse
+1-1-1	*/friedcake/fritter/corn_$_fritter	nouse
+1-1-1	*/friedcake/fritter/apple_$_fritter	nouse
+1-1-1	*/friedcake/doughnut/raised_$_doughnut	nouse
+1-1-1	*/friedcake/doughnut/raised_$_doughnut/Berlin_$_doughnut	nouse
+1-1-1	*/friedcake/doughnut/raised_$_doughnut/fastnacht	nouse

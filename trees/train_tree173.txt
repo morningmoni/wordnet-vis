@@ -1,0 +1,14 @@
+1-1-1	*/subculture	nouse
+1-1-1	*/subculture/psychedelia	nouse
+1-1-1	*/subculture/youth_$_culture	nouse
+1-1-1	*/subculture/suburbia	nouse
+1-1-1	*/subculture/youth_$_culture/hip-hop	nouse
+1-1-1	*/subculture/youth_$_culture/youth_$_subculture	nouse
+1-1-1	*/subculture/youth_$_culture/youth_$_subculture/flower_$_people	nouse
+1-1-1	*/subculture/youth_$_culture/youth_$_subculture/rockers	nouse
+1-1-1	*/subculture/youth_$_culture/youth_$_subculture/punks	nouse
+1-1-1	*/subculture/youth_$_culture/youth_$_subculture/Rastafari	nouse
+1-1-1	*/subculture/youth_$_culture/youth_$_subculture/teddy_$_boys	nouse
+1-1-1	*/subculture/youth_$_culture/youth_$_subculture/mods	nouse
+1-1-1	*/subculture/youth_$_culture/youth_$_subculture/skinheads	nouse
+1-1-1	*/subculture/youth_$_culture/youth_$_subculture/beat_$_generation	nouse

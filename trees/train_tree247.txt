@@ -1,0 +1,15 @@
+1-1-1	*/banishment	nouse
+1-1-1	*/banishment/anathematization	nouse
+1-1-1	*/banishment/ejection	nouse
+1-1-1	*/banishment/rustication	nouse
+1-1-1	*/banishment/excommunication	nouse
+1-1-1	*/banishment/relegation	nouse
+1-1-1	*/banishment/exile	nouse
+1-1-1	*/banishment/disbarment	nouse
+1-1-1	*/banishment/ejection/ostracism	nouse
+1-1-1	*/banishment/ejection/defenestration	nouse
+1-1-1	*/banishment/ejection/deportation	nouse
+1-1-1	*/banishment/ejection/ouster	nouse
+1-1-1	*/banishment/ejection/barring	nouse
+1-1-1	*/banishment/ejection/ouster/deposition	nouse
+1-1-1	*/banishment/exile/Babylonian_$_Captivity	nouse

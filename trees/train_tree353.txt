@@ -1,0 +1,11 @@
+1-1-1	*/microscope	nouse
+1-1-1	*/microscope/angioscope	nouse
+1-1-1	*/microscope/light_$_microscope	nouse
+1-1-1	*/microscope/electron_$_microscope	nouse
+1-1-1	*/microscope/light_$_microscope/binocular_$_microscope	nouse
+1-1-1	*/microscope/light_$_microscope/hand_$_glass	nouse
+1-1-1	*/microscope/light_$_microscope/compound_$_microscope	nouse
+1-1-1	*/microscope/light_$_microscope/ultramicroscope	nouse
+1-1-1	*/microscope/light_$_microscope/binocular_$_microscope/operating_$_microscope	nouse
+1-1-1	*/microscope/light_$_microscope/hand_$_glass/loupe	nouse
+1-1-1	*/microscope/electron_$_microscope/field-emission_$_microscope	nouse

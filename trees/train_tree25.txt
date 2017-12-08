@@ -1,0 +1,16 @@
+1-1-1	*/New_$_World_$_monkey	nouse
+1-1-1	*/New_$_World_$_monkey/squirrel_$_monkey	nouse
+1-1-1	*/New_$_World_$_monkey/howler_$_monkey	nouse
+1-1-1	*/New_$_World_$_monkey/titi	nouse
+1-1-1	*/New_$_World_$_monkey/uakari	nouse
+1-1-1	*/New_$_World_$_monkey/capuchin	nouse
+1-1-1	*/New_$_World_$_monkey/woolly_$_monkey	nouse
+1-1-1	*/New_$_World_$_monkey/marmoset	nouse
+1-1-1	*/New_$_World_$_monkey/spider_$_monkey	nouse
+1-1-1	*/New_$_World_$_monkey/saki	nouse
+1-1-1	*/New_$_World_$_monkey/douroucouli	nouse
+1-1-1	*/New_$_World_$_monkey/marmoset/tamarin	nouse
+1-1-1	*/New_$_World_$_monkey/marmoset/pygmy_$_marmoset	nouse
+1-1-1	*/New_$_World_$_monkey/marmoset/true_$_marmoset	nouse
+1-1-1	*/New_$_World_$_monkey/marmoset/tamarin/silky_$_tamarin	nouse
+1-1-1	*/New_$_World_$_monkey/marmoset/tamarin/pinche	nouse

@@ -1,0 +1,13 @@
+1-1-1	*/self-denial	nouse
+1-1-1	*/self-denial/abstinence	nouse
+1-1-1	*/self-denial/mortification	nouse
+1-1-1	*/self-denial/asceticism	nouse
+1-1-1	*/self-denial/abstinence/fast	nouse
+1-1-1	*/self-denial/abstinence/inhibition	nouse
+1-1-1	*/self-denial/abstinence/sawm	nouse
+1-1-1	*/self-denial/abstinence/teetotaling	nouse
+1-1-1	*/self-denial/abstinence/sobriety	nouse
+1-1-1	*/self-denial/abstinence/chastity	nouse
+1-1-1	*/self-denial/abstinence/fast/hunger_$_strike	nouse
+1-1-1	*/self-denial/abstinence/fast/Ramadan	nouse
+1-1-1	*/self-denial/abstinence/fast/diet	nouse

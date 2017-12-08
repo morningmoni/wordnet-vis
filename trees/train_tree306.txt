@@ -1,0 +1,15 @@
+1-1-1	*/turning	nouse
+1-1-1	*/turning/volution	nouse
+1-1-1	*/turning/yaw	nouse
+1-1-1	*/turning/return	nouse
+1-1-1	*/turning/reversal	nouse
+1-1-1	*/turning/rotation	nouse
+1-1-1	*/turning/rotation/axial_$_rotation	nouse
+1-1-1	*/turning/rotation/spin	nouse
+1-1-1	*/turning/rotation/levorotation	nouse
+1-1-1	*/turning/rotation/orbital_$_rotation	nouse
+1-1-1	*/turning/rotation/dextrorotation	nouse
+1-1-1	*/turning/rotation/axial_$_rotation/wallow	nouse
+1-1-1	*/turning/rotation/spin/backspin	nouse
+1-1-1	*/turning/rotation/spin/English	nouse
+1-1-1	*/turning/rotation/spin/topspin	nouse

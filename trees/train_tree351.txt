@@ -1,0 +1,17 @@
+1-1-1	*/adhesive_$_material	nouse
+1-1-1	*/adhesive_$_material/paste	nouse
+1-1-1	*/adhesive_$_material/binder	nouse
+1-1-1	*/adhesive_$_material/spirit_$_gum	nouse
+1-1-1	*/adhesive_$_material/rubber_$_cement	nouse
+1-1-1	*/adhesive_$_material/birdlime	nouse
+1-1-1	*/adhesive_$_material/cement	nouse
+1-1-1	*/adhesive_$_material/paste/wafer	nouse
+1-1-1	*/adhesive_$_material/cement/mastic	nouse
+1-1-1	*/adhesive_$_material/cement/putty	nouse
+1-1-1	*/adhesive_$_material/cement/red-lead_$_putty	nouse
+1-1-1	*/adhesive_$_material/cement/glue	nouse
+1-1-1	*/adhesive_$_material/cement/iron_$_putty	nouse
+1-1-1	*/adhesive_$_material/cement/glue/marine_$_glue	nouse
+1-1-1	*/adhesive_$_material/cement/glue/animal_$_glue	nouse
+1-1-1	*/adhesive_$_material/cement/glue/fish_$_glue	nouse
+1-1-1	*/adhesive_$_material/cement/glue/casein_$_glue	nouse

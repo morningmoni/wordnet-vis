@@ -1,0 +1,13 @@
+1-1-1	*/employer	nouse
+1-1-1	*/employer/boss	nouse
+1-1-1	*/employer/slave_$_driver	nouse
+1-1-1	*/employer/padrone	nouse
+1-1-1	*/employer/master	nouse
+1-1-1	*/employer/mistress	nouse
+1-1-1	*/employer/boss/guvnor	nouse
+1-1-1	*/employer/boss/old_$_man	nouse
+1-1-1	*/employer/master/spymaster	nouse
+1-1-1	*/employer/master/postmaster	nouse
+1-1-1	*/employer/master/stationmaster	nouse
+1-1-1	*/employer/master/postmaster/postmistress	nouse
+1-1-1	*/employer/mistress/chatelaine	nouse

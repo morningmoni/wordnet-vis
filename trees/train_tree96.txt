@@ -1,0 +1,12 @@
+1-1-1	*/noise	nouse
+1-1-1	*/noise/jitter	nouse
+1-1-1	*/noise/background	nouse
+1-1-1	*/noise/static	nouse
+1-1-1	*/noise/clutter	nouse
+1-1-1	*/noise/crosstalk	nouse
+1-1-1	*/noise/fadeout	nouse
+1-1-1	*/noise/white_$_noise	nouse
+1-1-1	*/noise/background/background_$_noise	nouse
+1-1-1	*/noise/background/background_$_radiation	nouse
+1-1-1	*/noise/background/background_$_noise/surface_$_noise	nouse
+1-1-1	*/noise/static/radio_$_noise	nouse

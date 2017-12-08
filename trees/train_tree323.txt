@@ -1,0 +1,11 @@
+1-1-1	*/good_$_fortune	nouse
+1-1-1	*/good_$_fortune/blessing	nouse
+1-1-1	*/good_$_fortune/prosperity	nouse
+1-1-1	*/good_$_fortune/blessing/mercy	nouse
+1-1-1	*/good_$_fortune/prosperity/wellbeing	nouse
+1-1-1	*/good_$_fortune/prosperity/strength	nouse
+1-1-1	*/good_$_fortune/prosperity/success	nouse
+1-1-1	*/good_$_fortune/prosperity/wellbeing/fool's_$_paradise	nouse
+1-1-1	*/good_$_fortune/prosperity/wellbeing/health	nouse
+1-1-1	*/good_$_fortune/prosperity/success/pay_$_dirt	nouse
+1-1-1	*/good_$_fortune/prosperity/success/big_$_time	nouse

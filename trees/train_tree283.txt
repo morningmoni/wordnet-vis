@@ -1,0 +1,16 @@
+1-1-1	*/counter	nouse
+1-1-1	*/counter/reception_$_desk	nouse
+1-1-1	*/counter/meat_$_counter	nouse
+1-1-1	*/counter/bar	nouse
+1-1-1	*/counter/checkout	nouse
+1-1-1	*/counter/notions_$_counter	nouse
+1-1-1	*/counter/bar/wet_$_bar	nouse
+1-1-1	*/counter/bar/cash_$_bar	nouse
+1-1-1	*/counter/bar/soda_$_fountain	nouse
+1-1-1	*/counter/bar/oyster_$_bar	nouse
+1-1-1	*/counter/bar/snack_$_bar	nouse
+1-1-1	*/counter/bar/wine_$_bar	nouse
+1-1-1	*/counter/bar/salad_$_bar	nouse
+1-1-1	*/counter/bar/sushi_$_bar	nouse
+1-1-1	*/counter/bar/snack_$_bar/milk_$_bar	nouse
+1-1-1	*/counter/bar/snack_$_bar/commissary	nouse

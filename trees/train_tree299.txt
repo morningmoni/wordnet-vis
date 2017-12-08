@@ -1,0 +1,16 @@
+1-1-1	*/liberation	nouse
+1-1-1	*/liberation/clearing	nouse
+1-1-1	*/liberation/probation	nouse
+1-1-1	*/liberation/relief	nouse
+1-1-1	*/liberation/deregulation	nouse
+1-1-1	*/liberation/jail_$_delivery	nouse
+1-1-1	*/liberation/manumission	nouse
+1-1-1	*/liberation/unsnarling	nouse
+1-1-1	*/liberation/parole	nouse
+1-1-1	*/liberation/emancipation	nouse
+1-1-1	*/liberation/clearing/purge	nouse
+1-1-1	*/liberation/clearing/whitewash	nouse
+1-1-1	*/liberation/clearing/vindication	nouse
+1-1-1	*/liberation/clearing/purge/purification	nouse
+1-1-1	*/liberation/clearing/vindication/justification	nouse
+1-1-1	*/liberation/clearing/vindication/rehabilitation	nouse

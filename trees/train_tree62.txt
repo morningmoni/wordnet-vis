@@ -1,0 +1,12 @@
+1-1-1	*/course	nouse
+1-1-1	*/course/racetrack	nouse
+1-1-1	*/course/golf_$_course	nouse
+1-1-1	*/course/racetrack/speedway	nouse
+1-1-1	*/course/racetrack/cinder_$_track	nouse
+1-1-1	*/course/racetrack/racing_$_circuit	nouse
+1-1-1	*/course/racetrack/velodrome	nouse
+1-1-1	*/course/racetrack/dirt_$_track	nouse
+1-1-1	*/course/racetrack/dirt_$_track/Pimlico	nouse
+1-1-1	*/course/racetrack/dirt_$_track/Belmont_$_Park	nouse
+1-1-1	*/course/racetrack/dirt_$_track/Churchill_$_Downs	nouse
+1-1-1	*/course/golf_$_course/links	nouse

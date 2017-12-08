@@ -1,0 +1,13 @@
+1-1-1	*/hypersensitivity	nouse
+1-1-1	*/hypersensitivity/cryesthesia	nouse
+1-1-1	*/hypersensitivity/hypersensitivity_$_reaction	nouse
+1-1-1	*/hypersensitivity/hypersensitivity_$_reaction/allergic_$_rhinitis	nouse
+1-1-1	*/hypersensitivity/hypersensitivity_$_reaction/anaphylaxis	nouse
+1-1-1	*/hypersensitivity/hypersensitivity_$_reaction/allergy	nouse
+1-1-1	*/hypersensitivity/hypersensitivity_$_reaction/urtication	nouse
+1-1-1	*/hypersensitivity/hypersensitivity_$_reaction/allergic_$_rhinitis/hay_$_fever	nouse
+1-1-1	*/hypersensitivity/hypersensitivity_$_reaction/anaphylaxis/anaphylactic_$_shock	nouse
+1-1-1	*/hypersensitivity/hypersensitivity_$_reaction/allergy/serum_$_sickness	nouse
+1-1-1	*/hypersensitivity/hypersensitivity_$_reaction/allergy/delayed_$_allergy	nouse
+1-1-1	*/hypersensitivity/hypersensitivity_$_reaction/allergy/food_$_allergy	nouse
+1-1-1	*/hypersensitivity/hypersensitivity_$_reaction/allergy/immediate_$_allergy	nouse

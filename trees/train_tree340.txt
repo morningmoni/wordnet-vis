@@ -1,0 +1,11 @@
+1-1-1	*/hours	nouse
+1-1-1	*/hours/shift	nouse
+1-1-1	*/hours/shift/day_$_shift	nouse
+1-1-1	*/hours/shift/watch	nouse
+1-1-1	*/hours/shift/go	nouse
+1-1-1	*/hours/shift/evening_$_shift	nouse
+1-1-1	*/hours/shift/night_$_shift	nouse
+1-1-1	*/hours/shift/trick	nouse
+1-1-1	*/hours/shift/split_$_shift	nouse
+1-1-1	*/hours/shift/watch/dogwatch	nouse
+1-1-1	*/hours/shift/watch/graveyard_$_watch	nouse

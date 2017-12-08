@@ -1,0 +1,17 @@
+1-1-1	*/partiality	nouse
+1-1-1	*/partiality/ethnocentrism	nouse
+1-1-1	*/partiality/anthropocentrism	nouse
+1-1-1	*/partiality/tilt	nouse
+1-1-1	*/partiality/bias	nouse
+1-1-1	*/partiality/sectionalism	nouse
+1-1-1	*/partiality/Eurocentrism	nouse
+1-1-1	*/partiality/unfairness	nouse
+1-1-1	*/partiality/bias/experimenter_$_bias	nouse
+1-1-1	*/partiality/bias/Islamophobia	nouse
+1-1-1	*/partiality/bias/racism	nouse
+1-1-1	*/partiality/bias/homophobia	nouse
+1-1-1	*/partiality/bias/irrational_$_hostility	nouse
+1-1-1	*/partiality/bias/taboo	nouse
+1-1-1	*/partiality/bias/tendentiousness	nouse
+1-1-1	*/partiality/bias/racism/anti-Semitism	nouse
+1-1-1	*/partiality/bias/racism/white_$_supremacy	nouse

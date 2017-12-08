@@ -1,0 +1,12 @@
+1-1-1	*/pile	nouse
+1-1-1	*/pile/shock	nouse
+1-1-1	*/pile/scrapheap	nouse
+1-1-1	*/pile/slagheap	nouse
+1-1-1	*/pile/woodpile	nouse
+1-1-1	*/pile/stack	nouse
+1-1-1	*/pile/dunghill	nouse
+1-1-1	*/pile/compost_$_heap	nouse
+1-1-1	*/pile/pyre	nouse
+1-1-1	*/pile/stockpile	nouse
+1-1-1	*/pile/stack/haystack	nouse
+1-1-1	*/pile/stack/haystack/haycock	nouse

@@ -1,0 +1,13 @@
+1-1-1	*/paper_$_money	nouse
+1-1-1	*/paper_$_money/fractional_$_currency	nouse
+1-1-1	*/paper_$_money/fiat_$_money	nouse
+1-1-1	*/paper_$_money/bill	nouse
+1-1-1	*/paper_$_money/bill/twenty_$_dollar_$_bill	nouse
+1-1-1	*/paper_$_money/bill/fiver	nouse
+1-1-1	*/paper_$_money/bill/tenner	nouse
+1-1-1	*/paper_$_money/bill/fifty_$_dollar_$_bill	nouse
+1-1-1	*/paper_$_money/bill/hundred_$_dollar_$_bill	nouse
+1-1-1	*/paper_$_money/bill/dollar	nouse
+1-1-1	*/paper_$_money/bill/silver_$_certificate	nouse
+1-1-1	*/paper_$_money/bill/two_$_dollar_$_bill	nouse
+1-1-1	*/paper_$_money/bill/fiver/nickel	nouse

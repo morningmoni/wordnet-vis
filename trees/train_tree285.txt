@@ -1,0 +1,16 @@
+1-1-1	*/pace	nouse
+1-1-1	*/pace/beat	nouse
+1-1-1	*/pace/slowness	nouse
+1-1-1	*/pace/sluggishness	nouse
+1-1-1	*/pace/celerity	nouse
+1-1-1	*/pace/speed	nouse
+1-1-1	*/pace/slowness/leisureliness	nouse
+1-1-1	*/pace/slowness/dilatoriness	nouse
+1-1-1	*/pace/celerity/fleetness	nouse
+1-1-1	*/pace/celerity/immediacy	nouse
+1-1-1	*/pace/celerity/dispatch	nouse
+1-1-1	*/pace/celerity/promptness	nouse
+1-1-1	*/pace/speed/execution_$_speed	nouse
+1-1-1	*/pace/speed/graduality	nouse
+1-1-1	*/pace/speed/haste	nouse
+1-1-1	*/pace/speed/haste/abruptness	nouse

@@ -1,0 +1,15 @@
+1-1-1	*/aggression	nouse
+1-1-1	*/aggression/violence	nouse
+1-1-1	*/aggression/meat_$_grinder	nouse
+1-1-1	*/aggression/plundering	nouse
+1-1-1	*/aggression/violence/domestic_$_violence	nouse
+1-1-1	*/aggression/violence/road_$_rage	nouse
+1-1-1	*/aggression/violence/riot	nouse
+1-1-1	*/aggression/violence/riot/race_$_riot	nouse
+1-1-1	*/aggression/plundering/looting	nouse
+1-1-1	*/aggression/plundering/sack	nouse
+1-1-1	*/aggression/plundering/banditry	nouse
+1-1-1	*/aggression/plundering/depredation	nouse
+1-1-1	*/aggression/plundering/ravaging	nouse
+1-1-1	*/aggression/plundering/spoil	nouse
+1-1-1	*/aggression/plundering/rape	nouse

@@ -1,0 +1,13 @@
+1-1-1	*/space	nouse
+1-1-1	*/space/absolute_$_space	nouse
+1-1-1	*/space/mathematical_$_space	nouse
+1-1-1	*/space/outer_$_space	nouse
+1-1-1	*/space/phase_$_space	nouse
+1-1-1	*/space/mathematical_$_space/manifold	nouse
+1-1-1	*/space/mathematical_$_space/subspace	nouse
+1-1-1	*/space/mathematical_$_space/metric_$_space	nouse
+1-1-1	*/space/mathematical_$_space/null_$_space	nouse
+1-1-1	*/space/mathematical_$_space/metric_$_space/Euclidean_$_space	nouse
+1-1-1	*/space/mathematical_$_space/metric_$_space/Hilbert_$_space	nouse
+1-1-1	*/space/phase_$_space/dynamical_$_system	nouse
+1-1-1	*/space/phase_$_space/dynamical_$_system/chaos	nouse

@@ -1,0 +1,15 @@
+1-1-1	*/support	nouse
+1-1-1	*/support/prop	nouse
+1-1-1	*/support/buttress	nouse
+1-1-1	*/support/foundation	nouse
+1-1-1	*/support/pedestal	nouse
+1-1-1	*/support/basement	nouse
+1-1-1	*/support/architrave	nouse
+1-1-1	*/support/abutment	nouse
+1-1-1	*/support/prop/pitprop	nouse
+1-1-1	*/support/buttress/flying_$_buttress	nouse
+1-1-1	*/support/foundation/bed	nouse
+1-1-1	*/support/foundation/raft_$_foundation	nouse
+1-1-1	*/support/foundation/bed/railroad_$_bed	nouse
+1-1-1	*/support/foundation/bed/roadbed	nouse
+1-1-1	*/support/pedestal/socle	nouse

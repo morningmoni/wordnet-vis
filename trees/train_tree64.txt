@@ -1,0 +1,13 @@
+1-1-1	*/sign	nouse
+1-1-1	*/sign/vital_$_sign	nouse
+1-1-1	*/sign/vital_$_sign/body_$_temperature	nouse
+1-1-1	*/sign/vital_$_sign/respiratory_$_rate	nouse
+1-1-1	*/sign/vital_$_sign/pulse	nouse
+1-1-1	*/sign/vital_$_sign/blood_$_pressure	nouse
+1-1-1	*/sign/vital_$_sign/body_$_temperature/basal_$_body_$_temperature	nouse
+1-1-1	*/sign/vital_$_sign/pulse/femoral_$_pulse	nouse
+1-1-1	*/sign/vital_$_sign/pulse/radial_$_pulse	nouse
+1-1-1	*/sign/vital_$_sign/blood_$_pressure/systolic_$_pressure	nouse
+1-1-1	*/sign/vital_$_sign/blood_$_pressure/venous_$_pressure	nouse
+1-1-1	*/sign/vital_$_sign/blood_$_pressure/diastolic_$_pressure	nouse
+1-1-1	*/sign/vital_$_sign/blood_$_pressure/arterial_$_pressure	nouse

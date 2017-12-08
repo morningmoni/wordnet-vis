@@ -1,0 +1,15 @@
+1-1-1	*/landmass	nouse
+1-1-1	*/landmass/subcontinent	nouse
+1-1-1	*/landmass/continent	nouse
+1-1-1	*/landmass/continent/Australia	nouse
+1-1-1	*/landmass/continent/Laurasia	nouse
+1-1-1	*/landmass/continent/Antarctica	nouse
+1-1-1	*/landmass/continent/Europe	nouse
+1-1-1	*/landmass/continent/Eurasia	nouse
+1-1-1	*/landmass/continent/North_$_America	nouse
+1-1-1	*/landmass/continent/South_$_America	nouse
+1-1-1	*/landmass/continent/Pangaea	nouse
+1-1-1	*/landmass/continent/Africa	nouse
+1-1-1	*/landmass/continent/Asia	nouse
+1-1-1	*/landmass/continent/Gondwanaland	nouse
+1-1-1	*/landmass/continent/Australia/Gulf_$_of_$_Carpentaria	nouse

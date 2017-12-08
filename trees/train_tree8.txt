@@ -1,0 +1,14 @@
+1-1-1	*/card_$_player	nouse
+1-1-1	*/card_$_player/eldest_$_hand	nouse
+1-1-1	*/card_$_player/bridge_$_player	nouse
+1-1-1	*/card_$_player/shuffler	nouse
+1-1-1	*/card_$_player/Hoyle	nouse
+1-1-1	*/card_$_player/dealer	nouse
+1-1-1	*/card_$_player/Culbertson	nouse
+1-1-1	*/card_$_player/cardsharp	nouse
+1-1-1	*/card_$_player/cardholder	nouse
+1-1-1	*/card_$_player/bridge_$_player/bridge_$_partner	nouse
+1-1-1	*/card_$_player/bridge_$_player/bidder	nouse
+1-1-1	*/card_$_player/bridge_$_player/contractor	nouse
+1-1-1	*/card_$_player/bridge_$_player/bridge_$_partner/raiser	nouse
+1-1-1	*/card_$_player/bridge_$_player/bidder/preemptor	nouse

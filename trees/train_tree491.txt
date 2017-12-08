@@ -1,0 +1,12 @@
+1-1-1	*/system	nouse
+1-1-1	*/system/credit_$_system	nouse
+1-1-1	*/system/legal_$_system	nouse
+1-1-1	*/system/pricing_$_system	nouse
+1-1-1	*/system/promotion_$_system	nouse
+1-1-1	*/system/legal_$_system/voting_$_system	nouse
+1-1-1	*/system/legal_$_system/patent_$_system	nouse
+1-1-1	*/system/legal_$_system/jury_$_system	nouse
+1-1-1	*/system/legal_$_system/tax_$_system	nouse
+1-1-1	*/system/legal_$_system/bail	nouse
+1-1-1	*/system/legal_$_system/voting_$_system/uninominal_$_system	nouse
+1-1-1	*/system/legal_$_system/voting_$_system/list_$_system	nouse

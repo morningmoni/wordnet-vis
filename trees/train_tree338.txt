@@ -1,0 +1,12 @@
+1-1-1	*/broadcaster	nouse
+1-1-1	*/broadcaster/broadcast_$_journalist	nouse
+1-1-1	*/broadcaster/telecaster	nouse
+1-1-1	*/broadcaster/disk_$_jockey	nouse
+1-1-1	*/broadcaster/announcer	nouse
+1-1-1	*/broadcaster/broadcast_$_journalist/Thomas	nouse
+1-1-1	*/broadcaster/broadcast_$_journalist/Murrow	nouse
+1-1-1	*/broadcaster/announcer/tv_$_announcer	nouse
+1-1-1	*/broadcaster/announcer/newscaster	nouse
+1-1-1	*/broadcaster/announcer/radio_$_announcer	nouse
+1-1-1	*/broadcaster/announcer/sports_$_announcer	nouse
+1-1-1	*/broadcaster/announcer/newscaster/newsreader	nouse

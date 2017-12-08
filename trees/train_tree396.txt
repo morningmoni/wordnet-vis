@@ -1,0 +1,12 @@
+1-1-1	*/circle	nouse
+1-1-1	*/circle/disk	nouse
+1-1-1	*/circle/disk/puck	nouse
+1-1-1	*/circle/disk/acetate_$_disk	nouse
+1-1-1	*/circle/disk/deadeye	nouse
+1-1-1	*/circle/disk/Frisbee	nouse
+1-1-1	*/circle/disk/diaphragm	nouse
+1-1-1	*/circle/disk/discus	nouse
+1-1-1	*/circle/disk/planchet	nouse
+1-1-1	*/circle/disk/brake_$_disk	nouse
+1-1-1	*/circle/disk/token	nouse
+1-1-1	*/circle/disk/token/subway_$_token	nouse

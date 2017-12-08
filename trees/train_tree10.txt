@@ -1,0 +1,16 @@
+1-1-1	*/drug_$_user	nouse
+1-1-1	*/drug_$_user/head	nouse
+1-1-1	*/drug_$_user/tripper	nouse
+1-1-1	*/drug_$_user/addict	nouse
+1-1-1	*/drug_$_user/head/pill_$_head	nouse
+1-1-1	*/drug_$_user/head/pothead	nouse
+1-1-1	*/drug_$_user/head/acid_$_head	nouse
+1-1-1	*/drug_$_user/head/hash_$_head	nouse
+1-1-1	*/drug_$_user/addict/drug_$_addict	nouse
+1-1-1	*/drug_$_user/addict/caffeine_$_addict	nouse
+1-1-1	*/drug_$_user/addict/speed_$_freak	nouse
+1-1-1	*/drug_$_user/addict/drug_$_addict/cocaine_$_addict	nouse
+1-1-1	*/drug_$_user/addict/drug_$_addict/opium_$_addict	nouse
+1-1-1	*/drug_$_user/addict/drug_$_addict/crack_$_addict	nouse
+1-1-1	*/drug_$_user/addict/drug_$_addict/withdrawer	nouse
+1-1-1	*/drug_$_user/addict/drug_$_addict/heroin_$_addict	nouse

@@ -1,0 +1,16 @@
+1-1-1	*/investigator	nouse
+1-1-1	*/investigator/coroner	nouse
+1-1-1	*/investigator/ombudsman	nouse
+1-1-1	*/investigator/Wiesenthal	nouse
+1-1-1	*/investigator/detective	nouse
+1-1-1	*/investigator/adjuster	nouse
+1-1-1	*/investigator/examiner	nouse
+1-1-1	*/investigator/detective/sleuth	nouse
+1-1-1	*/investigator/detective/private_$_detective	nouse
+1-1-1	*/investigator/detective/private_$_detective/hotel_$_detective	nouse
+1-1-1	*/investigator/detective/private_$_detective/inquiry_$_agent	nouse
+1-1-1	*/investigator/detective/private_$_detective/store_$_detective	nouse
+1-1-1	*/investigator/examiner/bank_$_examiner	nouse
+1-1-1	*/investigator/examiner/scrutinizer	nouse
+1-1-1	*/investigator/examiner/checker	nouse
+1-1-1	*/investigator/examiner/scrutineer	nouse

@@ -1,0 +1,11 @@
+1-1-1	*/Celtic	nouse
+1-1-1	*/Celtic/Gaelic	nouse
+1-1-1	*/Celtic/Brythonic	nouse
+1-1-1	*/Celtic/Gaelic/Scottish_$_Gaelic	nouse
+1-1-1	*/Celtic/Gaelic/Manx	nouse
+1-1-1	*/Celtic/Gaelic/Irish	nouse
+1-1-1	*/Celtic/Gaelic/Irish/Old_$_Irish	nouse
+1-1-1	*/Celtic/Gaelic/Irish/Middle_$_Irish	nouse
+1-1-1	*/Celtic/Brythonic/Breton	nouse
+1-1-1	*/Celtic/Brythonic/Cornish	nouse
+1-1-1	*/Celtic/Brythonic/Welsh	nouse

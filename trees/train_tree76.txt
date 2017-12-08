@@ -1,0 +1,12 @@
+1-1-1	*/wanderer	nouse
+1-1-1	*/wanderer/nomad	nouse
+1-1-1	*/wanderer/vagrant	nouse
+1-1-1	*/wanderer/nomad/Bedouin	nouse
+1-1-1	*/wanderer/nomad/Saracen	nouse
+1-1-1	*/wanderer/nomad/Bushman	nouse
+1-1-1	*/wanderer/nomad/Scythian	nouse
+1-1-1	*/wanderer/nomad/Hun	nouse
+1-1-1	*/wanderer/vagrant/tramp	nouse
+1-1-1	*/wanderer/vagrant/sundowner	nouse
+1-1-1	*/wanderer/vagrant/beachcomber	nouse
+1-1-1	*/wanderer/vagrant/tramp/dosser	nouse

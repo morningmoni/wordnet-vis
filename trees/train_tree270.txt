@@ -1,0 +1,17 @@
+1-1-1	*/classical_$_music	nouse
+1-1-1	*/classical_$_music/concerto	nouse
+1-1-1	*/classical_$_music/opera	nouse
+1-1-1	*/classical_$_music/fugue	nouse
+1-1-1	*/classical_$_music/chamber_$_music	nouse
+1-1-1	*/classical_$_music/sonata	nouse
+1-1-1	*/classical_$_music/rondo	nouse
+1-1-1	*/classical_$_music/cantata	nouse
+1-1-1	*/classical_$_music/concerto/concerto_$_grosso	nouse
+1-1-1	*/classical_$_music/opera/comic_$_opera	nouse
+1-1-1	*/classical_$_music/opera/musical_$_drama	nouse
+1-1-1	*/classical_$_music/opera/grand_$_opera	nouse
+1-1-1	*/classical_$_music/opera/comic_$_opera/operetta	nouse
+1-1-1	*/classical_$_music/sonata/piano_$_sonata	nouse
+1-1-1	*/classical_$_music/sonata/sonatina	nouse
+1-1-1	*/classical_$_music/sonata/symphony	nouse
+1-1-1	*/classical_$_music/cantata/Messiah	nouse

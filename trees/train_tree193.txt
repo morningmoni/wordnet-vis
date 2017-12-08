@@ -1,0 +1,12 @@
+1-1-1	*/reserve	nouse
+1-1-1	*/reserve/reserve_$_account	nouse
+1-1-1	*/reserve/bank	nouse
+1-1-1	*/reserve/fuel_$_level	nouse
+1-1-1	*/reserve/reserve_$_account/pool	nouse
+1-1-1	*/reserve/reserve_$_account/hidden_$_reserve	nouse
+1-1-1	*/reserve/reserve_$_account/valuation_$_reserve	nouse
+1-1-1	*/reserve/reserve_$_account/hidden_$_reserve/cookie_$_jar_$_reserve	nouse
+1-1-1	*/reserve/bank/blood_$_bank	nouse
+1-1-1	*/reserve/bank/eye_$_bank	nouse
+1-1-1	*/reserve/bank/food_$_bank	nouse
+1-1-1	*/reserve/bank/soil_$_bank	nouse

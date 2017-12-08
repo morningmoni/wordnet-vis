@@ -1,0 +1,12 @@
+1-1-1	*/stairs	nouse
+1-1-1	*/stairs/ladder	nouse
+1-1-1	*/stairs/ladder/monkey_$_ladder	nouse
+1-1-1	*/stairs/ladder/scaling_$_ladder	nouse
+1-1-1	*/stairs/ladder/rope_$_ladder	nouse
+1-1-1	*/stairs/ladder/Jacob's_$_ladder	nouse
+1-1-1	*/stairs/ladder/step_$_ladder	nouse
+1-1-1	*/stairs/ladder/sea_$_ladder	nouse
+1-1-1	*/stairs/ladder/extension_$_ladder	nouse
+1-1-1	*/stairs/ladder/articulated_$_ladder	nouse
+1-1-1	*/stairs/ladder/sea_$_ladder/accommodation_$_ladder	nouse
+1-1-1	*/stairs/ladder/extension_$_ladder/aerial_$_ladder	nouse

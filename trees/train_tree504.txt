@@ -1,0 +1,13 @@
+1-1-1	*/physiological_$_property	nouse
+1-1-1	*/physiological_$_property/asexuality	nouse
+1-1-1	*/physiological_$_property/animateness	nouse
+1-1-1	*/physiological_$_property/inanimateness	nouse
+1-1-1	*/physiological_$_property/sex	nouse
+1-1-1	*/physiological_$_property/animateness/sentience	nouse
+1-1-1	*/physiological_$_property/animateness/animation	nouse
+1-1-1	*/physiological_$_property/inanimateness/deadness	nouse
+1-1-1	*/physiological_$_property/inanimateness/insentience	nouse
+1-1-1	*/physiological_$_property/sex/maleness	nouse
+1-1-1	*/physiological_$_property/sex/androgyny	nouse
+1-1-1	*/physiological_$_property/sex/femaleness	nouse
+1-1-1	*/physiological_$_property/sex/maleness/virility	nouse

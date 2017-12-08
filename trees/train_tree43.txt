@@ -1,0 +1,15 @@
+1-1-1	*/flap	nouse
+1-1-1	*/flap/codpiece	nouse
+1-1-1	*/flap/pocket_$_flap	nouse
+1-1-1	*/flap/lap	nouse
+1-1-1	*/flap/tent-fly	nouse
+1-1-1	*/flap/earflap	nouse
+1-1-1	*/flap/jag	nouse
+1-1-1	*/flap/coattail	nouse
+1-1-1	*/flap/tongue	nouse
+1-1-1	*/flap/barndoor	nouse
+1-1-1	*/flap/lap/cuff	nouse
+1-1-1	*/flap/lap/lappet	nouse
+1-1-1	*/flap/lap/lapel	nouse
+1-1-1	*/flap/lap/cuff/trouser_$_cuff	nouse
+1-1-1	*/flap/lap/lapel/revers	nouse

@@ -1,0 +1,17 @@
+1-1-1	*/heater	nouse
+1-1-1	*/heater/heating_$_pad	nouse
+1-1-1	*/heater/oil_$_heater	nouse
+1-1-1	*/heater/space_$_heater	nouse
+1-1-1	*/heater/water_$_heater	nouse
+1-1-1	*/heater/defroster	nouse
+1-1-1	*/heater/stove	nouse
+1-1-1	*/heater/demister	nouse
+1-1-1	*/heater/radiator	nouse
+1-1-1	*/heater/brazier	nouse
+1-1-1	*/heater/gas_$_heater	nouse
+1-1-1	*/heater/convector	nouse
+1-1-1	*/heater/solar_$_heater	nouse
+1-1-1	*/heater/space_$_heater/electric_$_heater	nouse
+1-1-1	*/heater/space_$_heater/electric_$_heater/heat_$_lamp	nouse
+1-1-1	*/heater/water_$_heater/water_$_back	nouse
+1-1-1	*/heater/brazier/hibachi	nouse

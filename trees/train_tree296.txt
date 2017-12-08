@@ -1,0 +1,15 @@
+1-1-1	*/eye_$_operation	nouse
+1-1-1	*/eye_$_operation/keratotomy	nouse
+1-1-1	*/eye_$_operation/laser-assisted_$_in_$_situ_$_keratomileusis	nouse
+1-1-1	*/eye_$_operation/cyclodestructive_$_surgery	nouse
+1-1-1	*/eye_$_operation/iridotomy	nouse
+1-1-1	*/eye_$_operation/laser-assisted_$_subepithelial_$_keratomileusis	nouse
+1-1-1	*/eye_$_operation/vitrectomy	nouse
+1-1-1	*/eye_$_operation/cataract_$_surgery	nouse
+1-1-1	*/eye_$_operation/iridectomy	nouse
+1-1-1	*/eye_$_operation/laser_$_trabecular_$_surgery	nouse
+1-1-1	*/eye_$_operation/filtration_$_surgery	nouse
+1-1-1	*/eye_$_operation/keratotomy/radial_$_keratotomy	nouse
+1-1-1	*/eye_$_operation/cataract_$_surgery/extracapsular_$_surgery	nouse
+1-1-1	*/eye_$_operation/cataract_$_surgery/intracapsular_$_surgery	nouse
+1-1-1	*/eye_$_operation/cataract_$_surgery/extracapsular_$_surgery/phacoemulsification	nouse

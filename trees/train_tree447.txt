@@ -1,0 +1,12 @@
+1-1-1	*/electronic_$_warfare	nouse
+1-1-1	*/electronic_$_warfare/electronic_$_warfare-support_$_measures	nouse
+1-1-1	*/electronic_$_warfare/electromagnetic_$_intrusion	nouse
+1-1-1	*/electronic_$_warfare/electronic_$_counter-countermeasures	nouse
+1-1-1	*/electronic_$_warfare/electronic_$_countermeasures	nouse
+1-1-1	*/electronic_$_warfare/electronic_$_countermeasures/electronic_$_deception	nouse
+1-1-1	*/electronic_$_warfare/electronic_$_countermeasures/jamming	nouse
+1-1-1	*/electronic_$_warfare/electronic_$_countermeasures/electronic_$_deception/imitative_$_electronic_$_deception	nouse
+1-1-1	*/electronic_$_warfare/electronic_$_countermeasures/electronic_$_deception/simulative_$_electronic_$_deception	nouse
+1-1-1	*/electronic_$_warfare/electronic_$_countermeasures/electronic_$_deception/manipulative_$_electronic_$_deception	nouse
+1-1-1	*/electronic_$_warfare/electronic_$_countermeasures/jamming/spot_$_jamming	nouse
+1-1-1	*/electronic_$_warfare/electronic_$_countermeasures/jamming/barrage_$_jamming	nouse

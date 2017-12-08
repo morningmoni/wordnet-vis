@@ -1,0 +1,15 @@
+1-1-1	*/radiogram	nouse
+1-1-1	*/radiogram/autoradiograph	nouse
+1-1-1	*/radiogram/roentgenogram	nouse
+1-1-1	*/radiogram/roentgenogram/pyelogram	nouse
+1-1-1	*/radiogram/roentgenogram/mammogram	nouse
+1-1-1	*/radiogram/roentgenogram/arthrogram	nouse
+1-1-1	*/radiogram/roentgenogram/encephalogram	nouse
+1-1-1	*/radiogram/roentgenogram/myelogram	nouse
+1-1-1	*/radiogram/roentgenogram/hysterosalpingogram	nouse
+1-1-1	*/radiogram/roentgenogram/venogram	nouse
+1-1-1	*/radiogram/roentgenogram/angiocardiogram	nouse
+1-1-1	*/radiogram/roentgenogram/angiogram	nouse
+1-1-1	*/radiogram/roentgenogram/arteriogram	nouse
+1-1-1	*/radiogram/roentgenogram/pyelogram/intravenous_$_pyelogram	nouse
+1-1-1	*/radiogram/roentgenogram/angiogram/lymphangiogram	nouse

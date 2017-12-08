@@ -1,0 +1,17 @@
+1-1-1	*/priest	nouse
+1-1-1	*/priest/Druid	nouse
+1-1-1	*/priest/shaman	nouse
+1-1-1	*/priest/lama	nouse
+1-1-1	*/priest/magus	nouse
+1-1-1	*/priest/Ezra	nouse
+1-1-1	*/priest/flamen	nouse
+1-1-1	*/priest/hoodoo	nouse
+1-1-1	*/priest/votary	nouse
+1-1-1	*/priest/shaman/medicine_$_man	nouse
+1-1-1	*/priest/shaman/medicine_$_man/rainmaker	nouse
+1-1-1	*/priest/lama/Panchen_$_Lama	nouse
+1-1-1	*/priest/lama/Dalai_$_Lama	nouse
+1-1-1	*/priest/votary/vestal_$_virgin	nouse
+1-1-1	*/priest/votary/bacchant	nouse
+1-1-1	*/priest/votary/bacchante	nouse
+1-1-1	*/priest/votary/vestal_$_virgin/Rhea_$_Silvia	nouse

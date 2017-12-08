@@ -1,0 +1,13 @@
+1-1-1	*/failure	nouse
+1-1-1	*/failure/disappointment	nouse
+1-1-1	*/failure/copout	nouse
+1-1-1	*/failure/breach	nouse
+1-1-1	*/failure/breach/breach_$_of_$_contract	nouse
+1-1-1	*/failure/breach/breach_$_of_$_duty	nouse
+1-1-1	*/failure/breach/breach_$_of_$_contract/anticipatory_$_breach	nouse
+1-1-1	*/failure/breach/breach_$_of_$_contract/partial_$_breach	nouse
+1-1-1	*/failure/breach/breach_$_of_$_contract/breach_$_of_$_promise	nouse
+1-1-1	*/failure/breach/breach_$_of_$_contract/breach_$_of_$_the_$_covenant_$_of_$_warranty	nouse
+1-1-1	*/failure/breach/breach_$_of_$_contract/material_$_breach	nouse
+1-1-1	*/failure/breach/breach_$_of_$_contract/breach_$_of_$_warranty	nouse
+1-1-1	*/failure/breach/breach_$_of_$_contract/breach_$_of_$_trust	nouse

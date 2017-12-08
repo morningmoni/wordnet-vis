@@ -1,0 +1,17 @@
+1-1-1	*/squash	nouse
+1-1-1	*/squash/winter_$_squash	nouse
+1-1-1	*/squash/summer_$_squash	nouse
+1-1-1	*/squash/winter_$_squash/turban_$_squash	nouse
+1-1-1	*/squash/winter_$_squash/hubbard_$_squash	nouse
+1-1-1	*/squash/winter_$_squash/winter_$_crookneck_$_squash	nouse
+1-1-1	*/squash/winter_$_squash/butternut_$_squash	nouse
+1-1-1	*/squash/winter_$_squash/cushaw	nouse
+1-1-1	*/squash/winter_$_squash/acorn_$_squash	nouse
+1-1-1	*/squash/winter_$_squash/turban_$_squash/buttercup_$_squash	nouse
+1-1-1	*/squash/summer_$_squash/spaghetti_$_squash	nouse
+1-1-1	*/squash/summer_$_squash/yellow_$_squash	nouse
+1-1-1	*/squash/summer_$_squash/zucchini	nouse
+1-1-1	*/squash/summer_$_squash/cocozelle	nouse
+1-1-1	*/squash/summer_$_squash/pattypan_$_squash	nouse
+1-1-1	*/squash/summer_$_squash/marrow	nouse
+1-1-1	*/squash/summer_$_squash/yellow_$_squash/crookneck	nouse

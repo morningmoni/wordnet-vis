@@ -1,0 +1,17 @@
+1-1-1	*/shortening	nouse
+1-1-1	*/shortening/truncation	nouse
+1-1-1	*/shortening/contraction	nouse
+1-1-1	*/shortening/abbreviation	nouse
+1-1-1	*/shortening/cut	nouse
+1-1-1	*/shortening/contraction/uterine_$_contraction	nouse
+1-1-1	*/shortening/contraction/Braxton-Hicks_$_contraction	nouse
+1-1-1	*/shortening/contraction/vaginismus	nouse
+1-1-1	*/shortening/contraction/tetanus	nouse
+1-1-1	*/shortening/contraction/contracture	nouse
+1-1-1	*/shortening/cut/clip	nouse
+1-1-1	*/shortening/cut/shearing	nouse
+1-1-1	*/shortening/cut/trim	nouse
+1-1-1	*/shortening/cut/haircut	nouse
+1-1-1	*/shortening/cut/clip/nip	nouse
+1-1-1	*/shortening/cut/shearing/sheepshearing	nouse
+1-1-1	*/shortening/cut/trim/pruning	nouse

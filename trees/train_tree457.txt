@@ -1,0 +1,13 @@
+1-1-1	*/confusion	nouse
+1-1-1	*/confusion/perplexity	nouse
+1-1-1	*/confusion/distraction	nouse
+1-1-1	*/confusion/half-cock	nouse
+1-1-1	*/confusion/disorientation	nouse
+1-1-1	*/confusion/bewilderment	nouse
+1-1-1	*/confusion/daze	nouse
+1-1-1	*/confusion/jamais_$_vu	nouse
+1-1-1	*/confusion/perplexity/tangle	nouse
+1-1-1	*/confusion/perplexity/dilemma	nouse
+1-1-1	*/confusion/perplexity/mystery	nouse
+1-1-1	*/confusion/perplexity/dilemma/double_$_bind	nouse
+1-1-1	*/confusion/disorientation/culture_$_shock	nouse

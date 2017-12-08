@@ -1,0 +1,14 @@
+1-1-1	*/dominance	nouse
+1-1-1	*/dominance/monopoly	nouse
+1-1-1	*/dominance/regulation	nouse
+1-1-1	*/dominance/absolutism	nouse
+1-1-1	*/dominance/dominion	nouse
+1-1-1	*/dominance/ascendant	nouse
+1-1-1	*/dominance/domination	nouse
+1-1-1	*/dominance/predominance	nouse
+1-1-1	*/dominance/dominion/raj	nouse
+1-1-1	*/dominance/dominion/suzerainty	nouse
+1-1-1	*/dominance/dominion/paramountcy	nouse
+1-1-1	*/dominance/dominion/reign	nouse
+1-1-1	*/dominance/dominion/reign/scepter	nouse
+1-1-1	*/dominance/domination/transcendence	nouse

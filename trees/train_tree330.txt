@@ -1,0 +1,11 @@
+1-1-1	*/union	nouse
+1-1-1	*/union/league	nouse
+1-1-1	*/union/enosis	nouse
+1-1-1	*/union/customs_$_union	nouse
+1-1-1	*/union/confederation	nouse
+1-1-1	*/union/league/Iroquois_$_League	nouse
+1-1-1	*/union/customs_$_union/Benelux	nouse
+1-1-1	*/union/confederation/Creek_$_Confederacy	nouse
+1-1-1	*/union/confederation/Hanseatic_$_League	nouse
+1-1-1	*/union/confederation/nation	nouse
+1-1-1	*/union/confederation/nation/tribe	nouse

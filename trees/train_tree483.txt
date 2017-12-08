@@ -1,0 +1,17 @@
+1-1-1	*/adversity	nouse
+1-1-1	*/adversity/affliction	nouse
+1-1-1	*/adversity/victimization	nouse
+1-1-1	*/adversity/nadir	nouse
+1-1-1	*/adversity/ill-being	nouse
+1-1-1	*/adversity/distress	nouse
+1-1-1	*/adversity/catastrophe	nouse
+1-1-1	*/adversity/extremity	nouse
+1-1-1	*/adversity/affliction/cross	nouse
+1-1-1	*/adversity/ill-being/misery	nouse
+1-1-1	*/adversity/ill-being/misery/suffering	nouse
+1-1-1	*/adversity/ill-being/misery/concentration_$_camp	nouse
+1-1-1	*/adversity/ill-being/misery/living_$_death	nouse
+1-1-1	*/adversity/distress/pressure	nouse
+1-1-1	*/adversity/distress/anguish	nouse
+1-1-1	*/adversity/distress/throe	nouse
+1-1-1	*/adversity/extremity/bitter_$_end	nouse

@@ -1,0 +1,11 @@
+1-1-1	*/apple_$_tree	nouse
+1-1-1	*/apple_$_tree/crab_$_apple	nouse
+1-1-1	*/apple_$_tree/apple	nouse
+1-1-1	*/apple_$_tree/wild_$_apple	nouse
+1-1-1	*/apple_$_tree/crab_$_apple/Southern_$_crab_$_apple	nouse
+1-1-1	*/apple_$_tree/crab_$_apple/Siberian_$_crab	nouse
+1-1-1	*/apple_$_tree/wild_$_apple/wild_$_crab	nouse
+1-1-1	*/apple_$_tree/wild_$_apple/Iowa_$_crab	nouse
+1-1-1	*/apple_$_tree/wild_$_apple/American_$_crab_$_apple	nouse
+1-1-1	*/apple_$_tree/wild_$_apple/Oregon_$_crab_$_apple	nouse
+1-1-1	*/apple_$_tree/wild_$_apple/Iowa_$_crab/Bechtel_$_crab	nouse

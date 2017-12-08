@@ -1,0 +1,16 @@
+1-1-1	*/prediction	nouse
+1-1-1	*/prediction/projection	nouse
+1-1-1	*/prediction/prophecy	nouse
+1-1-1	*/prediction/prefiguration	nouse
+1-1-1	*/prediction/prophecy/crystal_$_gazing	nouse
+1-1-1	*/prediction/prophecy/divination	nouse
+1-1-1	*/prediction/prophecy/divination/palmistry	nouse
+1-1-1	*/prediction/prophecy/divination/dowse	nouse
+1-1-1	*/prediction/prophecy/divination/onomancy	nouse
+1-1-1	*/prediction/prophecy/divination/geomancy	nouse
+1-1-1	*/prediction/prophecy/divination/arithmancy	nouse
+1-1-1	*/prediction/prophecy/divination/hydromancy	nouse
+1-1-1	*/prediction/prophecy/divination/oneiromancy	nouse
+1-1-1	*/prediction/prophecy/divination/lithomancy	nouse
+1-1-1	*/prediction/prophecy/divination/necromancy	nouse
+1-1-1	*/prediction/prophecy/divination/pyromancy	nouse

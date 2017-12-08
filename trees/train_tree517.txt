@@ -1,0 +1,11 @@
+1-1-1	*/windstorm	nouse
+1-1-1	*/windstorm/cyclone	nouse
+1-1-1	*/windstorm/tempest	nouse
+1-1-1	*/windstorm/dust_$_storm	nouse
+1-1-1	*/windstorm/whirlwind	nouse
+1-1-1	*/windstorm/cyclone/hurricane	nouse
+1-1-1	*/windstorm/cyclone/typhoon	nouse
+1-1-1	*/windstorm/cyclone/tornado	nouse
+1-1-1	*/windstorm/cyclone/tornado/waterspout	nouse
+1-1-1	*/windstorm/cyclone/tornado/supertwister	nouse
+1-1-1	*/windstorm/whirlwind/dust_$_devil	nouse

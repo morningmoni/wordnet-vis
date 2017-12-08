@@ -1,0 +1,12 @@
+1-1-1	*/statistical_$_method	nouse
+1-1-1	*/statistical_$_method/regression	nouse
+1-1-1	*/statistical_$_method/multivariate_$_analysis	nouse
+1-1-1	*/statistical_$_method/least_$_squares	nouse
+1-1-1	*/statistical_$_method/regression/linear_$_regression	nouse
+1-1-1	*/statistical_$_method/regression/curvilinear_$_regression	nouse
+1-1-1	*/statistical_$_method/multivariate_$_analysis/correlational_$_analysis	nouse
+1-1-1	*/statistical_$_method/multivariate_$_analysis/multiple_$_regression	nouse
+1-1-1	*/statistical_$_method/multivariate_$_analysis/analysis_$_of_$_variance	nouse
+1-1-1	*/statistical_$_method/multivariate_$_analysis/regression_$_analysis	nouse
+1-1-1	*/statistical_$_method/multivariate_$_analysis/correlational_$_analysis/factor_$_analysis	nouse
+1-1-1	*/statistical_$_method/multivariate_$_analysis/multiple_$_regression/multicollinearity	nouse

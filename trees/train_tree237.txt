@@ -1,0 +1,11 @@
+1-1-1	*/component	nouse
+1-1-1	*/component/be-all_$_and_$_end-all	nouse
+1-1-1	*/component/point	nouse
+1-1-1	*/component/plot_$_element	nouse
+1-1-1	*/component/point/intersection	nouse
+1-1-1	*/component/point/attractor	nouse
+1-1-1	*/component/point/intercept	nouse
+1-1-1	*/component/point/intersection/metacenter	nouse
+1-1-1	*/component/point/intersection/vertex	nouse
+1-1-1	*/component/point/attractor/strange_$_attractor	nouse
+1-1-1	*/component/plot_$_element/McGuffin	nouse

@@ -1,0 +1,16 @@
+1-1-1	*/New_$_World_$_oriole	nouse
+1-1-1	*/New_$_World_$_oriole/northern_$_oriole	nouse
+1-1-1	*/New_$_World_$_oriole/New_$_World_$_blackbird	nouse
+1-1-1	*/New_$_World_$_oriole/meadowlark	nouse
+1-1-1	*/New_$_World_$_oriole/bobolink	nouse
+1-1-1	*/New_$_World_$_oriole/orchard_$_oriole	nouse
+1-1-1	*/New_$_World_$_oriole/cacique	nouse
+1-1-1	*/New_$_World_$_oriole/northern_$_oriole/Baltimore_$_oriole	nouse
+1-1-1	*/New_$_World_$_oriole/northern_$_oriole/Bullock's_$_oriole	nouse
+1-1-1	*/New_$_World_$_oriole/New_$_World_$_blackbird/cowbird	nouse
+1-1-1	*/New_$_World_$_oriole/New_$_World_$_blackbird/grackle	nouse
+1-1-1	*/New_$_World_$_oriole/New_$_World_$_blackbird/red-winged_$_blackbird	nouse
+1-1-1	*/New_$_World_$_oriole/New_$_World_$_blackbird/rusty_$_blackbird	nouse
+1-1-1	*/New_$_World_$_oriole/New_$_World_$_blackbird/grackle/purple_$_grackle	nouse
+1-1-1	*/New_$_World_$_oriole/meadowlark/eastern_$_meadowlark	nouse
+1-1-1	*/New_$_World_$_oriole/meadowlark/western_$_meadowlark	nouse

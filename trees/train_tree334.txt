@@ -1,0 +1,17 @@
+1-1-1	*/regulation	nouse
+1-1-1	*/regulation/limitation	nouse
+1-1-1	*/regulation/gun_$_control	nouse
+1-1-1	*/regulation/indexation	nouse
+1-1-1	*/regulation/devaluation	nouse
+1-1-1	*/regulation/timing	nouse
+1-1-1	*/regulation/limitation/hold-down	nouse
+1-1-1	*/regulation/limitation/load-shedding	nouse
+1-1-1	*/regulation/limitation/freeze	nouse
+1-1-1	*/regulation/limitation/arms_$_control	nouse
+1-1-1	*/regulation/limitation/clampdown	nouse
+1-1-1	*/regulation/limitation/freeze/price_$_freeze	nouse
+1-1-1	*/regulation/limitation/freeze/wage_$_freeze	nouse
+1-1-1	*/regulation/limitation/freeze/hiring_$_freeze	nouse
+1-1-1	*/regulation/timing/coordination	nouse
+1-1-1	*/regulation/timing/coordination/proration	nouse
+1-1-1	*/regulation/timing/coordination/synchronization	nouse

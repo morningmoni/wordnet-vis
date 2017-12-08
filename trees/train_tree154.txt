@@ -1,0 +1,12 @@
+1-1-1	*/finance	nouse
+1-1-1	*/finance/high_$_finance	nouse
+1-1-1	*/finance/banking	nouse
+1-1-1	*/finance/corporate_$_finance	nouse
+1-1-1	*/finance/flotation	nouse
+1-1-1	*/finance/investing	nouse
+1-1-1	*/finance/financing	nouse
+1-1-1	*/finance/banking/home_$_banking	nouse
+1-1-1	*/finance/investing/foreign_$_direct_$_investment	nouse
+1-1-1	*/finance/investing/arbitrage	nouse
+1-1-1	*/finance/investing/leverage	nouse
+1-1-1	*/finance/investing/arbitrage/risk_$_arbitrage	nouse

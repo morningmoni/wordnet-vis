@@ -1,0 +1,13 @@
+1-1-1	*/character_$_set	nouse
+1-1-1	*/character_$_set/alphabet	nouse
+1-1-1	*/character_$_set/alphanumerics	nouse
+1-1-1	*/character_$_set/ASCII_$_character_$_set	nouse
+1-1-1	*/character_$_set/alphabet/manual_$_alphabet	nouse
+1-1-1	*/character_$_set/alphabet/phonetic_$_alphabet	nouse
+1-1-1	*/character_$_set/alphabet/Greek_$_alphabet	nouse
+1-1-1	*/character_$_set/alphabet/Armenian	nouse
+1-1-1	*/character_$_set/alphabet/Roman_$_alphabet	nouse
+1-1-1	*/character_$_set/alphabet/Arabic_$_alphabet	nouse
+1-1-1	*/character_$_set/alphabet/Cyrillic_$_alphabet	nouse
+1-1-1	*/character_$_set/alphabet/Hebrew_$_alphabet	nouse
+1-1-1	*/character_$_set/alphabet/phonetic_$_alphabet/visible_$_speech	nouse

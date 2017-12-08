@@ -1,0 +1,13 @@
+1-1-1	*/indicator	nouse
+1-1-1	*/indicator/alpha-naphthol_$_test	nouse
+1-1-1	*/indicator/acid-base_$_indicator	nouse
+1-1-1	*/indicator/absorption_$_indicator	nouse
+1-1-1	*/indicator/oxidation-reduction_$_indicator	nouse
+1-1-1	*/indicator/acid-base_$_indicator/bromothymol_$_blue	nouse
+1-1-1	*/indicator/acid-base_$_indicator/bromophenol_$_blue	nouse
+1-1-1	*/indicator/acid-base_$_indicator/phenolphthalein	nouse
+1-1-1	*/indicator/acid-base_$_indicator/methyl_$_orange	nouse
+1-1-1	*/indicator/acid-base_$_indicator/litmus	nouse
+1-1-1	*/indicator/acid-base_$_indicator/congo_$_red	nouse
+1-1-1	*/indicator/absorption_$_indicator/fluorescein	nouse
+1-1-1	*/indicator/absorption_$_indicator/fluorescein/eosin	nouse

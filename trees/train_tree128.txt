@@ -1,0 +1,13 @@
+1-1-1	*/nuclear_$_reaction	nouse
+1-1-1	*/nuclear_$_reaction/decay	nouse
+1-1-1	*/nuclear_$_reaction/fusion	nouse
+1-1-1	*/nuclear_$_reaction/endoergic_$_reaction	nouse
+1-1-1	*/nuclear_$_reaction/spallation	nouse
+1-1-1	*/nuclear_$_reaction/exoergic_$_reaction	nouse
+1-1-1	*/nuclear_$_reaction/fission	nouse
+1-1-1	*/nuclear_$_reaction/chain_$_reaction	nouse
+1-1-1	*/nuclear_$_reaction/decay/beta_$_decay	nouse
+1-1-1	*/nuclear_$_reaction/decay/alpha_$_decay	nouse
+1-1-1	*/nuclear_$_reaction/fusion/cold_$_fusion	nouse
+1-1-1	*/nuclear_$_reaction/fusion/thermonuclear_$_reaction	nouse
+1-1-1	*/nuclear_$_reaction/fusion/thermonuclear_$_reaction/carbon_$_cycle	nouse

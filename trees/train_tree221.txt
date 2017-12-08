@@ -1,0 +1,13 @@
+1-1-1	*/mechanism	nouse
+1-1-1	*/mechanism/barrier	nouse
+1-1-1	*/mechanism/transmission_$_mechanism	nouse
+1-1-1	*/mechanism/biological_$_clock	nouse
+1-1-1	*/mechanism/barrier/curtain	nouse
+1-1-1	*/mechanism/barrier/blood-brain_$_barrier	nouse
+1-1-1	*/mechanism/barrier/bar	nouse
+1-1-1	*/mechanism/barrier/bar/sandbar	nouse
+1-1-1	*/mechanism/transmission_$_mechanism/direct_$_transmission	nouse
+1-1-1	*/mechanism/transmission_$_mechanism/airborne_$_transmission	nouse
+1-1-1	*/mechanism/transmission_$_mechanism/indirect_$_transmission	nouse
+1-1-1	*/mechanism/transmission_$_mechanism/indirect_$_transmission/vehicle-borne_$_transmission	nouse
+1-1-1	*/mechanism/transmission_$_mechanism/indirect_$_transmission/vector-borne_$_transmission	nouse

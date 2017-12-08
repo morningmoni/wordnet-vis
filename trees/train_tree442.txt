@@ -1,0 +1,12 @@
+1-1-1	*/psychoactive_$_drug	nouse
+1-1-1	*/psychoactive_$_drug/tetrahydrocannabinol	nouse
+1-1-1	*/psychoactive_$_drug/designer_$_drug	nouse
+1-1-1	*/psychoactive_$_drug/euphoriant	nouse
+1-1-1	*/psychoactive_$_drug/hallucinogen	nouse
+1-1-1	*/psychoactive_$_drug/dronabinol	nouse
+1-1-1	*/psychoactive_$_drug/hallucinogen/psilocybin	nouse
+1-1-1	*/psychoactive_$_drug/hallucinogen/lysergic_$_acid_$_diethylamide	nouse
+1-1-1	*/psychoactive_$_drug/hallucinogen/mescaline	nouse
+1-1-1	*/psychoactive_$_drug/hallucinogen/phencyclidine	nouse
+1-1-1	*/psychoactive_$_drug/hallucinogen/salvinorin	nouse
+1-1-1	*/psychoactive_$_drug/hallucinogen/lysergic_$_acid_$_diethylamide/acid	nouse

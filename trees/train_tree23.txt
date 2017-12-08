@@ -1,0 +1,15 @@
+1-1-1	*/question	nouse
+1-1-1	*/question/problem	nouse
+1-1-1	*/question/question_$_of_$_law	nouse
+1-1-1	*/question/question_$_of_$_fact	nouse
+1-1-1	*/question/problem/Gordian_$_knot	nouse
+1-1-1	*/question/problem/pons_$_asinorum	nouse
+1-1-1	*/question/problem/homework_$_problem	nouse
+1-1-1	*/question/problem/poser	nouse
+1-1-1	*/question/problem/riddle	nouse
+1-1-1	*/question/problem/case	nouse
+1-1-1	*/question/problem/koan	nouse
+1-1-1	*/question/problem/rebus	nouse
+1-1-1	*/question/problem/puzzle	nouse
+1-1-1	*/question/problem/puzzle/word_$_square	nouse
+1-1-1	*/question/problem/puzzle/sudoku	nouse

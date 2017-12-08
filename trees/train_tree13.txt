@@ -1,0 +1,11 @@
+1-1-1	*/electrical_$_discharge	nouse
+1-1-1	*/electrical_$_discharge/spike	nouse
+1-1-1	*/electrical_$_discharge/atmospheric_$_electricity	nouse
+1-1-1	*/electrical_$_discharge/nerve_$_impulse	nouse
+1-1-1	*/electrical_$_discharge/atmospheric_$_electricity/jet	nouse
+1-1-1	*/electrical_$_discharge/atmospheric_$_electricity/sprites	nouse
+1-1-1	*/electrical_$_discharge/atmospheric_$_electricity/lightning	nouse
+1-1-1	*/electrical_$_discharge/atmospheric_$_electricity/elves	nouse
+1-1-1	*/electrical_$_discharge/atmospheric_$_electricity/lightning/forked_$_lightning	nouse
+1-1-1	*/electrical_$_discharge/atmospheric_$_electricity/lightning/thunderbolt	nouse
+1-1-1	*/electrical_$_discharge/nerve_$_impulse/action_$_potential	nouse

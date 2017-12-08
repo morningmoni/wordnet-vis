@@ -1,0 +1,14 @@
+1-1-1	*/delusion	nouse
+1-1-1	*/delusion/zoanthropy	nouse
+1-1-1	*/delusion/delusions_$_of_$_grandeur	nouse
+1-1-1	*/delusion/delusions_$_of_$_persecution	nouse
+1-1-1	*/delusion/nihilistic_$_delusion	nouse
+1-1-1	*/delusion/somatic_$_delusion	nouse
+1-1-1	*/delusion/hallucination	nouse
+1-1-1	*/delusion/hallucination/visual_$_hallucination	nouse
+1-1-1	*/delusion/hallucination/auditory_$_hallucination	nouse
+1-1-1	*/delusion/hallucination/trip	nouse
+1-1-1	*/delusion/hallucination/pseudohallucination	nouse
+1-1-1	*/delusion/hallucination/visual_$_hallucination/chromatism	nouse
+1-1-1	*/delusion/hallucination/visual_$_hallucination/zoopsia	nouse
+1-1-1	*/delusion/hallucination/visual_$_hallucination/pink_$_elephants	nouse

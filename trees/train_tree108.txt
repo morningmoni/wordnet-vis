@@ -1,0 +1,17 @@
+1-1-1	*/Semitic	nouse
+1-1-1	*/Semitic/Aramaic	nouse
+1-1-1	*/Semitic/Arabic	nouse
+1-1-1	*/Semitic/Amharic	nouse
+1-1-1	*/Semitic/Canaanitic	nouse
+1-1-1	*/Semitic/Akkadian	nouse
+1-1-1	*/Semitic/Maltese	nouse
+1-1-1	*/Semitic/Aramaic/Assyrian_$_Neo-Aramaic	nouse
+1-1-1	*/Semitic/Aramaic/Mandaean	nouse
+1-1-1	*/Semitic/Aramaic/Biblical_$_Aramaic	nouse
+1-1-1	*/Semitic/Canaanitic/Hebrew	nouse
+1-1-1	*/Semitic/Canaanitic/Ugaritic	nouse
+1-1-1	*/Semitic/Canaanitic/Canaanite	nouse
+1-1-1	*/Semitic/Canaanitic/Phoenician	nouse
+1-1-1	*/Semitic/Canaanitic/Hebrew/Modern_$_Hebrew	nouse
+1-1-1	*/Semitic/Canaanitic/Phoenician/Punic	nouse
+1-1-1	*/Semitic/Akkadian/Assyrian_$_Akkadian	nouse

@@ -1,0 +1,13 @@
+1-1-1	*/fallacy	nouse
+1-1-1	*/fallacy/pseudoscience	nouse
+1-1-1	*/fallacy/logical_$_fallacy	nouse
+1-1-1	*/fallacy/paralogism	nouse
+1-1-1	*/fallacy/sophism	nouse
+1-1-1	*/fallacy/pathetic_$_fallacy	nouse
+1-1-1	*/fallacy/pseudoscience/alchemy	nouse
+1-1-1	*/fallacy/pseudoscience/astrology	nouse
+1-1-1	*/fallacy/pseudoscience/astrology/horoscopy	nouse
+1-1-1	*/fallacy/logical_$_fallacy/petitio_$_principii	nouse
+1-1-1	*/fallacy/logical_$_fallacy/hysteron_$_proteron	nouse
+1-1-1	*/fallacy/logical_$_fallacy/post_$_hoc	nouse
+1-1-1	*/fallacy/logical_$_fallacy/ignoratio_$_elenchi	nouse

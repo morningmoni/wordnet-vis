@@ -1,0 +1,12 @@
+1-1-1	*/toy_$_dog	nouse
+1-1-1	*/toy_$_dog/Maltese_$_dog	nouse
+1-1-1	*/toy_$_dog/Chihuahua	nouse
+1-1-1	*/toy_$_dog/toy_$_spaniel	nouse
+1-1-1	*/toy_$_dog/Pekinese	nouse
+1-1-1	*/toy_$_dog/toy_$_terrier	nouse
+1-1-1	*/toy_$_dog/Japanese_$_spaniel	nouse
+1-1-1	*/toy_$_dog/Shih-Tzu	nouse
+1-1-1	*/toy_$_dog/toy_$_spaniel/English_$_toy_$_spaniel	nouse
+1-1-1	*/toy_$_dog/toy_$_spaniel/papillon	nouse
+1-1-1	*/toy_$_dog/toy_$_spaniel/King_$_Charles_$_spaniel	nouse
+1-1-1	*/toy_$_dog/toy_$_spaniel/English_$_toy_$_spaniel/Blenheim_$_spaniel	nouse

@@ -1,0 +1,13 @@
+1-1-1	*/aptitude	nouse
+1-1-1	*/aptitude/instinct	nouse
+1-1-1	*/aptitude/capability	nouse
+1-1-1	*/aptitude/natural_$_ability	nouse
+1-1-1	*/aptitude/instinct/id	nouse
+1-1-1	*/aptitude/capability/imperfectibility	nouse
+1-1-1	*/aptitude/capability/perfectibility	nouse
+1-1-1	*/aptitude/capability/compass	nouse
+1-1-1	*/aptitude/capability/compass/sight	nouse
+1-1-1	*/aptitude/natural_$_ability/endowment	nouse
+1-1-1	*/aptitude/natural_$_ability/endowment/flair	nouse
+1-1-1	*/aptitude/natural_$_ability/endowment/raw_$_talent	nouse
+1-1-1	*/aptitude/natural_$_ability/endowment/bent	nouse

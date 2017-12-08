@@ -1,0 +1,12 @@
+1-1-1	*/saturated_$_fatty_$_acid	nouse
+1-1-1	*/saturated_$_fatty_$_acid/lauric_$_acid	nouse
+1-1-1	*/saturated_$_fatty_$_acid/palmitic_$_acid	nouse
+1-1-1	*/saturated_$_fatty_$_acid/caprylic_$_acid	nouse
+1-1-1	*/saturated_$_fatty_$_acid/butyric_$_acid	nouse
+1-1-1	*/saturated_$_fatty_$_acid/stearic_$_acid	nouse
+1-1-1	*/saturated_$_fatty_$_acid/myristic_$_acid	nouse
+1-1-1	*/saturated_$_fatty_$_acid/caproic_$_acid	nouse
+1-1-1	*/saturated_$_fatty_$_acid/capric_$_acid	nouse
+1-1-1	*/saturated_$_fatty_$_acid/margaric_$_acid	nouse
+1-1-1	*/saturated_$_fatty_$_acid/butyric_$_acid/hydroxybutyric_$_acid	nouse
+1-1-1	*/saturated_$_fatty_$_acid/butyric_$_acid/hydroxybutyric_$_acid/beta-hydroxybutyric_$_acid	nouse

@@ -1,0 +1,15 @@
+1-1-1	*/profession	nouse
+1-1-1	*/profession/community_$_of_$_scholars	nouse
+1-1-1	*/profession/economics_$_profession	nouse
+1-1-1	*/profession/legal_$_profession	nouse
+1-1-1	*/profession/priesthood	nouse
+1-1-1	*/profession/businessmen	nouse
+1-1-1	*/profession/health_$_profession	nouse
+1-1-1	*/profession/priesthood/rabbinate	nouse
+1-1-1	*/profession/priesthood/ministry	nouse
+1-1-1	*/profession/priesthood/clergy	nouse
+1-1-1	*/profession/priesthood/clergy/cardinalate	nouse
+1-1-1	*/profession/priesthood/clergy/pastorate	nouse
+1-1-1	*/profession/priesthood/clergy/prelacy	nouse
+1-1-1	*/profession/health_$_profession/medical_$_profession	nouse
+1-1-1	*/profession/health_$_profession/nursing	nouse

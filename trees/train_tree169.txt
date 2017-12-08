@@ -1,0 +1,16 @@
+1-1-1	*/wash	nouse
+1-1-1	*/wash/dishwashing	nouse
+1-1-1	*/wash/washup	nouse
+1-1-1	*/wash/window-washing	nouse
+1-1-1	*/wash/laundering	nouse
+1-1-1	*/wash/rinse	nouse
+1-1-1	*/wash/washing-up	nouse
+1-1-1	*/wash/ablution	nouse
+1-1-1	*/wash/soak	nouse
+1-1-1	*/wash/washup/Turkish_$_bath	nouse
+1-1-1	*/wash/washup/bath	nouse
+1-1-1	*/wash/washup/sponge_$_bath	nouse
+1-1-1	*/wash/washup/shower	nouse
+1-1-1	*/wash/washup/bath/mud_$_bath	nouse
+1-1-1	*/wash/washup/bath/bubble_$_bath	nouse
+1-1-1	*/wash/washup/bath/mikvah	nouse

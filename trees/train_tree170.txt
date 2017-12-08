@@ -1,0 +1,11 @@
+1-1-1	*/carving	nouse
+1-1-1	*/carving/cinquefoil	nouse
+1-1-1	*/carving/scrimshaw	nouse
+1-1-1	*/carving/vermiculation	nouse
+1-1-1	*/carving/woodcarving	nouse
+1-1-1	*/carving/glyptic_$_art	nouse
+1-1-1	*/carving/glyptic_$_art/anaglyph	nouse
+1-1-1	*/carving/glyptic_$_art/glyptics	nouse
+1-1-1	*/carving/glyptic_$_art/glyph	nouse
+1-1-1	*/carving/glyptic_$_art/intaglio	nouse
+1-1-1	*/carving/glyptic_$_art/anaglyph/cameo	nouse

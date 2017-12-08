@@ -1,0 +1,14 @@
+1-1-1	*/leather_$_strip	nouse
+1-1-1	*/leather_$_strip/lash	nouse
+1-1-1	*/leather_$_strip/strap	nouse
+1-1-1	*/leather_$_strip/thong	nouse
+1-1-1	*/leather_$_strip/strap/rein	nouse
+1-1-1	*/leather_$_strip/strap/cheekpiece	nouse
+1-1-1	*/leather_$_strip/strap/chin_$_strap	nouse
+1-1-1	*/leather_$_strip/strap/noseband	nouse
+1-1-1	*/leather_$_strip/strap/latchet	nouse
+1-1-1	*/leather_$_strip/strap/crupper	nouse
+1-1-1	*/leather_$_strip/strap/bootstrap	nouse
+1-1-1	*/leather_$_strip/strap/strop	nouse
+1-1-1	*/leather_$_strip/strap/rein/leading_$_rein	nouse
+1-1-1	*/leather_$_strip/strap/rein/bearing_$_rein	nouse

@@ -1,0 +1,15 @@
+1-1-1	*/terror	nouse
+1-1-1	*/terror/terrorism	nouse
+1-1-1	*/terror/terrorism/domestic_$_terrorism	nouse
+1-1-1	*/terror/terrorism/chemical_$_terrorism	nouse
+1-1-1	*/terror/terrorism/cyber-terrorism	nouse
+1-1-1	*/terror/terrorism/theoterrorism	nouse
+1-1-1	*/terror/terrorism/terrorist_$_attack	nouse
+1-1-1	*/terror/terrorism/bioterrorism	nouse
+1-1-1	*/terror/terrorism/Red_$_Hand_$_Defenders	nouse
+1-1-1	*/terror/terrorism/nuclear_$_terrorism	nouse
+1-1-1	*/terror/terrorism/state-sponsored_$_terrorism	nouse
+1-1-1	*/terror/terrorism/narcoterrorism	nouse
+1-1-1	*/terror/terrorism/international_$_terrorism	nouse
+1-1-1	*/terror/terrorism/ecoterrorism	nouse
+1-1-1	*/terror/terrorism/terrorist_$_attack/9/11	nouse

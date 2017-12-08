@@ -1,0 +1,11 @@
+1-1-1	*/accessory	nouse
+1-1-1	*/accessory/belt	nouse
+1-1-1	*/accessory/furnishing	nouse
+1-1-1	*/accessory/belt/money_$_belt	nouse
+1-1-1	*/accessory/belt/safety_$_belt	nouse
+1-1-1	*/accessory/belt/Sam_$_Browne_$_belt	nouse
+1-1-1	*/accessory/belt/cartridge_$_belt	nouse
+1-1-1	*/accessory/belt/baldric	nouse
+1-1-1	*/accessory/belt/holster	nouse
+1-1-1	*/accessory/belt/safety_$_belt/seat_$_belt	nouse
+1-1-1	*/accessory/belt/cartridge_$_belt/bandoleer	nouse

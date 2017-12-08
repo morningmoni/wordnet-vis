@@ -1,0 +1,11 @@
+1-1-1	*/portrayal	nouse
+1-1-1	*/portrayal/impression	nouse
+1-1-1	*/portrayal/character	nouse
+1-1-1	*/portrayal/character/hero	nouse
+1-1-1	*/portrayal/character/heroine	nouse
+1-1-1	*/portrayal/character/villain	nouse
+1-1-1	*/portrayal/character/heavy	nouse
+1-1-1	*/portrayal/character/ingenue	nouse
+1-1-1	*/portrayal/character/bit_$_part	nouse
+1-1-1	*/portrayal/character/title_$_role	nouse
+1-1-1	*/portrayal/character/bit_$_part/soubrette	nouse

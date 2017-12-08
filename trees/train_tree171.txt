@@ -1,0 +1,12 @@
+1-1-1	*/bait	nouse
+1-1-1	*/bait/chum	nouse
+1-1-1	*/bait/stool_$_pigeon	nouse
+1-1-1	*/bait/fisherman's_$_lure	nouse
+1-1-1	*/bait/ground_$_bait	nouse
+1-1-1	*/bait/fisherman's_$_lure/spinner	nouse
+1-1-1	*/bait/fisherman's_$_lure/troll	nouse
+1-1-1	*/bait/fisherman's_$_lure/jig	nouse
+1-1-1	*/bait/fisherman's_$_lure/fly	nouse
+1-1-1	*/bait/fisherman's_$_lure/fly/dry_$_fly	nouse
+1-1-1	*/bait/fisherman's_$_lure/fly/wet_$_fly	nouse
+1-1-1	*/bait/fisherman's_$_lure/fly/streamer_$_fly	nouse

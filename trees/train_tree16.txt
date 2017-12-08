@@ -1,0 +1,16 @@
+1-1-1	*/air_$_travel	nouse
+1-1-1	*/air_$_travel/flight	nouse
+1-1-1	*/air_$_travel/flight/pass	nouse
+1-1-1	*/air_$_travel/flight/terrain_$_flight	nouse
+1-1-1	*/air_$_travel/flight/ballooning	nouse
+1-1-1	*/air_$_travel/flight/blind_$_flying	nouse
+1-1-1	*/air_$_travel/flight/solo	nouse
+1-1-1	*/air_$_travel/flight/acrobatics	nouse
+1-1-1	*/air_$_travel/flight/overflight	nouse
+1-1-1	*/air_$_travel/flight/maiden_$_flight	nouse
+1-1-1	*/air_$_travel/flight/sortie	nouse
+1-1-1	*/air_$_travel/flight/glide	nouse
+1-1-1	*/air_$_travel/flight/flyover	nouse
+1-1-1	*/air_$_travel/flight/acrobatics/tailspin	nouse
+1-1-1	*/air_$_travel/flight/glide/hang_$_gliding	nouse
+1-1-1	*/air_$_travel/flight/glide/parasailing	nouse

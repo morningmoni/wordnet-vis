@@ -1,0 +1,11 @@
+1-1-1	*/police_$_work	nouse
+1-1-1	*/police_$_work/roundup	nouse
+1-1-1	*/police_$_work/forensics	nouse
+1-1-1	*/police_$_work/surveillance	nouse
+1-1-1	*/police_$_work/detection	nouse
+1-1-1	*/police_$_work/surveillance/watch	nouse
+1-1-1	*/police_$_work/surveillance/stakeout	nouse
+1-1-1	*/police_$_work/surveillance/surveillance_$_of_$_disease	nouse
+1-1-1	*/police_$_work/surveillance/electronic_$_surveillance	nouse
+1-1-1	*/police_$_work/surveillance/watch/spying	nouse
+1-1-1	*/police_$_work/surveillance/watch/listening_$_watch	nouse

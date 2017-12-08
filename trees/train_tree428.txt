@@ -1,0 +1,14 @@
+1-1-1	*/folk_$_music	nouse
+1-1-1	*/folk_$_music/country_$_music	nouse
+1-1-1	*/folk_$_music/gospel	nouse
+1-1-1	*/folk_$_music/square-dance_$_music	nouse
+1-1-1	*/folk_$_music/folk_$_song	nouse
+1-1-1	*/folk_$_music/schottische	nouse
+1-1-1	*/folk_$_music/country_$_music/bluegrass	nouse
+1-1-1	*/folk_$_music/country_$_music/hillbilly_$_music	nouse
+1-1-1	*/folk_$_music/country_$_music/zydeco	nouse
+1-1-1	*/folk_$_music/gospel/soul	nouse
+1-1-1	*/folk_$_music/gospel/doo-wop	nouse
+1-1-1	*/folk_$_music/folk_$_song/blues	nouse
+1-1-1	*/folk_$_music/folk_$_song/fado	nouse
+1-1-1	*/folk_$_music/folk_$_song/blues/boogie	nouse

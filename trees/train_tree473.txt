@@ -1,0 +1,17 @@
+1-1-1	*/ceramic_$_ware	nouse
+1-1-1	*/ceramic_$_ware/pottery	nouse
+1-1-1	*/ceramic_$_ware/porcelain	nouse
+1-1-1	*/ceramic_$_ware/earthenware	nouse
+1-1-1	*/ceramic_$_ware/stoneware	nouse
+1-1-1	*/ceramic_$_ware/pottery/Wedgwood	nouse
+1-1-1	*/ceramic_$_ware/pottery/agateware	nouse
+1-1-1	*/ceramic_$_ware/pottery/lusterware	nouse
+1-1-1	*/ceramic_$_ware/porcelain/china	nouse
+1-1-1	*/ceramic_$_ware/porcelain/Spode	nouse
+1-1-1	*/ceramic_$_ware/porcelain/china/crackle	nouse
+1-1-1	*/ceramic_$_ware/porcelain/china/bone_$_china	nouse
+1-1-1	*/ceramic_$_ware/earthenware/majolica	nouse
+1-1-1	*/ceramic_$_ware/earthenware/faience	nouse
+1-1-1	*/ceramic_$_ware/earthenware/delft	nouse
+1-1-1	*/ceramic_$_ware/earthenware/terra_$_sigillata	nouse
+1-1-1	*/ceramic_$_ware/earthenware/terra_$_cotta	nouse

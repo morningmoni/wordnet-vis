@@ -1,0 +1,15 @@
+1-1-1	*/rupture	nouse
+1-1-1	*/rupture/herniated_$_disc	nouse
+1-1-1	*/rupture/hernia	nouse
+1-1-1	*/rupture/hernia/exomphalos	nouse
+1-1-1	*/rupture/hernia/diverticulum	nouse
+1-1-1	*/rupture/hernia/eventration	nouse
+1-1-1	*/rupture/hernia/umbilical_$_hernia	nouse
+1-1-1	*/rupture/hernia/colpocele	nouse
+1-1-1	*/rupture/hernia/laparocele	nouse
+1-1-1	*/rupture/hernia/keratocele	nouse
+1-1-1	*/rupture/hernia/inguinal_$_hernia	nouse
+1-1-1	*/rupture/hernia/hiatus_$_hernia	nouse
+1-1-1	*/rupture/hernia/diverticulum/Meckel's_$_diverticulum	nouse
+1-1-1	*/rupture/hernia/colpocele/rectocele	nouse
+1-1-1	*/rupture/hernia/colpocele/cystocele	nouse

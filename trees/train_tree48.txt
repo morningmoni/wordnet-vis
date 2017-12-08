@@ -1,0 +1,14 @@
+1-1-1	*/selfish_$_person	nouse
+1-1-1	*/selfish_$_person/hog	nouse
+1-1-1	*/selfish_$_person/dog_$_in_$_the_$_manger	nouse
+1-1-1	*/selfish_$_person/narcissist	nouse
+1-1-1	*/selfish_$_person/monopolist	nouse
+1-1-1	*/selfish_$_person/exploiter	nouse
+1-1-1	*/selfish_$_person/egocentric	nouse
+1-1-1	*/selfish_$_person/opportunist	nouse
+1-1-1	*/selfish_$_person/opportunist/backscratcher	nouse
+1-1-1	*/selfish_$_person/opportunist/bottom_$_feeder	nouse
+1-1-1	*/selfish_$_person/opportunist/timeserver	nouse
+1-1-1	*/selfish_$_person/opportunist/carpetbagger	nouse
+1-1-1	*/selfish_$_person/opportunist/hustler	nouse
+1-1-1	*/selfish_$_person/opportunist/hustler/wire-puller	nouse

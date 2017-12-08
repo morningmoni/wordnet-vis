@@ -1,0 +1,12 @@
+1-1-1	*/water	nouse
+1-1-1	*/water/spring_$_water	nouse
+1-1-1	*/water/branch_$_water	nouse
+1-1-1	*/water/drinking_$_water	nouse
+1-1-1	*/water/drinking_$_water/ice_$_water	nouse
+1-1-1	*/water/drinking_$_water/sugar_$_water	nouse
+1-1-1	*/water/drinking_$_water/soda_$_water	nouse
+1-1-1	*/water/drinking_$_water/bottled_$_water	nouse
+1-1-1	*/water/drinking_$_water/mineral_$_water	nouse
+1-1-1	*/water/drinking_$_water/mineral_$_water/lithia_$_water	nouse
+1-1-1	*/water/drinking_$_water/mineral_$_water/seltzer	nouse
+1-1-1	*/water/drinking_$_water/mineral_$_water/Vichy_$_water	nouse

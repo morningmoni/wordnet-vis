@@ -1,0 +1,17 @@
+1-1-1	*/scarf	nouse
+1-1-1	*/scarf/kerchief	nouse
+1-1-1	*/scarf/mantilla	nouse
+1-1-1	*/scarf/feather_$_boa	nouse
+1-1-1	*/scarf/rebozo	nouse
+1-1-1	*/scarf/stole	nouse
+1-1-1	*/scarf/lambrequin	nouse
+1-1-1	*/scarf/fichu	nouse
+1-1-1	*/scarf/tudung	nouse
+1-1-1	*/scarf/patka	nouse
+1-1-1	*/scarf/muffler	nouse
+1-1-1	*/scarf/sable	nouse
+1-1-1	*/scarf/kerchief/neckerchief	nouse
+1-1-1	*/scarf/kerchief/headscarf	nouse
+1-1-1	*/scarf/kerchief/headscarf/khimar	nouse
+1-1-1	*/scarf/kerchief/headscarf/hijab	nouse
+1-1-1	*/scarf/kerchief/headscarf/babushka	nouse

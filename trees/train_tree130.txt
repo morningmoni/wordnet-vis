@@ -1,0 +1,11 @@
+1-1-1	*/alarm	nouse
+1-1-1	*/alarm/burglar_$_alarm	nouse
+1-1-1	*/alarm/fire_$_alarm	nouse
+1-1-1	*/alarm/automobile_$_horn	nouse
+1-1-1	*/alarm/horn	nouse
+1-1-1	*/alarm/siren	nouse
+1-1-1	*/alarm/horn/foghorn	nouse
+1-1-1	*/alarm/horn/air_$_horn	nouse
+1-1-1	*/alarm/horn/shofar	nouse
+1-1-1	*/alarm/horn/klaxon	nouse
+1-1-1	*/alarm/horn/foghorn/diaphone	nouse

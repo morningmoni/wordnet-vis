@@ -1,0 +1,17 @@
+1-1-1	*/shot	nouse
+1-1-1	*/shot/slapshot	nouse
+1-1-1	*/shot/basketball_$_shot	nouse
+1-1-1	*/shot/headshot	nouse
+1-1-1	*/shot/basketball_$_shot/scoop_$_shot	nouse
+1-1-1	*/shot/basketball_$_shot/jumper	nouse
+1-1-1	*/shot/basketball_$_shot/pivot_$_shot	nouse
+1-1-1	*/shot/basketball_$_shot/foul_$_shot	nouse
+1-1-1	*/shot/basketball_$_shot/bank_$_shot	nouse
+1-1-1	*/shot/basketball_$_shot/set_$_shot	nouse
+1-1-1	*/shot/basketball_$_shot/hook_$_shot	nouse
+1-1-1	*/shot/basketball_$_shot/finger-roll	nouse
+1-1-1	*/shot/basketball_$_shot/dunk	nouse
+1-1-1	*/shot/basketball_$_shot/tip_$_in	nouse
+1-1-1	*/shot/basketball_$_shot/lay-up	nouse
+1-1-1	*/shot/basketball_$_shot/foul_$_shot/one-and-one	nouse
+1-1-1	*/shot/basketball_$_shot/dunk/slam_$_dunk	nouse

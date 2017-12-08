@@ -1,0 +1,15 @@
+1-1-1	*/supernaturalism	nouse
+1-1-1	*/supernaturalism/magic	nouse
+1-1-1	*/supernaturalism/exorcism	nouse
+1-1-1	*/supernaturalism/occultism	nouse
+1-1-1	*/supernaturalism/magic/conjuring	nouse
+1-1-1	*/supernaturalism/magic/mojo	nouse
+1-1-1	*/supernaturalism/magic/white_$_magic	nouse
+1-1-1	*/supernaturalism/magic/juju	nouse
+1-1-1	*/supernaturalism/magic/sorcery	nouse
+1-1-1	*/supernaturalism/magic/conjuring/evocation	nouse
+1-1-1	*/supernaturalism/magic/white_$_magic/theurgy	nouse
+1-1-1	*/supernaturalism/magic/sorcery/enchantment	nouse
+1-1-1	*/supernaturalism/magic/sorcery/witchcraft	nouse
+1-1-1	*/supernaturalism/magic/sorcery/obiism	nouse
+1-1-1	*/supernaturalism/magic/sorcery/diabolism	nouse

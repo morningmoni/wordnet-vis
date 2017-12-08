@@ -1,0 +1,11 @@
+1-1-1	*/auk	nouse
+1-1-1	*/auk/great_$_auk	nouse
+1-1-1	*/auk/razorbill	nouse
+1-1-1	*/auk/guillemot	nouse
+1-1-1	*/auk/auklet	nouse
+1-1-1	*/auk/little_$_auk	nouse
+1-1-1	*/auk/guillemot/black_$_guillemot	nouse
+1-1-1	*/auk/guillemot/murre	nouse
+1-1-1	*/auk/guillemot/pigeon_$_guillemot	nouse
+1-1-1	*/auk/guillemot/murre/thick-billed_$_murre	nouse
+1-1-1	*/auk/guillemot/murre/common_$_murre	nouse

@@ -1,0 +1,15 @@
+1-1-1	*/accelerator	nouse
+1-1-1	*/accelerator/linear_$_accelerator	nouse
+1-1-1	*/accelerator/Cockcroft_$_and_$_Walton_$_accelerator	nouse
+1-1-1	*/accelerator/cyclotron	nouse
+1-1-1	*/accelerator/betatron	nouse
+1-1-1	*/accelerator/charge-exchange_$_accelerator	nouse
+1-1-1	*/accelerator/collider	nouse
+1-1-1	*/accelerator/linear_$_accelerator/microwave_$_linear_$_accelerator	nouse
+1-1-1	*/accelerator/cyclotron/bevatron	nouse
+1-1-1	*/accelerator/cyclotron/synchrotron	nouse
+1-1-1	*/accelerator/cyclotron/synchrocyclotron	nouse
+1-1-1	*/accelerator/cyclotron/synchrotron/cosmotron	nouse
+1-1-1	*/accelerator/collider/electron_$_accelerator	nouse
+1-1-1	*/accelerator/collider/superconducting_$_supercollider	nouse
+1-1-1	*/accelerator/collider/proton_$_accelerator	nouse

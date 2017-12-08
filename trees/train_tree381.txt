@@ -1,0 +1,12 @@
+1-1-1	*/calendar	nouse
+1-1-1	*/calendar/solar_$_calendar	nouse
+1-1-1	*/calendar/lunar_$_calendar	nouse
+1-1-1	*/calendar/lunisolar_$_calendar	nouse
+1-1-1	*/calendar/solar_$_calendar/Julian_$_calendar	nouse
+1-1-1	*/calendar/solar_$_calendar/Gregorian_$_calendar	nouse
+1-1-1	*/calendar/solar_$_calendar/Revolutionary_$_calendar	nouse
+1-1-1	*/calendar/solar_$_calendar/Gregorian_$_calendar/church_$_calendar	nouse
+1-1-1	*/calendar/lunar_$_calendar/Roman_$_calendar	nouse
+1-1-1	*/calendar/lunar_$_calendar/Islamic_$_calendar	nouse
+1-1-1	*/calendar/lunisolar_$_calendar/Hindu_$_calendar	nouse
+1-1-1	*/calendar/lunisolar_$_calendar/Jewish_$_calendar	nouse

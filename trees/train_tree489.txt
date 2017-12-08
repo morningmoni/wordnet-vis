@@ -1,0 +1,13 @@
+1-1-1	*/great_$_circle	nouse
+1-1-1	*/great_$_circle/hour_$_circle	nouse
+1-1-1	*/great_$_circle/meridian	nouse
+1-1-1	*/great_$_circle/ecliptic	nouse
+1-1-1	*/great_$_circle/equator	nouse
+1-1-1	*/great_$_circle/celestial_$_equator	nouse
+1-1-1	*/great_$_circle/horizon	nouse
+1-1-1	*/great_$_circle/vertical_$_circle	nouse
+1-1-1	*/great_$_circle/meridian/dateline	nouse
+1-1-1	*/great_$_circle/meridian/magnetic_$_meridian	nouse
+1-1-1	*/great_$_circle/meridian/prime_$_meridian	nouse
+1-1-1	*/great_$_circle/meridian/observer's_$_meridian	nouse
+1-1-1	*/great_$_circle/meridian/prime_$_meridian/Greenwich_$_Meridian	nouse

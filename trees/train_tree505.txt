@@ -1,0 +1,17 @@
+1-1-1	*/contact	nouse
+1-1-1	*/contact/engagement	nouse
+1-1-1	*/contact/flick	nouse
+1-1-1	*/contact/collision	nouse
+1-1-1	*/contact/impact	nouse
+1-1-1	*/contact/touch	nouse
+1-1-1	*/contact/impact/slam	nouse
+1-1-1	*/contact/impact/blow	nouse
+1-1-1	*/contact/impact/blow/slap	nouse
+1-1-1	*/contact/impact/blow/pounding	nouse
+1-1-1	*/contact/impact/blow/jolt	nouse
+1-1-1	*/contact/impact/blow/sideswipe	nouse
+1-1-1	*/contact/impact/blow/rap	nouse
+1-1-1	*/contact/impact/blow/concussion	nouse
+1-1-1	*/contact/impact/blow/knock	nouse
+1-1-1	*/contact/touch/stroke	nouse
+1-1-1	*/contact/touch/brush	nouse

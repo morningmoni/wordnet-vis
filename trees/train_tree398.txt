@@ -1,0 +1,12 @@
+1-1-1	*/ice_$_mass	nouse
+1-1-1	*/ice_$_mass/icecap	nouse
+1-1-1	*/ice_$_mass/ice_$_field	nouse
+1-1-1	*/ice_$_mass/glacier	nouse
+1-1-1	*/ice_$_mass/ice_$_floe	nouse
+1-1-1	*/ice_$_mass/iceberg	nouse
+1-1-1	*/ice_$_mass/glacier/continental_$_glacier	nouse
+1-1-1	*/ice_$_mass/glacier/Alpine_$_glacier	nouse
+1-1-1	*/ice_$_mass/glacier/Piedmont_$_glacier	nouse
+1-1-1	*/ice_$_mass/glacier/continental_$_glacier/polar_$_glacier	nouse
+1-1-1	*/ice_$_mass/glacier/Piedmont_$_glacier/Mendenhall_$_Glacier	nouse
+1-1-1	*/ice_$_mass/iceberg/growler	nouse

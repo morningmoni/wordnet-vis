@@ -1,0 +1,17 @@
+1-1-1	*/taste	nouse
+1-1-1	*/taste/delicacy	nouse
+1-1-1	*/taste/culture	nouse
+1-1-1	*/taste/virtu	nouse
+1-1-1	*/taste/vogue	nouse
+1-1-1	*/taste/culture/letters	nouse
+1-1-1	*/taste/culture/mass_$_culture	nouse
+1-1-1	*/taste/culture/counterculture	nouse
+1-1-1	*/taste/culture/counterculture/flower_$_power	nouse
+1-1-1	*/taste/vogue/fashion	nouse
+1-1-1	*/taste/vogue/bandwagon	nouse
+1-1-1	*/taste/vogue/New_$_Look	nouse
+1-1-1	*/taste/vogue/fashion/fad	nouse
+1-1-1	*/taste/vogue/fashion/cult_$_of_$_personality	nouse
+1-1-1	*/taste/vogue/fashion/haute_$_couture	nouse
+1-1-1	*/taste/vogue/fashion/cut	nouse
+1-1-1	*/taste/vogue/fashion/retro	nouse

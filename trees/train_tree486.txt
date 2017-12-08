@@ -1,0 +1,14 @@
+1-1-1	*/zone	nouse
+1-1-1	*/zone/Panama_$_Canal_$_Zone	nouse
+1-1-1	*/zone/tidal_$_zone	nouse
+1-1-1	*/zone/strike_$_zone	nouse
+1-1-1	*/zone/kill_$_zone	nouse
+1-1-1	*/zone/combat_$_zone	nouse
+1-1-1	*/zone/danger_$_zone	nouse
+1-1-1	*/zone/drop_$_zone	nouse
+1-1-1	*/zone/buffer_$_zone	nouse
+1-1-1	*/zone/demilitarized_$_zone	nouse
+1-1-1	*/zone/combat_$_zone/war_$_zone	nouse
+1-1-1	*/zone/combat_$_zone/bridgehead	nouse
+1-1-1	*/zone/combat_$_zone/bridgehead/airhead	nouse
+1-1-1	*/zone/combat_$_zone/bridgehead/beachhead	nouse

@@ -1,0 +1,12 @@
+1-1-1	*/transparent_$_substance	nouse
+1-1-1	*/transparent_$_substance/mica	nouse
+1-1-1	*/transparent_$_substance/hyaline	nouse
+1-1-1	*/transparent_$_substance/mica/zinnwaldite	nouse
+1-1-1	*/transparent_$_substance/mica/paragonite	nouse
+1-1-1	*/transparent_$_substance/mica/muscovite	nouse
+1-1-1	*/transparent_$_substance/mica/lepidolite	nouse
+1-1-1	*/transparent_$_substance/mica/biotite	nouse
+1-1-1	*/transparent_$_substance/mica/phlogopite	nouse
+1-1-1	*/transparent_$_substance/mica/muscovite/damourite	nouse
+1-1-1	*/transparent_$_substance/mica/biotite/lepidomelane	nouse
+1-1-1	*/transparent_$_substance/hyaline/keratohyalin	nouse

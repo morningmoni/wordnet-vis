@@ -1,0 +1,11 @@
+1-1-1	*/embankment	nouse
+1-1-1	*/embankment/levee	nouse
+1-1-1	*/embankment/rampart	nouse
+1-1-1	*/embankment/rampart/fraise	nouse
+1-1-1	*/embankment/rampart/earthwork	nouse
+1-1-1	*/embankment/rampart/merlon	nouse
+1-1-1	*/embankment/rampart/Chinese_$_Wall	nouse
+1-1-1	*/embankment/rampart/battlement	nouse
+1-1-1	*/embankment/rampart/bailey	nouse
+1-1-1	*/embankment/rampart/Antonine_$_Wall	nouse
+1-1-1	*/embankment/rampart/earthwork/sconce	nouse

@@ -1,0 +1,14 @@
+1-1-1	*/country-dance	nouse
+1-1-1	*/country-dance/landler	nouse
+1-1-1	*/country-dance/square_$_dance	nouse
+1-1-1	*/country-dance/promenade	nouse
+1-1-1	*/country-dance/longways	nouse
+1-1-1	*/country-dance/do-si-do	nouse
+1-1-1	*/country-dance/sashay	nouse
+1-1-1	*/country-dance/swing	nouse
+1-1-1	*/country-dance/square_$_dance/reel	nouse
+1-1-1	*/country-dance/square_$_dance/quadrille	nouse
+1-1-1	*/country-dance/square_$_dance/reel/eightsome	nouse
+1-1-1	*/country-dance/square_$_dance/reel/highland_$_fling	nouse
+1-1-1	*/country-dance/square_$_dance/quadrille/lancers	nouse
+1-1-1	*/country-dance/longways/Virginia_$_reel	nouse

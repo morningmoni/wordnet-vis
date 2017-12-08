@@ -1,0 +1,12 @@
+1-1-1	*/model	nouse
+1-1-1	*/model/string_$_theory	nouse
+1-1-1	*/model/stochastic_$_process	nouse
+1-1-1	*/model/Ptolemaic_$_system	nouse
+1-1-1	*/model/mean_$_sun	nouse
+1-1-1	*/model/Copernican_$_system	nouse
+1-1-1	*/model/simulation	nouse
+1-1-1	*/model/M-theory	nouse
+1-1-1	*/model/stochastic_$_process/random_$_walk	nouse
+1-1-1	*/model/stochastic_$_process/stationary_$_stochastic_$_process	nouse
+1-1-1	*/model/stochastic_$_process/Markov_$_process	nouse
+1-1-1	*/model/stochastic_$_process/Markov_$_process/Markov_$_chain	nouse

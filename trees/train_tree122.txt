@@ -1,0 +1,13 @@
+1-1-1	*/architectural_$_style	nouse
+1-1-1	*/architectural_$_style/Moorish	nouse
+1-1-1	*/architectural_$_style/Byzantine_$_architecture	nouse
+1-1-1	*/architectural_$_style/Gothic	nouse
+1-1-1	*/architectural_$_style/classical_$_architecture	nouse
+1-1-1	*/architectural_$_style/Victorian_$_architecture	nouse
+1-1-1	*/architectural_$_style/Romanesque	nouse
+1-1-1	*/architectural_$_style/Bauhaus	nouse
+1-1-1	*/architectural_$_style/Gothic/perpendicular	nouse
+1-1-1	*/architectural_$_style/Gothic/perpendicular/Tudor_$_architecture	nouse
+1-1-1	*/architectural_$_style/classical_$_architecture/Greek_$_architecture	nouse
+1-1-1	*/architectural_$_style/classical_$_architecture/Roman_$_architecture	nouse
+1-1-1	*/architectural_$_style/Romanesque/Norman_$_architecture	nouse

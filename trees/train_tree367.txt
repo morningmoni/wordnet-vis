@@ -1,0 +1,14 @@
+1-1-1	*/value	nouse
+1-1-1	*/value/principle	nouse
+1-1-1	*/value/introject	nouse
+1-1-1	*/value/principle/accounting_$_principle	nouse
+1-1-1	*/value/principle/scruple	nouse
+1-1-1	*/value/principle/chivalry	nouse
+1-1-1	*/value/principle/Hellenism	nouse
+1-1-1	*/value/principle/legal_$_principle	nouse
+1-1-1	*/value/principle/ethic	nouse
+1-1-1	*/value/principle/legal_$_principle/jus_$_sanguinis	nouse
+1-1-1	*/value/principle/legal_$_principle/relation_$_back	nouse
+1-1-1	*/value/principle/legal_$_principle/jus_$_soli	nouse
+1-1-1	*/value/principle/legal_$_principle/preemption	nouse
+1-1-1	*/value/principle/ethic/Chartism	nouse

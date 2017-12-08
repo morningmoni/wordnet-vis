@@ -1,0 +1,16 @@
+1-1-1	*/emotional_$_state	nouse
+1-1-1	*/emotional_$_state/unhappiness	nouse
+1-1-1	*/emotional_$_state/happiness	nouse
+1-1-1	*/emotional_$_state/ecstasy	nouse
+1-1-1	*/emotional_$_state/embarrassment	nouse
+1-1-1	*/emotional_$_state/state	nouse
+1-1-1	*/emotional_$_state/gratification	nouse
+1-1-1	*/emotional_$_state/unhappiness/embitterment	nouse
+1-1-1	*/emotional_$_state/unhappiness/sadness	nouse
+1-1-1	*/emotional_$_state/unhappiness/sadness/poignance	nouse
+1-1-1	*/emotional_$_state/unhappiness/sadness/mourning	nouse
+1-1-1	*/emotional_$_state/happiness/radiance	nouse
+1-1-1	*/emotional_$_state/happiness/blessedness	nouse
+1-1-1	*/emotional_$_state/happiness/blessedness/nirvana	nouse
+1-1-1	*/emotional_$_state/gratification/quality_$_of_$_life	nouse
+1-1-1	*/emotional_$_state/gratification/comfort	nouse

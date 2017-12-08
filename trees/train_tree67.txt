@@ -1,0 +1,12 @@
+1-1-1	*/zone	nouse
+1-1-1	*/zone/time_$_zone	nouse
+1-1-1	*/zone/transit_$_zone	nouse
+1-1-1	*/zone/climatic_$_zone	nouse
+1-1-1	*/zone/climatic_$_zone/subtropics	nouse
+1-1-1	*/zone/climatic_$_zone/Frigid_$_Zone	nouse
+1-1-1	*/zone/climatic_$_zone/Temperate_$_Zone	nouse
+1-1-1	*/zone/climatic_$_zone/Torrid_$_Zone	nouse
+1-1-1	*/zone/climatic_$_zone/Frigid_$_Zone/Arctic	nouse
+1-1-1	*/zone/climatic_$_zone/Frigid_$_Zone/Antarctic	nouse
+1-1-1	*/zone/climatic_$_zone/Temperate_$_Zone/North_$_Temperate_$_Zone	nouse
+1-1-1	*/zone/climatic_$_zone/Temperate_$_Zone/South_$_Temperate_$_Zone	nouse

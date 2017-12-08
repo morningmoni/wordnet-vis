@@ -1,0 +1,17 @@
+1-1-1	*/body_$_waste	nouse
+1-1-1	*/body_$_waste/urine	nouse
+1-1-1	*/body_$_waste/fecal_$_matter	nouse
+1-1-1	*/body_$_waste/vomit	nouse
+1-1-1	*/body_$_waste/wormcast	nouse
+1-1-1	*/body_$_waste/human_$_waste	nouse
+1-1-1	*/body_$_waste/fecula	nouse
+1-1-1	*/body_$_waste/guano	nouse
+1-1-1	*/body_$_waste/fecal_$_matter/droppings	nouse
+1-1-1	*/body_$_waste/fecal_$_matter/melena	nouse
+1-1-1	*/body_$_waste/fecal_$_matter/dog_$_shit	nouse
+1-1-1	*/body_$_waste/fecal_$_matter/meconium	nouse
+1-1-1	*/body_$_waste/fecal_$_matter/crap	nouse
+1-1-1	*/body_$_waste/fecal_$_matter/droppings/chip	nouse
+1-1-1	*/body_$_waste/fecal_$_matter/droppings/coprolite	nouse
+1-1-1	*/body_$_waste/fecal_$_matter/droppings/cow_$_pie	nouse
+1-1-1	*/body_$_waste/fecal_$_matter/droppings/pigeon_$_droppings	nouse

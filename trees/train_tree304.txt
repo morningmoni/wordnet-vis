@@ -1,0 +1,13 @@
+1-1-1	*/irrigation	nouse
+1-1-1	*/irrigation/eyedrop	nouse
+1-1-1	*/irrigation/enema	nouse
+1-1-1	*/irrigation/douche	nouse
+1-1-1	*/irrigation/lavage	nouse
+1-1-1	*/irrigation/eyedrop/beta_$_blocker_$_eyedrop	nouse
+1-1-1	*/irrigation/eyedrop/miotic_$_eyedrop	nouse
+1-1-1	*/irrigation/eyedrop/topical_$_prostaglandin_$_eyedrop	nouse
+1-1-1	*/irrigation/eyedrop/adrenergic_$_agonist_$_eyedrop	nouse
+1-1-1	*/irrigation/enema/colonic_$_irrigation	nouse
+1-1-1	*/irrigation/enema/barium_$_enema	nouse
+1-1-1	*/irrigation/enema/colonic_$_irrigation/high_$_colonic	nouse
+1-1-1	*/irrigation/lavage/gastric_$_lavage	nouse

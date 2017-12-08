@@ -1,0 +1,12 @@
+1-1-1	*/covering_$_material	nouse
+1-1-1	*/covering_$_material/fiberglass	nouse
+1-1-1	*/covering_$_material/puddle	nouse
+1-1-1	*/covering_$_material/plaster	nouse
+1-1-1	*/covering_$_material/linoleum	nouse
+1-1-1	*/covering_$_material/plaster/finish_$_coat	nouse
+1-1-1	*/covering_$_material/plaster/stucco	nouse
+1-1-1	*/covering_$_material/plaster/spackle	nouse
+1-1-1	*/covering_$_material/plaster/parget	nouse
+1-1-1	*/covering_$_material/plaster/roughcast	nouse
+1-1-1	*/covering_$_material/plaster/grout	nouse
+1-1-1	*/covering_$_material/plaster/stucco/render	nouse

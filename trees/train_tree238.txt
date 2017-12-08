@@ -1,0 +1,13 @@
+1-1-1	*/nonfiction	nouse
+1-1-1	*/nonfiction/article	nouse
+1-1-1	*/nonfiction/article/think_$_piece	nouse
+1-1-1	*/nonfiction/article/feature	nouse
+1-1-1	*/nonfiction/article/offprint	nouse
+1-1-1	*/nonfiction/article/column	nouse
+1-1-1	*/nonfiction/article/paper	nouse
+1-1-1	*/nonfiction/article/news_$_article	nouse
+1-1-1	*/nonfiction/article/magazine_$_article	nouse
+1-1-1	*/nonfiction/article/column/agony_$_column	nouse
+1-1-1	*/nonfiction/article/news_$_article/lead	nouse
+1-1-1	*/nonfiction/article/news_$_article/sidebar	nouse
+1-1-1	*/nonfiction/article/news_$_article/personal	nouse

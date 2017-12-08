@@ -1,0 +1,17 @@
+1-1-1	*/chocolate	nouse
+1-1-1	*/chocolate/couverture	nouse
+1-1-1	*/chocolate/chocolate_$_liquor	nouse
+1-1-1	*/chocolate/bitter_$_chocolate	nouse
+1-1-1	*/chocolate/white_$_chocolate	nouse
+1-1-1	*/chocolate/bittersweet_$_chocolate	nouse
+1-1-1	*/chocolate/milk_$_chocolate	nouse
+1-1-1	*/chocolate/chocolate_$_candy	nouse
+1-1-1	*/chocolate/cocoa_$_butter	nouse
+1-1-1	*/chocolate/cocoa_$_powder	nouse
+1-1-1	*/chocolate/chocolate_$_candy/choc	nouse
+1-1-1	*/chocolate/chocolate_$_candy/chocolate_$_bar	nouse
+1-1-1	*/chocolate/chocolate_$_candy/chocolate_$_kiss	nouse
+1-1-1	*/chocolate/chocolate_$_candy/nonpareil	nouse
+1-1-1	*/chocolate/chocolate_$_candy/jimmies	nouse
+1-1-1	*/chocolate/chocolate_$_candy/chocolate_$_bar/Hershey_$_bar	nouse
+1-1-1	*/chocolate/cocoa_$_powder/Dutch-processed_$_cocoa	nouse

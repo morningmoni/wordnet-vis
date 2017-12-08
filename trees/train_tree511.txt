@@ -1,0 +1,14 @@
+1-1-1	*/poetic_$_rhythm	nouse
+1-1-1	*/poetic_$_rhythm/sprung_$_rhythm	nouse
+1-1-1	*/poetic_$_rhythm/meter	nouse
+1-1-1	*/poetic_$_rhythm/meter/catalexis	nouse
+1-1-1	*/poetic_$_rhythm/meter/common_$_measure	nouse
+1-1-1	*/poetic_$_rhythm/meter/scansion	nouse
+1-1-1	*/poetic_$_rhythm/meter/metrical_$_foot	nouse
+1-1-1	*/poetic_$_rhythm/meter/metrical_$_foot/trochee	nouse
+1-1-1	*/poetic_$_rhythm/meter/metrical_$_foot/amphibrach	nouse
+1-1-1	*/poetic_$_rhythm/meter/metrical_$_foot/dactyl	nouse
+1-1-1	*/poetic_$_rhythm/meter/metrical_$_foot/pyrrhic	nouse
+1-1-1	*/poetic_$_rhythm/meter/metrical_$_foot/spondee	nouse
+1-1-1	*/poetic_$_rhythm/meter/metrical_$_foot/anapest	nouse
+1-1-1	*/poetic_$_rhythm/meter/metrical_$_foot/iamb	nouse

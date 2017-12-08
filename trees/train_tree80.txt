@@ -1,0 +1,15 @@
+1-1-1	*/grape	nouse
+1-1-1	*/grape/slipskin_$_grape	nouse
+1-1-1	*/grape/vinifera_$_grape	nouse
+1-1-1	*/grape/muscadine	nouse
+1-1-1	*/grape/slipskin_$_grape/fox_$_grape	nouse
+1-1-1	*/grape/slipskin_$_grape/fox_$_grape/Catawba	nouse
+1-1-1	*/grape/slipskin_$_grape/fox_$_grape/Concord_$_grape	nouse
+1-1-1	*/grape/vinifera_$_grape/sultana	nouse
+1-1-1	*/grape/vinifera_$_grape/Tokay	nouse
+1-1-1	*/grape/vinifera_$_grape/ribier	nouse
+1-1-1	*/grape/vinifera_$_grape/muscat	nouse
+1-1-1	*/grape/vinifera_$_grape/emperor	nouse
+1-1-1	*/grape/vinifera_$_grape/Thompson_$_Seedless	nouse
+1-1-1	*/grape/vinifera_$_grape/Tokay/flame_$_tokay	nouse
+1-1-1	*/grape/muscadine/scuppernong	nouse

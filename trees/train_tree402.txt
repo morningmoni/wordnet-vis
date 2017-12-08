@@ -1,0 +1,13 @@
+1-1-1	*/pericarp	nouse
+1-1-1	*/pericarp/capsule	nouse
+1-1-1	*/pericarp/mesocarp	nouse
+1-1-1	*/pericarp/epicarp	nouse
+1-1-1	*/pericarp/bur	nouse
+1-1-1	*/pericarp/stone	nouse
+1-1-1	*/pericarp/capsule/silique	nouse
+1-1-1	*/pericarp/capsule/boll	nouse
+1-1-1	*/pericarp/capsule/bilocular_$_capsule	nouse
+1-1-1	*/pericarp/capsule/silique/silicle	nouse
+1-1-1	*/pericarp/bur/Spanish_$_needles	nouse
+1-1-1	*/pericarp/stone/peach_$_pit	nouse
+1-1-1	*/pericarp/stone/cherry_$_stone	nouse

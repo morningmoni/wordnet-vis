@@ -1,0 +1,14 @@
+1-1-1	*/club	nouse
+1-1-1	*/club/lathi	nouse
+1-1-1	*/club/truncheon	nouse
+1-1-1	*/club/knobkerrie	nouse
+1-1-1	*/club/cudgel	nouse
+1-1-1	*/club/Indian_$_club	nouse
+1-1-1	*/club/bludgeon	nouse
+1-1-1	*/club/bat	nouse
+1-1-1	*/club/cudgel/bastinado	nouse
+1-1-1	*/club/cudgel/shillelagh	nouse
+1-1-1	*/club/bludgeon/blackjack	nouse
+1-1-1	*/club/bat/paddle	nouse
+1-1-1	*/club/bat/baseball_$_bat	nouse
+1-1-1	*/club/bat/paddle/table-tennis_$_racquet	nouse

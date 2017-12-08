@@ -1,0 +1,12 @@
+1-1-1	*/interest	nouse
+1-1-1	*/interest/enthusiasm	nouse
+1-1-1	*/interest/concern	nouse
+1-1-1	*/interest/enthusiasm/Anglomania	nouse
+1-1-1	*/interest/enthusiasm/balletomania	nouse
+1-1-1	*/interest/concern/worldly_$_concern	nouse
+1-1-1	*/interest/concern/matter	nouse
+1-1-1	*/interest/concern/part	nouse
+1-1-1	*/interest/concern/point_$_of_$_honor	nouse
+1-1-1	*/interest/concern/personal_$_business	nouse
+1-1-1	*/interest/concern/matter/least	nouse
+1-1-1	*/interest/concern/personal_$_business/dirty_$_linen	nouse

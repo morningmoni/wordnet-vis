@@ -1,0 +1,12 @@
+1-1-1	*/environment	nouse
+1-1-1	*/environment/medium	nouse
+1-1-1	*/environment/element	nouse
+1-1-1	*/environment/melting_$_pot	nouse
+1-1-1	*/environment/setting	nouse
+1-1-1	*/environment/habitat	nouse
+1-1-1	*/environment/parts	nouse
+1-1-1	*/environment/ambiance	nouse
+1-1-1	*/environment/setting/scenario	nouse
+1-1-1	*/environment/habitat/habitation	nouse
+1-1-1	*/environment/habitat/habitation/lair	nouse
+1-1-1	*/environment/habitat/habitation/aerie	nouse

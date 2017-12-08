@@ -1,0 +1,17 @@
+1-1-1	*/organization	nouse
+1-1-1	*/organization/randomization	nouse
+1-1-1	*/organization/territorialization	nouse
+1-1-1	*/organization/systematization	nouse
+1-1-1	*/organization/order	nouse
+1-1-1	*/organization/listing	nouse
+1-1-1	*/organization/systematization/formalization	nouse
+1-1-1	*/organization/systematization/codification	nouse
+1-1-1	*/organization/order/layout	nouse
+1-1-1	*/organization/order/succession	nouse
+1-1-1	*/organization/order/rank_$_order	nouse
+1-1-1	*/organization/order/scaling	nouse
+1-1-1	*/organization/order/alphabetization	nouse
+1-1-1	*/organization/order/succession/alternation	nouse
+1-1-1	*/organization/order/succession/opening	nouse
+1-1-1	*/organization/listing/inventory	nouse
+1-1-1	*/organization/listing/inventory/stocktake	nouse

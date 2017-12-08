@@ -1,0 +1,12 @@
+1-1-1	*/amine	nouse
+1-1-1	*/amine/monoamine	nouse
+1-1-1	*/amine/ptomaine	nouse
+1-1-1	*/amine/enamine	nouse
+1-1-1	*/amine/histamine	nouse
+1-1-1	*/amine/aniline	nouse
+1-1-1	*/amine/monoamine/monoamine_$_neurotransmitter	nouse
+1-1-1	*/amine/monoamine/monoamine_$_neurotransmitter/serotonin	nouse
+1-1-1	*/amine/monoamine/monoamine_$_neurotransmitter/noradrenaline	nouse
+1-1-1	*/amine/monoamine/monoamine_$_neurotransmitter/dopamine	nouse
+1-1-1	*/amine/ptomaine/putrescine	nouse
+1-1-1	*/amine/ptomaine/cadaverine	nouse

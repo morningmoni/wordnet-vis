@@ -1,0 +1,11 @@
+1-1-1	*/recorder	nouse
+1-1-1	*/recorder/cassette_$_recorder	nouse
+1-1-1	*/recorder/oscillograph	nouse
+1-1-1	*/recorder/multichannel_$_recorder	nouse
+1-1-1	*/recorder/black_$_box	nouse
+1-1-1	*/recorder/magnetic_$_recorder	nouse
+1-1-1	*/recorder/compact-disk_$_burner	nouse
+1-1-1	*/recorder/magnetic_$_recorder/wire_$_recorder	nouse
+1-1-1	*/recorder/magnetic_$_recorder/tape_$_recorder	nouse
+1-1-1	*/recorder/magnetic_$_recorder/tape_$_recorder/videocassette_$_recorder	nouse
+1-1-1	*/recorder/magnetic_$_recorder/tape_$_recorder/Dictaphone	nouse

@@ -1,0 +1,13 @@
+1-1-1	*/reflector	nouse
+1-1-1	*/reflector/parabolic_$_reflector	nouse
+1-1-1	*/reflector/solar_$_dish	nouse
+1-1-1	*/reflector/mirror	nouse
+1-1-1	*/reflector/parabolic_$_reflector/parabolic_$_mirror	nouse
+1-1-1	*/reflector/mirror/speculum	nouse
+1-1-1	*/reflector/mirror/car_$_mirror	nouse
+1-1-1	*/reflector/mirror/looking_$_glass	nouse
+1-1-1	*/reflector/mirror/cheval_$_glass	nouse
+1-1-1	*/reflector/mirror/pier_$_glass	nouse
+1-1-1	*/reflector/mirror/hand_$_glass	nouse
+1-1-1	*/reflector/mirror/car_$_mirror/outside_$_mirror	nouse
+1-1-1	*/reflector/mirror/car_$_mirror/rearview_$_mirror	nouse

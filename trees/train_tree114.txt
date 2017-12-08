@@ -1,0 +1,14 @@
+1-1-1	*/correspondence	nouse
+1-1-1	*/correspondence/card	nouse
+1-1-1	*/correspondence/card/sympathy_$_card	nouse
+1-1-1	*/correspondence/card/postcard	nouse
+1-1-1	*/correspondence/card/get-well_$_card	nouse
+1-1-1	*/correspondence/card/greeting_$_card	nouse
+1-1-1	*/correspondence/card/sympathy_$_card/spiritual_$_bouquet	nouse
+1-1-1	*/correspondence/card/sympathy_$_card/Mass_$_card	nouse
+1-1-1	*/correspondence/card/postcard/lettercard	nouse
+1-1-1	*/correspondence/card/postcard/picture_$_postcard	nouse
+1-1-1	*/correspondence/card/greeting_$_card/birthday_$_card	nouse
+1-1-1	*/correspondence/card/greeting_$_card/Christmas_$_card	nouse
+1-1-1	*/correspondence/card/greeting_$_card/Easter_$_card	nouse
+1-1-1	*/correspondence/card/greeting_$_card/Valentine	nouse

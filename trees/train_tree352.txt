@@ -1,0 +1,14 @@
+1-1-1	*/inflorescence	nouse
+1-1-1	*/inflorescence/flower_$_head	nouse
+1-1-1	*/inflorescence/flower_$_cluster	nouse
+1-1-1	*/inflorescence/catkin	nouse
+1-1-1	*/inflorescence/corymb	nouse
+1-1-1	*/inflorescence/spike	nouse
+1-1-1	*/inflorescence/cyme	nouse
+1-1-1	*/inflorescence/umbel	nouse
+1-1-1	*/inflorescence/flower_$_cluster/raceme	nouse
+1-1-1	*/inflorescence/flower_$_cluster/thyrse	nouse
+1-1-1	*/inflorescence/flower_$_cluster/raceme/panicle	nouse
+1-1-1	*/inflorescence/cyme/cymule	nouse
+1-1-1	*/inflorescence/cyme/scorpioid_$_cyme	nouse
+1-1-1	*/inflorescence/cyme/glomerule	nouse

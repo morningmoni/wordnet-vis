@@ -1,0 +1,12 @@
+1-1-1	*/stupidity	nouse
+1-1-1	*/stupidity/folly	nouse
+1-1-1	*/stupidity/dullness	nouse
+1-1-1	*/stupidity/denseness	nouse
+1-1-1	*/stupidity/vacuousness	nouse
+1-1-1	*/stupidity/retardation	nouse
+1-1-1	*/stupidity/dullness/oscitancy	nouse
+1-1-1	*/stupidity/retardation/idiocy	nouse
+1-1-1	*/stupidity/retardation/abnormality	nouse
+1-1-1	*/stupidity/retardation/moronity	nouse
+1-1-1	*/stupidity/retardation/imbecility	nouse
+1-1-1	*/stupidity/retardation/abnormality/feeblemindedness	nouse

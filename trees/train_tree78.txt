@@ -1,0 +1,14 @@
+1-1-1	*/serous_$_membrane	nouse
+1-1-1	*/serous_$_membrane/endocardium	nouse
+1-1-1	*/serous_$_membrane/parietal_$_pericardium	nouse
+1-1-1	*/serous_$_membrane/pleura	nouse
+1-1-1	*/serous_$_membrane/pericardium	nouse
+1-1-1	*/serous_$_membrane/peritoneum	nouse
+1-1-1	*/serous_$_membrane/epicardium	nouse
+1-1-1	*/serous_$_membrane/pleura/visceral_$_pleura	nouse
+1-1-1	*/serous_$_membrane/pleura/parietal_$_pleura	nouse
+1-1-1	*/serous_$_membrane/peritoneum/omentum	nouse
+1-1-1	*/serous_$_membrane/peritoneum/mesentery	nouse
+1-1-1	*/serous_$_membrane/peritoneum/omentum/lesser_$_omentum	nouse
+1-1-1	*/serous_$_membrane/peritoneum/omentum/greater_$_omentum	nouse
+1-1-1	*/serous_$_membrane/peritoneum/mesentery/mesocolon	nouse

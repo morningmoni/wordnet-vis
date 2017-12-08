@@ -1,0 +1,14 @@
+1-1-1	*/affliction	nouse
+1-1-1	*/affliction/deformity	nouse
+1-1-1	*/affliction/deformity/cleft_$_foot	nouse
+1-1-1	*/affliction/deformity/clawfoot	nouse
+1-1-1	*/affliction/deformity/Arnold-Chiari_$_deformity	nouse
+1-1-1	*/affliction/deformity/valgus	nouse
+1-1-1	*/affliction/deformity/clubfoot	nouse
+1-1-1	*/affliction/deformity/scaphocephaly	nouse
+1-1-1	*/affliction/deformity/pigeon_$_breast	nouse
+1-1-1	*/affliction/deformity/plagiocephaly	nouse
+1-1-1	*/affliction/deformity/varus	nouse
+1-1-1	*/affliction/deformity/clubfoot/talipes_$_valgus	nouse
+1-1-1	*/affliction/deformity/clubfoot/talipes_$_calcaneus	nouse
+1-1-1	*/affliction/deformity/clubfoot/talipes_$_equinus	nouse

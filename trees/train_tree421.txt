@@ -1,0 +1,15 @@
+1-1-1	*/reactor	nouse
+1-1-1	*/reactor/coil	nouse
+1-1-1	*/reactor/coil/primary_$_coil	nouse
+1-1-1	*/reactor/coil/tickler_$_coil	nouse
+1-1-1	*/reactor/coil/induction_$_coil	nouse
+1-1-1	*/reactor/coil/secondary_$_coil	nouse
+1-1-1	*/reactor/coil/field_$_coil	nouse
+1-1-1	*/reactor/coil/astatic_$_coils	nouse
+1-1-1	*/reactor/coil/armature	nouse
+1-1-1	*/reactor/coil/read/write_$_head	nouse
+1-1-1	*/reactor/coil/solenoid	nouse
+1-1-1	*/reactor/coil/choke	nouse
+1-1-1	*/reactor/coil/induction_$_coil/spark_$_coil	nouse
+1-1-1	*/reactor/coil/induction_$_coil/ignition_$_coil	nouse
+1-1-1	*/reactor/coil/armature/rotor	nouse

@@ -1,0 +1,11 @@
+1-1-1	*/vascular_$_tissue	nouse
+1-1-1	*/vascular_$_tissue/stele	nouse
+1-1-1	*/vascular_$_tissue/vascular_$_ray	nouse
+1-1-1	*/vascular_$_tissue/tracheid	nouse
+1-1-1	*/vascular_$_tissue/cambium	nouse
+1-1-1	*/vascular_$_tissue/xylem	nouse
+1-1-1	*/vascular_$_tissue/vascular_$_bundle	nouse
+1-1-1	*/vascular_$_tissue/phloem	nouse
+1-1-1	*/vascular_$_tissue/sieve_$_tube	nouse
+1-1-1	*/vascular_$_tissue/vascular_$_bundle/vein	nouse
+1-1-1	*/vascular_$_tissue/vascular_$_bundle/vein/midrib	nouse

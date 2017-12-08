@@ -1,0 +1,13 @@
+1-1-1	*/insertion	nouse
+1-1-1	*/insertion/instillation	nouse
+1-1-1	*/insertion/cannulation	nouse
+1-1-1	*/insertion/transfusion	nouse
+1-1-1	*/insertion/enclosure	nouse
+1-1-1	*/insertion/perfusion	nouse
+1-1-1	*/insertion/injection	nouse
+1-1-1	*/insertion/instillation/infusion	nouse
+1-1-1	*/insertion/transfusion/exchange_$_transfusion	nouse
+1-1-1	*/insertion/enclosure/packing	nouse
+1-1-1	*/insertion/enclosure/encasement	nouse
+1-1-1	*/insertion/enclosure/packing/bundling	nouse
+1-1-1	*/insertion/injection/epidural_$_injection	nouse

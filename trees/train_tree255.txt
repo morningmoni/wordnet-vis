@@ -1,0 +1,15 @@
+1-1-1	*/dysfunction	nouse
+1-1-1	*/dysfunction/paralysis	nouse
+1-1-1	*/dysfunction/erectile_$_dysfunction	nouse
+1-1-1	*/dysfunction/paralysis/alalia	nouse
+1-1-1	*/dysfunction/paralysis/akinesis	nouse
+1-1-1	*/dysfunction/paralysis/quadriplegia	nouse
+1-1-1	*/dysfunction/paralysis/Erb's_$_palsy	nouse
+1-1-1	*/dysfunction/paralysis/paresis	nouse
+1-1-1	*/dysfunction/paralysis/hemiplegia	nouse
+1-1-1	*/dysfunction/paralysis/cystoplegia	nouse
+1-1-1	*/dysfunction/paralysis/ophthalmoplegia	nouse
+1-1-1	*/dysfunction/paralysis/diplegia	nouse
+1-1-1	*/dysfunction/paralysis/monoplegia	nouse
+1-1-1	*/dysfunction/paralysis/paraplegia	nouse
+1-1-1	*/dysfunction/paralysis/paresis/paraparesis	nouse

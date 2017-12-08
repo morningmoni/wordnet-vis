@@ -1,0 +1,12 @@
+1-1-1	*/timbre	nouse
+1-1-1	*/timbre/nasality	nouse
+1-1-1	*/timbre/register	nouse
+1-1-1	*/timbre/plangency	nouse
+1-1-1	*/timbre/shrillness	nouse
+1-1-1	*/timbre/harmonic	nouse
+1-1-1	*/timbre/color	nouse
+1-1-1	*/timbre/resonance	nouse
+1-1-1	*/timbre/nasality/twang	nouse
+1-1-1	*/timbre/register/head_$_register	nouse
+1-1-1	*/timbre/register/chest_$_register	nouse
+1-1-1	*/timbre/register/head_$_register/falsetto	nouse

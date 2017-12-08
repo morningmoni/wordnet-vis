@@ -1,0 +1,14 @@
+1-1-1	*/anatomy	nouse
+1-1-1	*/anatomy/regional_$_anatomy	nouse
+1-1-1	*/anatomy/microscopic_$_anatomy	nouse
+1-1-1	*/anatomy/clinical_$_anatomy	nouse
+1-1-1	*/anatomy/functional_$_anatomy	nouse
+1-1-1	*/anatomy/neuroanatomy	nouse
+1-1-1	*/anatomy/comparative_$_anatomy	nouse
+1-1-1	*/anatomy/developmental_$_anatomy	nouse
+1-1-1	*/anatomy/gross_$_anatomy	nouse
+1-1-1	*/anatomy/osteology	nouse
+1-1-1	*/anatomy/microscopic_$_anatomy/cytology	nouse
+1-1-1	*/anatomy/microscopic_$_anatomy/histology	nouse
+1-1-1	*/anatomy/microscopic_$_anatomy/cytology/cytogenetics	nouse
+1-1-1	*/anatomy/gross_$_anatomy/dental_$_anatomy	nouse

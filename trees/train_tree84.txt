@@ -1,0 +1,15 @@
+1-1-1	*/Penutian	nouse
+1-1-1	*/Penutian/Tsimshian	nouse
+1-1-1	*/Penutian/Kusan	nouse
+1-1-1	*/Penutian/Patwin	nouse
+1-1-1	*/Penutian/Maidu	nouse
+1-1-1	*/Penutian/Costanoan	nouse
+1-1-1	*/Penutian/Kalapooia	nouse
+1-1-1	*/Penutian/Chinook	nouse
+1-1-1	*/Penutian/Wintun	nouse
+1-1-1	*/Penutian/Takelma	nouse
+1-1-1	*/Penutian/Shahaptian	nouse
+1-1-1	*/Penutian/Yokuts	nouse
+1-1-1	*/Penutian/Miwok	nouse
+1-1-1	*/Penutian/Shahaptian/Nez_$_Perce	nouse
+1-1-1	*/Penutian/Shahaptian/Nez_$_Perce/Joseph	nouse

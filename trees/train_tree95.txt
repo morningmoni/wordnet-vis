@@ -1,0 +1,13 @@
+1-1-1	*/consumer_$_credit	nouse
+1-1-1	*/consumer_$_credit/installment_$_credit	nouse
+1-1-1	*/consumer_$_credit/open-end_$_credit	nouse
+1-1-1	*/consumer_$_credit/home_$_loan	nouse
+1-1-1	*/consumer_$_credit/open-end_$_credit/credit_$_card	nouse
+1-1-1	*/consumer_$_credit/open-end_$_credit/credit_$_account	nouse
+1-1-1	*/consumer_$_credit/open-end_$_credit/overdraft_$_credit	nouse
+1-1-1	*/consumer_$_credit/open-end_$_credit/debit_$_card	nouse
+1-1-1	*/consumer_$_credit/open-end_$_credit/smart_$_card	nouse
+1-1-1	*/consumer_$_credit/open-end_$_credit/credit_$_card/cash_$_card	nouse
+1-1-1	*/consumer_$_credit/open-end_$_credit/credit_$_card/bank_$_card	nouse
+1-1-1	*/consumer_$_credit/open-end_$_credit/credit_$_card/calling_$_card	nouse
+1-1-1	*/consumer_$_credit/open-end_$_credit/credit_$_account/revolving_$_charge_$_account	nouse

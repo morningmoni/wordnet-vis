@@ -1,0 +1,12 @@
+1-1-1	*/vesicle	nouse
+1-1-1	*/vesicle/blister	nouse
+1-1-1	*/vesicle/liposome	nouse
+1-1-1	*/vesicle/follicle	nouse
+1-1-1	*/vesicle/lacrimal_$_sac	nouse
+1-1-1	*/vesicle/Golgi_$_body	nouse
+1-1-1	*/vesicle/blister/water_$_blister	nouse
+1-1-1	*/vesicle/blister/pustule	nouse
+1-1-1	*/vesicle/blister/blood_$_blister	nouse
+1-1-1	*/vesicle/blister/pustule/pock	nouse
+1-1-1	*/vesicle/follicle/hair_$_follicle	nouse
+1-1-1	*/vesicle/follicle/Graafian_$_follicle	nouse

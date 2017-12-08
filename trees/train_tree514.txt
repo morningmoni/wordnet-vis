@@ -1,0 +1,16 @@
+1-1-1	*/baggage	nouse
+1-1-1	*/baggage/bag	nouse
+1-1-1	*/baggage/hand_$_luggage	nouse
+1-1-1	*/baggage/satchel	nouse
+1-1-1	*/baggage/dressing_$_case	nouse
+1-1-1	*/baggage/imperial	nouse
+1-1-1	*/baggage/hatbox	nouse
+1-1-1	*/baggage/trunk	nouse
+1-1-1	*/baggage/bag/portmanteau	nouse
+1-1-1	*/baggage/bag/weekender	nouse
+1-1-1	*/baggage/bag/garment_$_bag	nouse
+1-1-1	*/baggage/bag/carpetbag	nouse
+1-1-1	*/baggage/bag/overnighter	nouse
+1-1-1	*/baggage/bag/gripsack	nouse
+1-1-1	*/baggage/bag/overnighter/valise	nouse
+1-1-1	*/baggage/trunk/footlocker	nouse

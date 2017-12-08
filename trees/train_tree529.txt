@@ -1,0 +1,14 @@
+1-1-1	*/brightness	nouse
+1-1-1	*/brightness/radiance	nouse
+1-1-1	*/brightness/opalescence	nouse
+1-1-1	*/brightness/luster	nouse
+1-1-1	*/brightness/dazzle	nouse
+1-1-1	*/brightness/glare	nouse
+1-1-1	*/brightness/glint	nouse
+1-1-1	*/brightness/glitter	nouse
+1-1-1	*/brightness/flash	nouse
+1-1-1	*/brightness/radiance/polish	nouse
+1-1-1	*/brightness/radiance/shininess	nouse
+1-1-1	*/brightness/radiance/gleam	nouse
+1-1-1	*/brightness/radiance/polish/glaze	nouse
+1-1-1	*/brightness/radiance/polish/French_$_polish	nouse

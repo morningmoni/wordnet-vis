@@ -1,0 +1,11 @@
+1-1-1	*/kinswoman	nouse
+1-1-1	*/kinswoman/niece	nouse
+1-1-1	*/kinswoman/female_$_sibling	nouse
+1-1-1	*/kinswoman/aunt	nouse
+1-1-1	*/kinswoman/niece/great-niece	nouse
+1-1-1	*/kinswoman/female_$_sibling/sister	nouse
+1-1-1	*/kinswoman/female_$_sibling/sister/little_$_sister	nouse
+1-1-1	*/kinswoman/female_$_sibling/sister/half_$_sister	nouse
+1-1-1	*/kinswoman/female_$_sibling/sister/big_$_sister	nouse
+1-1-1	*/kinswoman/aunt/maiden_$_aunt	nouse
+1-1-1	*/kinswoman/aunt/great-aunt	nouse

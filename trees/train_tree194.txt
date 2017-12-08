@@ -1,0 +1,15 @@
+1-1-1	*/gymnosperm	nouse
+1-1-1	*/gymnosperm/cycad	nouse
+1-1-1	*/gymnosperm/seed_$_fern	nouse
+1-1-1	*/gymnosperm/progymnosperm	nouse
+1-1-1	*/gymnosperm/welwitschia	nouse
+1-1-1	*/gymnosperm/cycad/zamia	nouse
+1-1-1	*/gymnosperm/cycad/encephalartos	nouse
+1-1-1	*/gymnosperm/cycad/kaffir_$_bread	nouse
+1-1-1	*/gymnosperm/cycad/ceratozamia	nouse
+1-1-1	*/gymnosperm/cycad/macrozamia	nouse
+1-1-1	*/gymnosperm/cycad/burrawong	nouse
+1-1-1	*/gymnosperm/cycad/sago_$_palm	nouse
+1-1-1	*/gymnosperm/cycad/dioon	nouse
+1-1-1	*/gymnosperm/cycad/zamia/coontie	nouse
+1-1-1	*/gymnosperm/cycad/sago_$_palm/false_$_sago	nouse

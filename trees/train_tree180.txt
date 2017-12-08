@@ -1,0 +1,12 @@
+1-1-1	*/young_$_person	nouse
+1-1-1	*/young_$_person/schoolchild	nouse
+1-1-1	*/young_$_person/slip	nouse
+1-1-1	*/young_$_person/hobbledehoy	nouse
+1-1-1	*/young_$_person/puppy	nouse
+1-1-1	*/young_$_person/blade	nouse
+1-1-1	*/young_$_person/schoolchild/day_$_boarder	nouse
+1-1-1	*/young_$_person/schoolchild/latchkey_$_child	nouse
+1-1-1	*/young_$_person/schoolchild/schoolboy	nouse
+1-1-1	*/young_$_person/schoolchild/boarder	nouse
+1-1-1	*/young_$_person/schoolchild/day_$_boarder/daygirl	nouse
+1-1-1	*/young_$_person/schoolchild/day_$_boarder/dayboy	nouse

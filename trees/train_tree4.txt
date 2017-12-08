@@ -1,0 +1,14 @@
+1-1-1	*/practice	nouse
+1-1-1	*/practice/heritage	nouse
+1-1-1	*/practice/custom	nouse
+1-1-1	*/practice/convention	nouse
+1-1-1	*/practice/custom/habit	nouse
+1-1-1	*/practice/custom/Hadith	nouse
+1-1-1	*/practice/custom/institution	nouse
+1-1-1	*/practice/custom/institution/levirate	nouse
+1-1-1	*/practice/convention/code_$_of_$_conduct	nouse
+1-1-1	*/practice/convention/universal	nouse
+1-1-1	*/practice/convention/mores	nouse
+1-1-1	*/practice/convention/code_$_of_$_conduct/protocol	nouse
+1-1-1	*/practice/convention/code_$_of_$_conduct/courtly_$_love	nouse
+1-1-1	*/practice/convention/code_$_of_$_conduct/knight_$_errantry	nouse

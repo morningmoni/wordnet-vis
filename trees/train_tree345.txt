@@ -1,0 +1,12 @@
+1-1-1	*/good_$_health	nouse
+1-1-1	*/good_$_health/radiance	nouse
+1-1-1	*/good_$_health/sturdiness	nouse
+1-1-1	*/good_$_health/condition	nouse
+1-1-1	*/good_$_health/wholeness	nouse
+1-1-1	*/good_$_health/bloom	nouse
+1-1-1	*/good_$_health/energy	nouse
+1-1-1	*/good_$_health/freshness	nouse
+1-1-1	*/good_$_health/condition/fitness	nouse
+1-1-1	*/good_$_health/condition/fitness/fettle	nouse
+1-1-1	*/good_$_health/energy/qi	nouse
+1-1-1	*/good_$_health/energy/juice	nouse

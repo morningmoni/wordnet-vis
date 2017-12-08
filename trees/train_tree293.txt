@@ -1,0 +1,15 @@
+1-1-1	*/low_$_explosive	nouse
+1-1-1	*/low_$_explosive/firework	nouse
+1-1-1	*/low_$_explosive/firework/sparkler	nouse
+1-1-1	*/low_$_explosive/firework/torpedo	nouse
+1-1-1	*/low_$_explosive/firework/maroon	nouse
+1-1-1	*/low_$_explosive/firework/skyrocket	nouse
+1-1-1	*/low_$_explosive/firework/Roman_$_candle	nouse
+1-1-1	*/low_$_explosive/firework/firecracker	nouse
+1-1-1	*/low_$_explosive/firework/serpent	nouse
+1-1-1	*/low_$_explosive/firework/squib	nouse
+1-1-1	*/low_$_explosive/firework/fizgig	nouse
+1-1-1	*/low_$_explosive/firework/catherine_$_wheel	nouse
+1-1-1	*/low_$_explosive/firework/firecracker/cherry_$_bomb	nouse
+1-1-1	*/low_$_explosive/firework/firecracker/cannon_$_cracker	nouse
+1-1-1	*/low_$_explosive/firework/firecracker/whizbang	nouse

@@ -1,0 +1,12 @@
+1-1-1	*/coupling	nouse
+1-1-1	*/coupling/universal_$_joint	nouse
+1-1-1	*/coupling/turnbuckle	nouse
+1-1-1	*/coupling/clevis	nouse
+1-1-1	*/coupling/clutch	nouse
+1-1-1	*/coupling/fluid_$_drive	nouse
+1-1-1	*/coupling/swivel	nouse
+1-1-1	*/coupling/clutch/freewheel	nouse
+1-1-1	*/coupling/clutch/friction_$_clutch	nouse
+1-1-1	*/coupling/clutch/friction_$_clutch/disk_$_clutch	nouse
+1-1-1	*/coupling/clutch/friction_$_clutch/cone_$_clutch	nouse
+1-1-1	*/coupling/clutch/friction_$_clutch/slip_$_clutch	nouse

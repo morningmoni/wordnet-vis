@@ -1,0 +1,16 @@
+1-1-1	*/authority	nouse
+1-1-1	*/authority/withdrawer	nouse
+1-1-1	*/authority/upbraider	nouse
+1-1-1	*/authority/civil_$_authority	nouse
+1-1-1	*/authority/authorizer	nouse
+1-1-1	*/authority/mandator	nouse
+1-1-1	*/authority/pasha	nouse
+1-1-1	*/authority/abrogator	nouse
+1-1-1	*/authority/approver	nouse
+1-1-1	*/authority/authority_$_figure	nouse
+1-1-1	*/authority/allocator	nouse
+1-1-1	*/authority/civil_$_authority/mayor	nouse
+1-1-1	*/authority/civil_$_authority/mayor/alcalde	nouse
+1-1-1	*/authority/civil_$_authority/mayor/mayoress	nouse
+1-1-1	*/authority/civil_$_authority/mayor/ex-mayor	nouse
+1-1-1	*/authority/civil_$_authority/mayor/burgomaster	nouse

@@ -1,0 +1,17 @@
+1-1-1	*/mechanical_$_phenomenon	nouse
+1-1-1	*/mechanical_$_phenomenon/inertia	nouse
+1-1-1	*/mechanical_$_phenomenon/trajectory	nouse
+1-1-1	*/mechanical_$_phenomenon/resistance	nouse
+1-1-1	*/mechanical_$_phenomenon/leverage	nouse
+1-1-1	*/mechanical_$_phenomenon/sound	nouse
+1-1-1	*/mechanical_$_phenomenon/inertia/moment_$_of_$_inertia	nouse
+1-1-1	*/mechanical_$_phenomenon/trajectory/gravity-assist	nouse
+1-1-1	*/mechanical_$_phenomenon/trajectory/ballistics	nouse
+1-1-1	*/mechanical_$_phenomenon/resistance/drag	nouse
+1-1-1	*/mechanical_$_phenomenon/resistance/acoustic_$_resistance	nouse
+1-1-1	*/mechanical_$_phenomenon/resistance/friction	nouse
+1-1-1	*/mechanical_$_phenomenon/resistance/drag/sonic_$_barrier	nouse
+1-1-1	*/mechanical_$_phenomenon/resistance/drag/windage	nouse
+1-1-1	*/mechanical_$_phenomenon/resistance/friction/grinding	nouse
+1-1-1	*/mechanical_$_phenomenon/resistance/friction/grip	nouse
+1-1-1	*/mechanical_$_phenomenon/sound/ultrasound	nouse

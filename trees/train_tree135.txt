@@ -1,0 +1,11 @@
+1-1-1	*/originator	nouse
+1-1-1	*/originator/founder	nouse
+1-1-1	*/originator/proposer	nouse
+1-1-1	*/originator/pioneer	nouse
+1-1-1	*/originator/suggester	nouse
+1-1-1	*/originator/founder/foundress	nouse
+1-1-1	*/originator/founder/colonizer	nouse
+1-1-1	*/originator/founder/cofounder	nouse
+1-1-1	*/originator/founder/colonizer/Raleigh	nouse
+1-1-1	*/originator/founder/colonizer/Rhodes	nouse
+1-1-1	*/originator/proposer/nominator	nouse

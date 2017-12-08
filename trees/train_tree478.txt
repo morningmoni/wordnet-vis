@@ -1,0 +1,13 @@
+1-1-1	*/arts_$_and_$_crafts	nouse
+1-1-1	*/arts_$_and_$_crafts/handicraft	nouse
+1-1-1	*/arts_$_and_$_crafts/handicraft/sewing	nouse
+1-1-1	*/arts_$_and_$_crafts/handicraft/bookbinding	nouse
+1-1-1	*/arts_$_and_$_crafts/handicraft/needlework	nouse
+1-1-1	*/arts_$_and_$_crafts/handicraft/knitting	nouse
+1-1-1	*/arts_$_and_$_crafts/handicraft/spinning	nouse
+1-1-1	*/arts_$_and_$_crafts/handicraft/lace_$_making	nouse
+1-1-1	*/arts_$_and_$_crafts/handicraft/crocheting	nouse
+1-1-1	*/arts_$_and_$_crafts/handicraft/weaving	nouse
+1-1-1	*/arts_$_and_$_crafts/handicraft/sewing/blind_$_stitching	nouse
+1-1-1	*/arts_$_and_$_crafts/handicraft/sewing/suturing	nouse
+1-1-1	*/arts_$_and_$_crafts/handicraft/weaving/netting	nouse

@@ -1,0 +1,14 @@
+1-1-1	*/white_$_goods	nouse
+1-1-1	*/white_$_goods/washer	nouse
+1-1-1	*/white_$_goods/clothes_$_dryer	nouse
+1-1-1	*/white_$_goods/refrigerator	nouse
+1-1-1	*/white_$_goods/electric_$_range	nouse
+1-1-1	*/white_$_goods/dishwasher	nouse
+1-1-1	*/white_$_goods/clothes_$_dryer/tumble-dryer	nouse
+1-1-1	*/white_$_goods/clothes_$_dryer/wringer	nouse
+1-1-1	*/white_$_goods/clothes_$_dryer/spin_$_dryer	nouse
+1-1-1	*/white_$_goods/clothes_$_dryer/mangle	nouse
+1-1-1	*/white_$_goods/refrigerator/electric_$_refrigerator	nouse
+1-1-1	*/white_$_goods/refrigerator/cooler	nouse
+1-1-1	*/white_$_goods/refrigerator/electric_$_refrigerator/deep-freeze	nouse
+1-1-1	*/white_$_goods/refrigerator/electric_$_refrigerator/ice_$_machine	nouse

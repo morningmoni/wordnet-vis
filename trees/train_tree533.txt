@@ -1,0 +1,11 @@
+1-1-1	*/litigant	nouse
+1-1-1	*/litigant/defendant	nouse
+1-1-1	*/litigant/plaintiff	nouse
+1-1-1	*/litigant/prevailing_$_party	nouse
+1-1-1	*/litigant/filer	nouse
+1-1-1	*/litigant/appellant	nouse
+1-1-1	*/litigant/defendant/codefendant	nouse
+1-1-1	*/litigant/defendant/accused	nouse
+1-1-1	*/litigant/defendant/codefendant/respondent	nouse
+1-1-1	*/litigant/defendant/codefendant/corespondent	nouse
+1-1-1	*/litigant/plaintiff/suer	nouse

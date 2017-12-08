@@ -1,0 +1,11 @@
+1-1-1	*/immobility	nouse
+1-1-1	*/immobility/inertness	nouse
+1-1-1	*/immobility/immotility	nouse
+1-1-1	*/immobility/immovability	nouse
+1-1-1	*/immobility/immovability/tightness	nouse
+1-1-1	*/immobility/immovability/steadiness	nouse
+1-1-1	*/immobility/immovability/fastness	nouse
+1-1-1	*/immobility/immovability/steadiness/granite	nouse
+1-1-1	*/immobility/immovability/steadiness/sureness	nouse
+1-1-1	*/immobility/immovability/steadiness/stability	nouse
+1-1-1	*/immobility/immovability/fastness/lodgment	nouse

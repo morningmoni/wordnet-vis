@@ -1,0 +1,17 @@
+1-1-1	*/clasp	nouse
+1-1-1	*/clasp/wrestling_$_hold	nouse
+1-1-1	*/clasp/chokehold	nouse
+1-1-1	*/clasp/embrace	nouse
+1-1-1	*/clasp/wrestling_$_hold/scissors	nouse
+1-1-1	*/clasp/wrestling_$_hold/stranglehold	nouse
+1-1-1	*/clasp/wrestling_$_hold/Japanese_$_stranglehold	nouse
+1-1-1	*/clasp/wrestling_$_hold/nelson	nouse
+1-1-1	*/clasp/wrestling_$_hold/bear_$_hug	nouse
+1-1-1	*/clasp/wrestling_$_hold/lock	nouse
+1-1-1	*/clasp/wrestling_$_hold/toehold	nouse
+1-1-1	*/clasp/wrestling_$_hold/nelson/full_$_nelson	nouse
+1-1-1	*/clasp/wrestling_$_hold/nelson/half_$_nelson	nouse
+1-1-1	*/clasp/wrestling_$_hold/lock/headlock	nouse
+1-1-1	*/clasp/wrestling_$_hold/lock/hammerlock	nouse
+1-1-1	*/clasp/embrace/cuddle	nouse
+1-1-1	*/clasp/embrace/hug	nouse
